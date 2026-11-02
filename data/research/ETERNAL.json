@@ -1,0 +1,87 @@
+{
+  "symbol": "ETERNAL",
+  "company": "Eternal Ltd",
+  "about": "About Incorporated in 2010, Eternal Limited (previously Zomato Limited) is one of the leading online Food Service platforms in terms of the value of food sold. Its offerings include food delivery, dining-out services, Loyalty programs, and others. As of December 31, 2020, Eternal has established a strong footprint across 23 countries with 131,233 active food delivery restaurants, 161,637 active delivery partners, and an average monthly food order",
+  "source_page": "https://www.screener.in/company/ETERNAL/consolidated/",
+  "fetched_at": "2026-11-03T02:28:44+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "24,138",
+        "previous": "20,211",
+        "year_ago": "13,590"
+      },
+      "ebitda_proxy": {
+        "current": "752",
+        "previous": "594",
+        "year_ago": "239"
+      },
+      "pbt": {
+        "current": "323",
+        "previous": "272",
+        "year_ago": "129"
+      },
+      "pat": {
+        "current": "125",
+        "previous": "92",
+        "year_ago": "65"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4b6a4218-6bde-4c99-b10c-39ec7553cc42.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e2687a83-7148-436f-9c29-f2d06f912134.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/629bfe24-4e55-4b14-957e-8c8bc5828ff0.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e0e9b68-2d04-41bf-9f59-fb539e330baf.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/543320/74160543320.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 27 Oct - Eternal Limited has filed with exchange transcript of earnings con",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=64f36e3b-87e9-426e-be3e-515dca4525d2.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=faa4f0f7-06e4-4066-9d68-3da95dfe02d9.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=60af607c-5f1b-4d5d-8425-4929efa6aad1.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91f3f29f-c5c0-49b5-b425-a22374bf08ad.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://b.zmtcdn.com/investor-relations/Q3FY26-earnings-call-transcript.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Monitoring Agency Report 21 Oct - ICRA report shows no deviation in Eternal’s QIP proceeds use for q",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0c09b689-969e-4ab5-88db-ab3fa4ea814a.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Restructuring 21 Oct - Board approved Q2 FY26 results, internal restructuring, and Adonmo-Mygate sha",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a0daf632-ab45-41ef-bbc5-bfc655056cbb.pdf"
+    }
+  ]
+}

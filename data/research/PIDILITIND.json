@@ -1,0 +1,91 @@
+{
+  "symbol": "PIDILITIND",
+  "company": "Pidilite Industries Ltd",
+  "about": "About Pidilite Industries Limited is a leading manufacturer of adhesives and sealants, construction chemicals, craftsmen products, DIY products and polymer emulsions in India. Most of the products have been developed through strong in-house R&D. Our brand name Fevicol has become synonymous with adhesives to millions in India and is ranked amongst the most trusted brands in the country. Some of our other major brands are M-Seal, Fevikwik, Fevistik",
+  "source_page": "https://www.screener.in/company/PIDILITIND/consolidated/",
+  "fetched_at": "2026-11-03T02:28:54+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "4,298",
+        "previous": "4,552",
+        "year_ago": "3,554"
+      },
+      "ebitda_proxy": {
+        "current": "877",
+        "previous": "1,194",
+        "year_ago": "850"
+      },
+      "pbt": {
+        "current": "834",
+        "previous": "1,192",
+        "year_ago": "787"
+      },
+      "pat": {
+        "current": "626",
+        "previous": "884",
+        "year_ago": "585"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/84c374a7-10a3-4a3b-8693-cc7e75a0a6b8.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/344b4889-6fa9-4a1f-adc3-d52ce16690b4.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7cc75aa9-8e98-42f3-9d45-a61e93c5574e.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0abfd9ff-247a-4487-9c75-a8068361d4ab.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500331/73708500331.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d811437-b5ad-4bff-8b33-92b5b7032db3.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=badde5e7-23d3-4f3f-8c8f-4075465709a8.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ecbc316a-5f8d-4143-8061-df7980b55a66.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6a2bb53f-48f2-4cc3-ae99-19720542aa0f.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3aab5632-3aec-4667-99eb-ecf9be3c2ca7.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 30 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7679fc5-9d64-49e1-a834-318f1131b07e.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Press Release / Media Release 28 Oct - Pidilite reports Q2FY27 revenue growth 21.7%; EBITDA margin 2",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d5e3d826-457a-4da4-963c-25dc383d0924.pdf"
+    },
+    {
+      "label": "Unaudited Financial Results (Standalone And Consolidated) For The Quarter And Six Months Ended 30Th September, 2026 28 Oct - Pidilite announ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ff55ef96-538a-48b6-bcd3-b079a5fecd1b.pdf"
+    }
+  ]
+}

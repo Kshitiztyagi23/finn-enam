@@ -1,0 +1,95 @@
+{
+  "symbol": "TITAN",
+  "company": "Titan Company Ltd",
+  "about": "About Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1] Key Points Part of the Tata Group [1] [2] The company benefits from its association with the Ta",
+  "source_page": "https://www.screener.in/company/TITAN/consolidated/",
+  "fetched_at": "2026-11-03T02:28:42+05:30",
+  "quarters": {
+    "quarter": "Jun 2026",
+    "values": {
+      "revenue": {
+        "current": "21,356",
+        "previous": "26,920",
+        "year_ago": "16,523"
+      },
+      "ebitda_proxy": {
+        "current": "2,890",
+        "previous": "1,938",
+        "year_ago": "1,830"
+      },
+      "pbt": {
+        "current": "2,429",
+        "previous": "1,577",
+        "year_ago": "1,480"
+      },
+      "pat": {
+        "current": "1,777",
+        "previous": "1,179",
+        "year_ago": "1,091"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e85b157-d3b6-44c8-ab75-4776048dab00.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/92f76ec9-cc9b-4534-ad82-2cbd920a55b7.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/6b841ec3-461e-4368-8fb9-d95df5065e11.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/45417344-b78e-4ff6-8085-7c17a0e906db.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500114/73425500114_05_07_22.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1a3bc0e3-c7ff-4887-a18a-f73fd400e8ca.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0ee5b68b-8f66-4705-9a84-9debaa9aae1d.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e6dc31-44a8-4bae-bea2-9f10e08c8dec.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 28 Oct - Newspaper advertisement regarding loss of share certificate",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f3b9502-95ac-4d8f-832e-175c7ca000df.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Acquisition 28 Oct - Titan incorporated wholly owned subsidiary Titan Company Canada Inc. on 27 Octo",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6a9b9bf7-babc-49c6-86d2-db3cf586ba5c.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 23 Oct - Earnings call for Q2 and half year ended FY 2026-27",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f317d625-e7e4-4155-bf66-a43c7def32b6.pdf"
+    },
+    {
+      "label": "Board Meeting Intimation for Consider And Approve The Unaudited Financial Results For The Quarter Ended 30Th September 2026 20 Oct - Board m",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf"
+    }
+  ]
+}

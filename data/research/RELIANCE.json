@@ -1,0 +1,95 @@
+{
+  "symbol": "RELIANCE",
+  "company": "Reliance Industries Ltd",
+  "about": "About Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate. Key Points Architecture Reliance Industries Limited holds key business stakes, including 66.43% in Jio Platforms (RJIL). Additionally, it maintains an 83.56% ownership each in Reliance Retail Ventures and Reliance Consumer Products, alongside a 59.59% holding in J",
+  "source_page": "https://www.screener.in/company/RELIANCE/consolidated/",
+  "fetched_at": "2026-11-03T02:28:36+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "330,601",
+        "previous": "309,468",
+        "year_ago": "254,623"
+      },
+      "ebitda_proxy": {
+        "current": "56,616",
+        "previous": "47,517",
+        "year_ago": "45,885"
+      },
+      "pbt": {
+        "current": "38,613",
+        "previous": "30,630",
+        "year_ago": "29,124"
+      },
+      "pat": {
+        "current": "29,550",
+        "previous": "23,196",
+        "year_ago": "22,092"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cc08294f-ec68-4f15-aaa4-c14a3c4bdfb2.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/468b09a3-a212-4066-bbaa-4b0ba524d2ce.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/d473280d-1c2b-4037-8ff9-dfbb82aa2c7e.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b55b5dfc-a3bf-4f24-9d7f-ca09774a1dd9.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500325/74185500325.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 1 Nov - Transcript of the discussion on the Unaudited Financial Results (Co",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=971d8c86-397a-4780-b843-5a84d3006d0b.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26290395-526a-441f-a347-c8ac12e4adf3.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2454c0f-aad9-4d23-add0-dfe3d49aa8d6.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 31 Oct - Audio recording of October 30, 2026 analyst meet on Q2 FY",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f665e67-b13f-4624-9278-3f4183d817eb.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Investor Presentation 30 Oct - Please find attached presentation on the Unaudited Financial Results ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Press Release / Media Release 30 Oct - Reliance reported record Q2 FY27 PAT of ₹29,550 crore; Jio Pl",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=aacc5fc7-25e5-4901-b682-d9911fe1d21b.pdf"
+    },
+    {
+      "label": "Unaudited Financial Results (Consolidated And Standalone) For The Quarter And Half Year Ended September 30, 2026. 30 Oct - Board approved Q2",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=880087f6-7ecc-40a9-8cac-de48d4616b25.pdf"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "symbol": "DIXON",
+  "claims": [
+    {
+      "quote": "Our market position, customer engagement and manufacturing capabilities remain intact, and we expect 20% to 25% volume g rowth quarter- on-quarter growth as consumer demand strengthens and we have a strong order book.",
+      "page": 4,
+      "document": "Transcript 1",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+    },
+    {
+      "quote": "Over the past few weeks, supply -demand dynamics are becoming more balanced, and we are beginning to see an improvement in customer ordering pattern, and we expect a high -double- digit growth quarter-on-quarter in the smartphones volume along with growth in selling prices by 12% to 15%.",
+      "page": 4,
+      "document": "Transcript 2",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+    },
+    {
+      "quote": "Construction of our 1 million square feet facility in Noida with higher capacities for our anchor customers is nearing completion, and we expect the operation to commence by Q2 this fiscal.",
+      "page": 5,
+      "document": "Transcript 2",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+    },
+    {
+      "quote": "In the final picture of this business, the revenue target, once we start achieving 80% to 90% of the capacity utilization, the revenue generation is going to be almost INR5,500 crores to INR6,000 crores with a double -digit margin.",
+      "page": 18,
+      "document": "Transcript 2",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+    }
+  ],
+  "method": "Quantitative forward-looking sentences extracted from source transcripts; check speaker and outcome against later filings."
+}

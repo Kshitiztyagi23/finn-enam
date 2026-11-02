@@ -1,0 +1,81 @@
+{
+  "symbol": "BAJFINANCE",
+  "company": "Bajaj Finance Ltd",
+  "about": "About Bajaj Finance is mainly engaged in the business of lending. BFL has a diversified lending portfolio across retail, SME and commercial customers with a significant presence in urban and rural India. It also accepts public and corporate deposits and offers variety of financial services products to its customers.(Source : 202003 Annual Report Page No:124) Key Points Business Overview: [1] The company is India's largest private-sector Non-Banki",
+  "source_page": "https://www.screener.in/company/BAJFINANCE/consolidated/",
+  "fetched_at": "2026-11-03T02:28:40+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "pbt": {
+        "current": "8,537",
+        "previous": "8,149",
+        "year_ago": "6,608"
+      },
+      "pat": {
+        "current": "6,367",
+        "previous": "6,081",
+        "year_ago": "4,948"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a2357f0b-2828-4790-8a02-61064bd1929b.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0670e08f-bc55-4155-9cbe-89e4637b3b05.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/23ae9a75-9bfa-49c2-89e4-5e1ee7a20f8c.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/46404117-5ed9-40e3-9891-2953ee625245.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500034/73448500034.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 23 Oct - Bajaj Finance uploaded Q2 FY27 earnings call transcript a",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7873abcb-7f97-487d-a474-028b0a26feea.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b101e24e-b807-4c74-9025-90009f4b47a5.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a448b6b0-edb5-4b99-a122-d602950310af.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://cms-assets.bajajfinserv.in/is/content/bajajfinance/bajaj-finance-q4-fy26-earnings-conference-call-transcript?scl=1&fmt=pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6eb34dc2-bde9-4df5-8b93-aad3d461140e.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment 30 Oct - Allotted 2,06,950 secured NCDs worth Rs 2,069.501 crore on 30 October 2026.",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20d73044-2322-4d46-883f-67bff54a3b50.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 26 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bd352f0e-ac9c-4c6d-94cd-6b50802c665b.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment 21 Oct - Allotted 2,12,000 secured NCDs worth Rs. 2,120 crore on 21 October 2026, maturing",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5bb76cad-5a8c-42c8-8aa3-6d81edf31bf6.pdf"
+    }
+  ]
+}

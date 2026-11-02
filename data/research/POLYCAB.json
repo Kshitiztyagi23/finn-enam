@@ -1,0 +1,91 @@
+{
+  "symbol": "POLYCAB",
+  "company": "Polycab India Ltd",
+  "about": "About Polycab is India’s leading manufacturers of cables and wires and allied products such as uPVC conduits and lugs and glands. We have a range of cables and wires for practically every application. More recently Polycab has also launched a wide range of consumer electrical products like Fans, Switches, Switchgear, LED lights and Luminaries, Solar Inverters, and Pumps. Key Points Business Segments [1] [2] a) Wires & Cables (87% in FY26 vs 84% i",
+  "source_page": "https://www.screener.in/company/POLYCAB/consolidated/",
+  "fetched_at": "2026-11-03T02:28:46+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "9,899",
+        "previous": "8,210",
+        "year_ago": "6,477"
+      },
+      "ebitda_proxy": {
+        "current": "1,422",
+        "previous": "1,136",
+        "year_ago": "1,021"
+      },
+      "pbt": {
+        "current": "1,306",
+        "previous": "1,058",
+        "year_ago": "921"
+      },
+      "pat": {
+        "current": "990",
+        "previous": "797",
+        "year_ago": "693"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/ff6bcced-1327-449f-8a82-6fd651a0124f.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/82657cf0-b6b8-4b01-bb68-9f477d451107.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/15cfd6ff-d07d-43c9-9a6e-1e27379e210e.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/f7eb069d-805f-4511-bfa1-82c48213554b.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/542652/73173542652.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=77b6d277-0ffc-440d-ba8a-2bd9bc3dc43e.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e47a217c-cefa-4ff6-8e34-6bbd07d42b13.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f66f17ac-c40f-4309-afca-3e66af0956a0.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c54bf2c3-22fa-45e1-bf1a-2194e7b46183.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7a5825e0-67d1-41af-96e0-d78387aaba8d.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation 28 Oct - Polycab to meet William Blair & Company on Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=26cdd582-7e95-4019-88b5-fdff3d5e60e1.pdf"
+    },
+    {
+      "label": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation 27 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cafe2036-e51b-413a-80cd-65e331d170be.pdf"
+    },
+    {
+      "label": "Announcement Under Regulation 30 (LODR) - Analyst(S) / Investor(S) Meet - Intimation 23 Oct - Polycab schedules investor/analyst meetings fr",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a9743040-8809-46d3-85ca-c6ca01bc322a.pdf"
+    }
+  ]
+}

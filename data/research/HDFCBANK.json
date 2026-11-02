@@ -1,0 +1,77 @@
+{
+  "symbol": "HDFCBANK",
+  "company": "HDFC Bank Ltd",
+  "about": "About HDFC Bank Limited (also known as HDFC) is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and the world's tenth-largest bank by market capitalization as of May 2024. As of April 2024, HDFC Bank has a market capitalization of $145 billion, making it the third-largest company on the Indian stock exchanges. [1] Key Points Market Position: The company is India's one o",
+  "source_page": "https://www.screener.in/company/HDFCBANK/consolidated/",
+  "fetched_at": "2026-11-03T02:28:37+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "pbt": {
+        "current": "28,663",
+        "previous": "27,193",
+        "year_ago": "26,659"
+      },
+      "pat": {
+        "current": "21,537",
+        "previous": "20,383",
+        "year_ago": "20,364"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7d621500-082a-4342-b98d-ba677d3890c5.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/411e22d2-0720-4cec-b659-9ccd639f0f1a.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2160dea5-d49e-4409-83a4-c2b111a3bd12.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0fb0e6bd-7110-44c3-a750-76933ddf105c.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500180/73256500180.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 23 Oct - HDFC Bank released Q2 FY27 earnings call transcript on Oc",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d7e45614-ae12-4bb9-b92d-623b3a63f166.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=509cc499-6cb1-4d9f-8de9-9c7de6c70eef.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a77abbbb-954a-4221-8240-67bf0da6ba1c.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=56739132-e21e-4503-aeb6-85f4f53c1244.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e45f8a0-0fe6-40a3-8e5a-51c53713e6f0.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 31 Oct - Mr. Sanjay D’Souza superannuated on October 31, 2026, ceasing as Group",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b36ff756-1cf7-44a3-9b2c-4583e7e0e792.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS 30 Oct - Allotment of 46,75,598 equity shares pursuant to exercise of ESOP/",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38dab330-ca6e-4311-9679-7b47cebb7993.pdf"
+    }
+  ]
+}

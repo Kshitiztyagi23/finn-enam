@@ -1,0 +1,91 @@
+{
+  "symbol": "DIXON",
+  "company": "Dixon Technologies (India) Ltd",
+  "about": "About Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered",
+  "source_page": "https://www.screener.in/company/DIXON/consolidated/",
+  "fetched_at": "2026-11-03T02:28:45+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "21,794",
+        "previous": "15,548",
+        "year_ago": "14,855"
+      },
+      "ebitda_proxy": {
+        "current": "597",
+        "previous": "463",
+        "year_ago": "561"
+      },
+      "pbt": {
+        "current": "532",
+        "previous": "869",
+        "year_ago": "924"
+      },
+      "pat": {
+        "current": "411",
+        "previous": "718",
+        "year_ago": "746"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5ef88e3c-352d-4223-a8ec-bdd7d3aa31c1.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7eabc370-b827-435c-9dd2-8a70553a8062.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/44312065-295c-4d01-ac79-338efd2f98f7.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3d13c3c7-03c7-4af2-b0b6-2a6a1af5d417.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/540699/74024540699.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7ce2ca16-3043-48f4-97f9-a62a6a086c2f.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ad6e72f1-b5f8-4a75-8e45-f2e88c7525e0.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95dbb3ac-5662-4cd9-a145-78effb6c373c.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fe83e870-4ca3-462a-addd-5c85ec513959.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 31 Oct - Announcement under Regulation 30 of SEBI LODR- Copy of Newspaper publ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2336e442-6dfb-4af9-81c4-09a8770d2c94.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 30 Oct - Audio recording of Dixon’s Q2 FY2027 results conference c",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=082ec2fb-f975-4058-aadb-d27d3e69a02d.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 30 Oct - Dixon Q2 FY26 revenue rose 42% to Rs 21,863 crore; board appointed Pri",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=53529778-f611-4f21-b789-0bc1bf52e7e5.pdf"
+    }
+  ]
+}

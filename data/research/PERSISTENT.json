@@ -1,0 +1,95 @@
+{
+  "symbol": "PERSISTENT",
+  "company": "Persistent Systems Ltd",
+  "about": "About Persistent Systems provides software engineering and strategy services to help companies implement and modernize their businesses. It has its own software and frameworks with pre-built integration and acceleration [1] . It also has partnership with providers such as Salesforce and AWS [2] . Key Points Solutions Offered [1] [2] {# The company is a global digital services and solutions provider specializing in AI-led, platform-driven digital ",
+  "source_page": "https://www.screener.in/company/PERSISTENT/consolidated/",
+  "fetched_at": "2026-11-03T02:28:49+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "4,664",
+        "previous": "4,303",
+        "year_ago": "3,581"
+      },
+      "ebitda_proxy": {
+        "current": "633",
+        "previous": "697",
+        "year_ago": "683"
+      },
+      "pbt": {
+        "current": "454",
+        "previous": "623",
+        "year_ago": "617"
+      },
+      "pat": {
+        "current": "352",
+        "previous": "483",
+        "year_ago": "471"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2aa02df7-243d-4455-afba-6c149c763f01.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/659e0149-a77e-46a1-adab-05e676fe9996.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/8419d162-e08b-450a-b37b-660fe25e7e7b.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/65a9cb2d-d65d-4c9e-8e62-ed47cfea9b8f.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/533179/73286533179_13_07_22.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 23 Oct - The Transcript of the investor/analyst call held on Thursday, Octo",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b1c49752-0908-4750-9177-398a60654630.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.persistent.com/wp-content/uploads/2026/04/Analyst-Call-Transcript-Q4FY26.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b68ef2b0-b285-4696-8c08-e3bb58039b0e.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f38819d8-e17e-417b-960f-c192b4d17af5.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 26 Oct - Persistent allotted 7,683,981 shares via QIP at ₹5,550, raising ₹42,646.09 ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4491cbf4-b27c-45f2-a905-1220b80dec9c.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment 26 Oct - Allotted 76.84 lakh shares at ₹5,550 each, raising ₹4,264.6 crore in QIP.",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b633b6e5-f968-461c-b8f1-2ac155afc384.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 26 Oct - Persistent approved QIP closure and allocation of 7,683,981 shares at ₹5,55",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3ba2a8b-279a-4e0f-9ee8-c99ca501552b.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Credit Rating 22 Oct - ICRA continued Persistent's AA+ issuer rating, assigned A1+ CP 1,000 crore an",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d500e04f-fe02-4b5c-923a-0275b18f6044.pdf"
+    }
+  ]
+}

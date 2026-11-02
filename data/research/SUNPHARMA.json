@@ -1,0 +1,83 @@
+{
+  "symbol": "SUNPHARMA",
+  "company": "Sun Pharmaceutical Industries Ltd",
+  "about": "About Sun Pharmaceutical Industries Ltd is engaged in the business of manufacturing, developing and marketing a wide range of branded and generic formulations and Active Pharma Ingredients (APIs). The company and its subsidiaries has various manufacturing facilities spread across the world with trading and other incidental and related activities extending to global market. [1] It is the largest pharmaceutical company in India. [2] Key Points Prod",
+  "source_page": "https://www.screener.in/company/SUNPHARMA/consolidated/",
+  "fetched_at": "2026-11-03T02:28:41+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "16,199",
+        "previous": "15,300",
+        "year_ago": "14,478"
+      },
+      "ebitda_proxy": {
+        "current": "4,744",
+        "previous": "4,418",
+        "year_ago": "4,527"
+      },
+      "pbt": {
+        "current": "3,159",
+        "previous": "4,099",
+        "year_ago": "4,168"
+      },
+      "pat": {
+        "current": "1,995",
+        "previous": "2,901",
+        "year_ago": "3,125"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb65dea5-416a-4f98-95e2-0b58761b7442.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/511405ab-48e8-4d89-84af-aaa2e083e816.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/a1e3c7fc-c47e-4ce8-ad92-b4affd2a9cf8.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/981e6db0-ea49-40ad-b906-7f924d264765.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/524715/74133524715.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=34be7c92-1d9f-4010-ba30-2344c959bc5e.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=287022b2-8de5-487d-8d0d-77b819ee3eb4.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=293c1789-7308-4864-982a-192b016de087.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1082d0ab-d6fb-40f5-873e-d7301397cd05.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=97dcb020-6882-4de1-8e04-97d06256d293.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 31 Oct - Newspaper publication for unaudited financial results for the quarter",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9ce2ef60-0b4f-44dc-a3a0-435c1066af80.pdf"
+    }
+  ]
+}

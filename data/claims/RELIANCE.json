@@ -1,0 +1,12 @@
+{
+  "symbol": "RELIANCE",
+  "claims": [
+    {
+      "quote": "We are already at 3.3 million, 20% growth over 23% growth over last year, and this is again target is to get to 4 to 5 million options pretty quickly.",
+      "page": 11,
+      "document": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript…",
+      "source_url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e997741-4d35-4188-933a-cf020fb9c816.pdf"
+    }
+  ],
+  "method": "Quantitative forward-looking sentences extracted from source transcripts; check speaker and outcome against later filings."
+}

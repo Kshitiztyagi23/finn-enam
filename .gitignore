@@ -1,0 +1,11 @@
+.vendor/
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.opt-expiry-cache/
+cookies.txt
+.env
+1. ENAM_AI_Engineer_Build_Challenge_Main.pdf
+2. ENAM_AI_Engineer_Build_Challenge_Reference.pdf
+

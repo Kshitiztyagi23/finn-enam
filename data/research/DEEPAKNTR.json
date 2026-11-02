@@ -1,0 +1,83 @@
+{
+  "symbol": "DEEPAKNTR",
+  "company": "Deepak Nitrite Ltd",
+  "about": "About Incorporated in 1970, Deepak Nitrite Ltd manufactures Basic Intermediates, Fine & Speciality Chemicals, Performance Products, and Phenolics [1] Key Points Business Segments: [1] The company is one of the fastest growing chemical intermediates companies in India with a portfolio of 36+ products and 56+ applications, divided into 2 segments: a) Phenolics (68% in FY26 vs 70% in FY25): [2] [3] [4] The company produces Cumene, Phenol, Acetone, I",
+  "source_page": "https://www.screener.in/company/DEEPAKNTR/consolidated/",
+  "fetched_at": "2026-11-03T02:28:50+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "3,076",
+        "previous": "2,578",
+        "year_ago": "1,902"
+      },
+      "ebitda_proxy": {
+        "current": "627",
+        "previous": "540",
+        "year_ago": "204"
+      },
+      "pbt": {
+        "current": "543",
+        "previous": "468",
+        "year_ago": "163"
+      },
+      "pat": {
+        "current": "398",
+        "previous": "345",
+        "year_ago": "119"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e9576f6d-6ec3-4f36-b0e0-2af594782e65.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b98232b9-c32a-4a66-9523-93930a6c919c.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/c5ece091-ab73-49aa-9632-b0707bb1f68b.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/e14a0e1f-9642-42dc-acde-ef7bbd9b2cf2.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/506401/73650506401.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=830edde9-d00b-4243-98bd-a0e7c77d716b.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=589629dc-be30-42d5-8ed4-bb605071a9bc.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5fe2e422-45bb-44a8-a6e2-c9677c942a8d.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5cea937b-ae35-415f-bec1-eb4943130e05.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d05d3504-5f9c-46a1-8266-f4e2d6e5aa89.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Board Meeting Intimation for Consideration Of Un-Audited Financial Results For The Quarter And Half Year Ended 30Th September, 2026. 15 Oct ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b07f062f-57c7-4fa7-ac53-6daa1758ab26.pdf"
+    }
+  ]
+}

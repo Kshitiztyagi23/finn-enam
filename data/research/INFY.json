@@ -1,0 +1,83 @@
+{
+  "symbol": "INFY",
+  "company": "Infosys Ltd",
+  "about": "About Infosys Ltd provides consulting, technology, outsourcing and next-generation digital services to enable clients to execute strategies for their digital transformation. [1] It is the 2nd largest Information Technology company in India behind TCS. [2] Key Points Digital Services: It comprises of services and solution offerings of the group that enables clients to transform their businesses. It includes offerings that enhance customer experien",
+  "source_page": "https://www.screener.in/company/INFY/consolidated/",
+  "fetched_at": "2026-11-03T02:28:38+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "49,244",
+        "previous": "48,211",
+        "year_ago": "44,490"
+      },
+      "ebitda_proxy": {
+        "current": "11,689",
+        "previous": "11,409",
+        "year_ago": "10,535"
+      },
+      "pbt": {
+        "current": "11,063",
+        "previous": "11,028",
+        "year_ago": "10,229"
+      },
+      "pat": {
+        "current": "7,838",
+        "previous": "7,775",
+        "year_ago": "7,375"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/19dd605c-2b6b-4084-8dca-9d578a3eb7a0.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4527f4d2-dac4-4528-a1dc-5070fd9e140d.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/25cc7fbc-154b-4463-928d-c95f2d8c5c9c.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3ba3c011-0411-49ba-a250-f746a5b9d940.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500209/73015500209_29_06_22.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 28 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7982fc61-7765-4981-ab3d-6aec36ba2137.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ab7badf-388c-4dab-bfcc-3e128677734c.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b4632b94-2a41-4103-876d-cdb1f6848d64.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=373b3501-e2a7-4ba4-bdd1-83f6bc21c25c.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 29 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0335049c-de81-4e49-b02a-5887dfa42644.pdf"
+    }
+  ]
+}

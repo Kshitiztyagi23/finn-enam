@@ -1,0 +1,95 @@
+{
+  "symbol": "KPITTECH",
+  "company": "KPIT Technologies Ltd",
+  "about": "About KPIT is a global technology company with software solutions that will help mobility leapfrog towards autonomous, clean, smart and connected future. With 13000+ Automobelievers across the globe, specializing in embedded software, AI & Digital solutions, KPIT enables customers accelerate implementation of next generation mobility technologies . With development centers in Europe, USA, Japan, China, Thailand and India [1] Key Points Service Po",
+  "source_page": "https://www.screener.in/company/KPITTECH/consolidated/",
+  "fetched_at": "2026-11-03T02:28:48+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "1,691",
+        "previous": "1,675",
+        "year_ago": "1,588"
+      },
+      "ebitda_proxy": {
+        "current": "267",
+        "previous": "257",
+        "year_ago": "298"
+      },
+      "pbt": {
+        "current": "168",
+        "previous": "160",
+        "year_ago": "231"
+      },
+      "pat": {
+        "current": "121",
+        "previous": "116",
+        "year_ago": "169"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/4d2467e3-e28a-472b-8492-7fd9e46e63c4.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0e6d2634-be8b-41d7-93c4-9b3fd8b78107.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/2adfaf3e-928d-457f-af6f-aa7ae7130b36.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/1e8d9403-e472-4763-bfcf-c8c528083557.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/542651/73972542651.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d07f9c52-5c5a-443b-b239-6acd5e94b97a.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70c85b6c-58e6-423f-9b32-50b17a948674.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a574a9b4-2ec3-4418-afd7-7deb13264328.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bcf7302f-a4b8-4d59-8914-f53018acd102.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c0d90bb9-9e31-4b03-92ba-0df108f5a9b8.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Cessation 31 Oct - Prof. Rajiv Lal ceased as Independent Director on October 31, 2026, after complet",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ef51f1d4-0f28-478d-ba24-ea772334daa8.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 29 Oct - Newspaper advertisement regarding Unaudited Consolidated Financial Re",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ec12024a-306f-4e5e-b516-cfda480e7093.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 28 Oct - Audio recording of KPIT Technologies' October 28, 2026 po",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=177db96b-825d-4e30-8988-d4cbba3cf92d.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 28 Oct - Board approved Q2 FY27 results, Vietnam subsidiary incorporation, UK s",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86d68230-8e70-43c7-abb0-ebaf541aeaa8.pdf"
+    }
+  ]
+}

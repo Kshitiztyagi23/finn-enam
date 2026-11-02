@@ -1,0 +1,91 @@
+{
+  "symbol": "LT",
+  "company": "Larsen & Toubro Ltd",
+  "about": "About Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets. [1] Key Points Business Segments [1] a) Infrastructure Projects (47% in FY26 vs 51% in FY25): [2] The segment undertak",
+  "source_page": "https://www.screener.in/company/LT/consolidated/",
+  "fetched_at": "2026-11-03T02:28:39+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "78,750",
+        "previous": "67,942",
+        "year_ago": "67,984"
+      },
+      "ebitda_proxy": {
+        "current": "8,814",
+        "previous": "8,149",
+        "year_ago": "8,513"
+      },
+      "pbt": {
+        "current": "7,641",
+        "previous": "6,922",
+        "year_ago": "6,336"
+      },
+      "pat": {
+        "current": "5,949",
+        "previous": "4,988",
+        "year_ago": "4,678"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/825f9859-e7f2-4e90-8583-01a38850f795.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/63959ce8-b641-4bd4-9a62-43ab52301856.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/b59765b4-ed42-48bd-afad-7caa4417d85d.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cb93406e-57ff-4d53-b6cc-41a58cb89fd1.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/500510/73655500510.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 2 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8a69245-c1f1-4bc3-a7c9-9dbc5795aae8.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q4%20FY26%20Earnings%20Call%20Transcript.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Transcript%20Q3FY26.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s) 2 Nov - L&T wins significant residential and commerci",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86cb66bf-7e97-4d77-a803-40ae7750d8f2.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 28 Oct - Intimation to Stock Exchanges regarding publication of Financial Resu",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=498df898-abfc-4569-b288-56622aa74bef.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 27 Oct - L&T uploaded Q2/H1 FY27 earnings call audio recording on ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0e4c11c6-4c96-42c0-ac94-b2cb928c4f4f.pdf"
+    }
+  ]
+}

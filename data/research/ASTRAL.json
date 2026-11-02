@@ -1,0 +1,91 @@
+{
+  "symbol": "ASTRAL",
+  "company": "Astral Ltd",
+  "about": "About Astral Poly Technik Ltd was established in 1996, with the aim to manufacture pro-India plumbing and drainage systems in the country. The company is into manufacturing of Pipes, water tanks, bathware, specialised valves, paints, adhesives and sealants, infrastructure solutions, specialised fittings and construction chemicals. [1] Key Points Business Segments: a) Plumbing (71% in FY26 vs 73% in FY24): [1] The company offers PVC, CPVC and lead",
+  "source_page": "https://www.screener.in/company/ASTRAL/consolidated/",
+  "fetched_at": "2026-11-03T02:28:53+05:30",
+  "quarters": {
+    "quarter": "Jun 2026",
+    "values": {
+      "revenue": {
+        "current": "1,578",
+        "previous": "2,088",
+        "year_ago": "1,361"
+      },
+      "ebitda_proxy": {
+        "current": "231",
+        "previous": "383",
+        "year_ago": "185"
+      },
+      "pbt": {
+        "current": "163",
+        "previous": "297",
+        "year_ago": "110"
+      },
+      "pat": {
+        "current": "120",
+        "previous": "213",
+        "year_ago": "79"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/5772a6ee-bd33-47d5-bbd1-85b269bd26c3.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/78a2a99f-5d2e-4692-b054-43192a2fc329.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/455e935e-98ba-4ef9-bd54-c293a46bab7c.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/aa9741a9-f026-474d-9169-5be6f7a1a073.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/532830/74164532830.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.astralltd.com/wp-content/uploads/2026/08/Equirus-Astral-Aug12-2026-1.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.astralltd.com/wp-content/uploads/2026/05/Analysts-Meet-2026-Transcript.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/ASTRAL_05022026201047_Earning_Call.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.astralltd.com/wp-content/uploads/2025/11/Transcript.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.astralltd.com/wp-content/uploads/2025/08/Transcript-of-Earning-Call-held-on-12th-August-2025.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 31 Oct - Astral schedules earnings call on 5 November 2026 for ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2684ff83-e0e0-41ce-bcd0-935a714cf850.pdf"
+    },
+    {
+      "label": "Board Meeting Intimation for To Consider And Approve The Unaudited Financial Results (Standalone And Consolidated) Of The Company For The Se",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f1205bc-a6f9-4dc6-85af-eed6f74e9dc5.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 24 Sep - Astral Ltd to attend Arihant Capital Bharat Connect vi",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=43145b9e-c1dd-4af0-870c-504589044d46.pdf"
+    }
+  ]
+}

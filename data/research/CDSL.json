@@ -1,0 +1,91 @@
+{
+  "symbol": "CDSL",
+  "company": "Central Depository Services (India) Ltd",
+  "about": "About Central Depository Services Limited is a Market Infrastructure Institution (MII), part of the capital market structure, providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and investors. It is a facilitator for holding of securities in the dematerialised form and an enabler for securities transactions. [1] Key Points Business Overview: CDSL facilitates holding and transact",
+  "source_page": "https://www.screener.in/company/CDSL/consolidated/",
+  "fetched_at": "2026-11-03T02:28:49+05:30",
+  "quarters": {
+    "quarter": "Sep 2026",
+    "values": {
+      "revenue": {
+        "current": "394",
+        "previous": "293",
+        "year_ago": "319"
+      },
+      "ebitda_proxy": {
+        "current": "228",
+        "previous": "138",
+        "year_ago": "176"
+      },
+      "pbt": {
+        "current": "230",
+        "previous": "167",
+        "year_ago": "183"
+      },
+      "pat": {
+        "current": "173",
+        "previous": "118",
+        "year_ago": "140"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://archives.nseindia.com/annual_reports/AR_29665_CDSL_2025_2026_A_15773086_08072026190152.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://archives.nseindia.com/annual_reports/AR_27085_CDSL_2024_2025_A_23072025183612.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://archives.nseindia.com/annual_reports/AR_24667_CDSL_2023_2024_2607202411473.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://archives.nseindia.com/annual_reports/AR_22694_CDSL_2022_2023_08082023182850.zip"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://archives.nseindia.com/annual_reports/AR_21450_CDSL_2021_2022_06092022122308.zip"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_07082026155803_NSEintimationtranscript.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_07052026193244_NSEintimationtranscript_Sign.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_06022026152040_NSEintimationtranscriptSigned.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_06112025192633_NSEintimationtranscript_03112025_Signed.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_01082025164114_NSEIntimationConcallTranscript.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Copy of Newspaper Publication 1 Nov - Published audited Q2 and H1 FY2026 financial results on November 1, 2026.",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_01112026143902_Newspaper_31102026_Final_Signed.pdf"
+    },
+    {
+      "label": "Analysts/Institutional Investor Meet/Con. Call Updates 31 Oct - CDSL released Q2 and H1 FY2026-27 investor presentation ahead of November 2 ",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026155542_CDSL_InvestorPresentation_Signed.pdf"
+    },
+    {
+      "label": "Press Release 31 Oct - CDSL reported Q2FY27 results; consolidated income rose 22% and net profit 24% year-on-year.",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_31102026142410_Press_release_Signed.pdf"
+    }
+  ]
+}

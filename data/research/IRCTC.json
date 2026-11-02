@@ -1,0 +1,91 @@
+{
+  "symbol": "IRCTC",
+  "company": "Indian Railway Catering & Tourism Corporation Ltd",
+  "about": "About Incorporated in 1999, IRCTC is a Navratna (Category 1, Central Public Sector Enterprises ) and the only company authorized by the Indian government to provide online railway tickets, catering services, and packaged drinking water at railway stations and trains in India [1] Key Points Overview IRCTC is a 'NavRatna' Central Public Sector Enterprise under the Ministry of Railways, GOI, engaged in hospitality, travel, and tourism. In July 2024,",
+  "source_page": "https://www.screener.in/company/IRCTC/consolidated/",
+  "fetched_at": "2026-11-03T02:28:51+05:30",
+  "quarters": {
+    "quarter": "Jun 2026",
+    "values": {
+      "revenue": {
+        "current": "1,370",
+        "previous": "1,460",
+        "year_ago": "1,160"
+      },
+      "ebitda_proxy": {
+        "current": "387",
+        "previous": "399",
+        "year_ago": "397"
+      },
+      "pbt": {
+        "current": "442",
+        "previous": "447",
+        "year_ago": "442"
+      },
+      "pat": {
+        "current": "330",
+        "previous": "326",
+        "year_ago": "331"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/677a48a0-7237-4f0c-bb99-06c3edfb1d4c.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/0f308951-ede2-47e2-a259-2695355d2ef4.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/fdc59c22-152c-4d71-9bfb-65166a8dbe5b.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/cf716791-aa6e-4131-8a84-706f16e4b970.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/542830/74028542830.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=87a3947a-975c-43aa-b153-218d6518615c.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0b914f14-22d6-44be-b3bb-8d31b83e4499.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cfad47d-e4a8-47fe-a883-38462f3036c3.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2ce0acc5-6b05-46de-9e10-a8c90fd96325.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ab8bd110-7b37-4135-a173-0d2583128e77.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 19 Oct - IRCTC senior manager Suresh Kumar Sharma repatriated on request, ceasi",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5d46695c-4996-4b8f-aa8d-1fb80280d8f1.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Press Release / Media Release 15 Oct - IRCTC signs MoU with QCI for digital third-party food safety ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7d3fb6ec-4135-426a-b75f-f391493daa44.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 15 Oct - Shri Raj Kumar Verma joined IRCTC as Group General Manager on 15 Octob",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=efea3641-beb0-497c-b395-df71da0c1896.pdf"
+    }
+  ]
+}

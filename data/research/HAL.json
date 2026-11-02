@@ -1,0 +1,95 @@
+{
+  "symbol": "HAL",
+  "company": "Hindustan Aeronautics Ltd",
+  "about": "About Hindustan Aeronautics Ltd (HAL), a 71.64% Government-owned Maha-Ratna CPSE, designs, manufactures, upgrades and provides lifecycle MRO for aircraft, helicopters, aero -engines, avionics /accessories and aerostructures, principally for India’s armed forces. [1] Key Points Business Segments 1) Manufacturing The five-complex model covers: 1) Fixed-wing aircraft: LCA Tejas, Su-30MKI, Do/Hindustan-228, HTT-40 and legacy fleets 2) ⁠Helicopters: A",
+  "source_page": "https://www.screener.in/company/HAL/consolidated/",
+  "fetched_at": "2026-11-03T02:28:47+05:30",
+  "quarters": {
+    "quarter": "Jun 2026",
+    "values": {
+      "revenue": {
+        "current": "5,515",
+        "previous": "13,942",
+        "year_ago": "4,819"
+      },
+      "ebitda_proxy": {
+        "current": "1,527",
+        "previous": "5,059",
+        "year_ago": "1,282"
+      },
+      "pbt": {
+        "current": "2,134",
+        "previous": "5,584",
+        "year_ago": "1,854"
+      },
+      "pat": {
+        "current": "1,590",
+        "previous": "4,196",
+        "year_ago": "1,384"
+      }
+    },
+    "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
+  },
+  "annual_reports": [
+    {
+      "label": "Annual Report 2026",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/3acba06e-38a8-4dd8-8524-1875087acd5b.pdf"
+    },
+    {
+      "label": "Annual Report 2025",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/425a7379-6556-41a7-8edf-41b26574a53e.pdf"
+    },
+    {
+      "label": "Annual Report 2024",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/7e7c2a0a-f366-4aff-8d47-0818d45fae58.pdf"
+    },
+    {
+      "label": "Annual Report 2023",
+      "url": "https://www.bseindia.com/xml-data/corpfiling/AttachHis/89b72e9c-4ab7-474f-bbbc-6238b2a832ce.pdf"
+    },
+    {
+      "label": "Annual Report 2022",
+      "url": "https://www.bseindia.com/bseplus/AnnualReport/541154/74651541154.pdf"
+    }
+  ],
+  "transcripts": [
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=344500e7-2fff-4cc6-a792-c4693e0340f6.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=94da53ef-52aa-4fdd-8cc2-9dcf291a112d.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7425b322-7f3d-4b7c-bc63-a61673475a4f.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2560c6fe-eba7-48fd-85e2-8458df6f6b4d.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fecf3e40-6c9d-4907-9d62-fbc852c6f8fa.pdf"
+    }
+  ],
+  "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 28 Oct - HAL appointed P B Rangarao as Director (Operations) from 28 Oct 2026;",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbad9087-72a3-4ba2-a5e9-dd6d9d405981.pdf"
+    },
+    {
+      "label": "Board Meeting Intimation for Considering The Audited Financial Results For The Period Ended 30.09.2026 27 Oct - HAL board to meet on 12 Nove",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4dbcb5e9-2a42-4aca-8bea-6866b4f0f9b8.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 7 Oct - HAL appointed Anindya Biswas as Government Nominee Director from 7 Oct",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4fa70d2-bab3-4652-995d-4727e34503b0.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Acquisition 2 Oct - HAL will acquire CAE Canada's 50% stake in HATSOFF for nil consideration, making",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=70bc729d-e921-4367-9add-cb9cdb5162fc.pdf"
+    }
+  ]
+}
