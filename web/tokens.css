@@ -1,5 +1,5 @@
 :root {
-  color-scheme: light;
+  color-scheme: light dark;
   --space-3xs: 2px; --space-2xs: 4px; --space-xs: 8px; --space-sm: 12px; --space-md: 16px; --space-lg: 24px; --space-xl: 40px; --space-2xl: 64px; --space-3xl: 96px; --space-4xl: 144px;
   --text-xs: 0.75rem; --text-sm: 0.875rem; --text-md: 1rem; --text-lg: 1.2rem; --text-xl: 1.44rem; --text-2xl: 1.728rem; --text-3xl: 2.074rem;
   --text-display-s: 1.44rem; --text-display: 1.728rem; --text-section: 1.2rem; --text-title: 1rem; --text-lead: 1rem;
@@ -13,9 +13,43 @@
   --color-rule: oklch(73% 0.013 240); --color-rule-2: oklch(32% 0.018 240);
   --color-accent: oklch(45% 0.180 350); --color-accent-2: oklch(37% 0.160 350); --color-accent-ink: oklch(97% 0.006 245); --color-focus: oklch(46% 0.190 350);
   --color-sheet: oklch(93.5% 0.008 245);
+  --color-verdict-delivered: oklch(50% 0.12 150); --color-verdict-delivered-ink: oklch(96% 0.012 150);
+  --color-verdict-partial: oklch(60% 0.14 70); --color-verdict-partial-ink: oklch(96% 0.012 70);
+  --color-verdict-missed: oklch(52% 0.19 27); --color-verdict-missed-ink: oklch(96% 0.012 27);
+  --color-verdict-pending: oklch(45% 0.014 245); --color-verdict-pending-ink: oklch(94% 0.008 245);
   --font-display: "Hanken Grotesk", ui-sans-serif, system-ui, sans-serif;
   --font-body: "Newsreader", ui-serif, Georgia, serif;
   --font-outlier: "IBM Plex Mono", ui-monospace, monospace;
   --radius-card: 0; --radius-pill: 2px; --rule-hair: 1px; --rule-bar: 2px; --shadow-card: none;
   --tracking-display: -0.02em; --display-weight: 600;
+}
+
+:root[data-theme="dark"], :root[data-theme="auto"] {
+  color-scheme: dark;
+  --color-sheet: oklch(16% 0.010 245);
+  --color-paper: oklch(22% 0.012 245); --color-paper-2: oklch(25% 0.013 245); --color-paper-3: oklch(28% 0.013 245);
+  --color-ink: oklch(94% 0.008 245); --color-ink-2: oklch(86% 0.010 245); --color-muted: oklch(68% 0.012 245);
+  --color-rule: oklch(34% 0.012 240); --color-rule-2: oklch(44% 0.014 240);
+  --color-accent: oklch(72% 0.165 350); --color-accent-2: oklch(80% 0.150 350); --color-accent-ink: oklch(14% 0.020 245); --color-focus: oklch(74% 0.170 350);
+  --color-success: oklch(72% 0.14 150); --color-error: oklch(72% 0.16 27);
+  --color-verdict-delivered: oklch(72% 0.14 150); --color-verdict-delivered-ink: oklch(14% 0.015 150);
+  --color-verdict-partial: oklch(80% 0.14 70); --color-verdict-partial-ink: oklch(16% 0.016 70);
+  --color-verdict-missed: oklch(72% 0.16 27); --color-verdict-missed-ink: oklch(14% 0.016 27);
+  --color-verdict-pending: oklch(68% 0.012 245); --color-verdict-pending-ink: oklch(16% 0.012 245);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --color-sheet: oklch(16% 0.010 245);
+    --color-paper: oklch(22% 0.012 245); --color-paper-2: oklch(25% 0.013 245); --color-paper-3: oklch(28% 0.013 245);
+    --color-ink: oklch(94% 0.008 245); --color-ink-2: oklch(86% 0.010 245); --color-muted: oklch(68% 0.012 245);
+    --color-rule: oklch(34% 0.012 240); --color-rule-2: oklch(44% 0.014 240);
+    --color-accent: oklch(72% 0.165 350); --color-accent-2: oklch(80% 0.150 350); --color-accent-ink: oklch(14% 0.020 245); --color-focus: oklch(74% 0.170 350);
+    --color-success: oklch(72% 0.14 150); --color-error: oklch(72% 0.16 27);
+    --color-verdict-delivered: oklch(72% 0.14 150); --color-verdict-delivered-ink: oklch(14% 0.015 150);
+    --color-verdict-partial: oklch(80% 0.14 70); --color-verdict-partial-ink: oklch(16% 0.016 70);
+    --color-verdict-missed: oklch(72% 0.16 27); --color-verdict-missed-ink: oklch(14% 0.016 27);
+    --color-verdict-pending: oklch(68% 0.012 245); --color-verdict-pending-ink: oklch(16% 0.012 245);
+  }
 }

@@ -10,6 +10,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/static/finn.css">
+  <script>(function(){try{var t=localStorage.getItem("finn-theme");document.documentElement.setAttribute("data-theme",t==="dark"?"dark":"light");}catch(e){document.documentElement.setAttribute("data-theme","light");}})();</script>
   <script src="/static/finn.js" defer></script>
   <title>FINN | Portfolio filing desk</title>
 </head>
@@ -31,6 +32,7 @@
         <button type="button" data-view="signals">Signals</button>
       </nav>
       <span class="header-status" id="header-status">Loading data</span>
+      <button type="button" id="theme-toggle" class="theme-toggle" aria-label="Toggle colour theme" title="Toggle colour theme"><span data-theme-icon="light" aria-hidden="true">◐</span><span data-theme-icon="dark" aria-hidden="true" hidden>◑</span></button>
     </div>
   </header>
   <main id="main">
@@ -41,7 +43,7 @@
         <div class="edition"><time id="brief-date">Loading snapshot</time><span id="brief-context">Your companies</span></div>
       </div>
       <div class="brief-toolbar"><div class="filter-group" role="group" aria-label="Brief period"><button type="button" data-brief-days="1" class="active" aria-pressed="true">24 hours</button><button type="button" data-brief-days="7" aria-pressed="false">7 days</button></div><span>Window ends at snapshot time</span></div>
-      <div id="lead-story" aria-live="polite"><div class="loading-state">Preparing your brief…</div></div>
+      <div id="lead-story" aria-live="polite"><div class="skeleton-lead" aria-busy="true" aria-label="Loading your brief"><span class="sk-tag"></span><span class="sk-headline"></span><span class="sk-headline sk-headline-2"></span><span class="sk-line"></span><span class="sk-line sk-line-2"></span><span class="sk-line sk-line-3"></span></div></div>
       <div class="section-heading"><h2>More developments</h2><span id="next-count"></span></div>
       <div id="next-stories"></div>
       <button type="button" id="brief-show-all" class="text-button brief-more" hidden>Show all developments</button>

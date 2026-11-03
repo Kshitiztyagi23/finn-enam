@@ -228,10 +228,22 @@ function renderArchive() {
   byId("load-more").textContent = `Show more filings (${items.length - shown.length} left)`;
 }
 function n(value) { if (value == null || String(value).trim() === "") return null; const x = Number(String(value).replaceAll(",", "")); return Number.isFinite(x) ? x : null; }
+function fmtNum(value) {
+  if (value == null) return "—";
+  const abs = Math.abs(value);
+  const digits = abs >= 100 ? 0 : abs >= 10 ? 1 : 2;
+  return value.toLocaleString("en-IN", { minimumFractionDigits: digits, maximumFractionDigits: digits });
+}
 function delta(current, previous) {
   if (current === null || previous === null || !previous) return "—";
   const value = (current / previous - 1) * 100;
   return `<span class="${value >= 0 ? "positive" : "negative"}">${value > 0 ? "+" : ""}${value.toFixed(1)}%</span>`;
+}
+const VERDICT_GLYPH = { delivered: "▲", partial: "◆", missed: "■", pending: "●" };
+function verdictChip(verdict, label) {
+  const key = (verdict || "pending").toLowerCase();
+  const glyph = VERDICT_GLYPH[key] || VERDICT_GLYPH.pending;
+  return `<span class="verdict-chip verdict-${esc(key)}"><span class="glyph" aria-hidden="true">${glyph}</span>${esc(label)}</span>`;
 }
 function documentGroup(title, items) {
   return `<details class="document-group"><summary>${esc(title)} <span>${items?.length || 0} documents</span></summary><div class="document-links">${items?.length ? items.map(x => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.label)}</a>`).join("") : "<p>No documents found.</p>"}</div></details>`;
@@ -272,13 +284,14 @@ function renderResearch(data, evidence) {
   document.querySelector(".try-line").hidden = true;
   const rows = evidence.results?.rows || [];
   const verified = !!evidence.results;
-  const results = rows.length ? `<table class="results-table"><thead><tr><th>${esc(evidence.results.unit || "₹ crore")}</th><th>Latest</th><th>QoQ</th><th>YoY</th></tr></thead><tbody>${rows.map(r => `<tr><td>${esc(r.label)}</td><td>${n(r.current)?.toLocaleString("en-IN") ?? "—"}</td><td>${delta(n(r.current), n(r.previous))}</td><td>${delta(n(r.current), n(r.year_ago))}</td></tr>`).join("")}</tbody></table>` : `<p>A filing-verified result comparison is not ready for this company. Open its exchange filings below to inspect the reported figures.</p>`;
+  const results = rows.length ? `<table class="results-table"><thead><tr><th>${esc(evidence.results.unit || "₹ crore")}</th><th>Latest</th><th>QoQ</th><th>YoY</th></tr></thead><tbody>${rows.map(r => `<tr><td>${esc(r.label)}</td><td class="num">${fmtNum(n(r.current))}</td><td class="num">${delta(n(r.current), n(r.previous))}</td><td class="num">${delta(n(r.current), n(r.year_ago))}</td></tr>`).join("")}</tbody></table>` : `<p>A filing-verified result comparison is not ready for this company. Open its exchange filings below to inspect the reported figures.</p>`;
   const resultContext = verified ? `<p class="insight">${esc(evidence.results.insight || "")}</p><p class="source-note">${esc(evidence.results.basis || "")}${evidence.results.calculation_note ? ". " + esc(evidence.results.calculation_note) : ""}</p><div class="sources-inline">${(evidence.results.sources || []).map(x => `<a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener noreferrer">${esc(x.label)}</a>`).join("")}</div>` : "";
   const promise = evidence.promise?.length ? evidence.promise.map(x => {
     const laterLink = x.actual_source ? `<div class="sources-inline"><a href="${esc(safeUrl(x.actual_source.url))}" target="_blank" rel="noopener noreferrer">${esc(x.actual_source.label)}</a></div>` : (evidence.results?.sources?.[0] ? `<div class="sources-inline"><a href="${esc(safeUrl(evidence.results.sources[0].url))}" target="_blank" rel="noopener noreferrer">${esc(evidence.results.sources[0].label)}</a></div>` : "");
     const statementLink = x.source ? `<div class="sources-inline"><a href="${esc(safeUrl(x.source.url))}" target="_blank" rel="noopener noreferrer">${esc(x.source.label)}</a></div>` : "";
-    const verdictClass = (x.verdict || "").toLowerCase();
-    return `<div class="promise-ledger"><span class="status status-${esc(verdictClass || "pending")}">${esc(x.status)}</span><div class="promise-pair"><div><h4>Earlier statement</h4><p>${esc(x.statement)}</p><p class="source-note">${esc(x.period)}${x.metric ? " · " + esc(x.metric) : ""}</p>${statementLink}</div><div><h4>Later disclosure check</h4><p>${esc(x.check)}</p>${laterLink}</div></div></div>`;
+    const verdictKey = (x.verdict || "pending").toLowerCase();
+    const meta = [x.period, x.metric].filter(Boolean).map(esc).join(" · ");
+    return `<div class="promise-ledger">${verdictChip(verdictKey, x.status)}<blockquote class="promise-quote">${esc(x.statement)}</blockquote>${meta ? `<p class="promise-quote-meta">${meta}</p>` : ""}${statementLink}<div class="promise-outcome"><h4>Later disclosure check</h4><p>${esc(x.check)}</p>${laterLink}</div></div>`;
   }).join("") : `<p>No statement has a verified outcome comparison yet. You can inspect candidate transcript statements.</p><button id="extract-claims" type="button" class="text-button" data-symbol="${esc(data.symbol)}">Find transcript statements</button><div id="claim-results"></div>`;
   const people = evidence.people?.length ? `<section class="research-section"><h3>People</h3>${evidence.people.map(x => `<div class="story-detail"><strong>${esc(x.name)}</strong><p>${esc(x.change)}</p>${x.bio ? `<p>${esc(x.bio)}</p>` : ""}${x.source ? `<div class="sources-inline"><a href="${esc(safeUrl(x.source.url))}" target="_blank" rel="noopener noreferrer">${esc(x.source.label)}</a></div>` : ""}</div>`).join("")}</section>` : "";
   const exchangeDocs = (state.digest?.filings || []).filter(x => x.symbol === data.symbol && safeUrl(x.source_url) !== "#")
@@ -308,7 +321,7 @@ async function loadResearch(raw) {
     return;
   }
   byId("ticker-input").value = symbol;
-  byId("research-result").innerHTML = `<div class="loading-state">Reading ${esc(symbol)} documents…</div>`;
+  byId("research-result").innerHTML = `<div class="skeleton-lead" aria-busy="true" aria-label="Loading ${esc(symbol)}"><span class="sk-tag"></span><span class="sk-headline"></span><span class="sk-line"></span><span class="sk-line sk-line-2"></span><span class="sk-line sk-line-3"></span></div>`;
   try {
     const [r, e] = await Promise.all([fetch(`/api/research/${encodeURIComponent(symbol)}`), fetch(`/api/evidence/${encodeURIComponent(symbol)}`)]);
     const data = await r.json(), evidence = await e.json();
@@ -360,7 +373,30 @@ function setupSignals() {
   });
   update();
 }
+function currentTheme() {
+  const saved = localStorage.getItem("finn-theme");
+  return saved === "dark" ? "dark" : "light";
+}
+function applyTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  const toggle = byId("theme-toggle");
+  if (!toggle) return;
+  const next = theme === "dark" ? "light" : "dark";
+  toggle.setAttribute("aria-label", `Switch to ${next} theme`);
+  toggle.title = `Switch to ${next} theme`;
+  toggle.querySelector('[data-theme-icon="light"]').hidden = theme === "dark";
+  toggle.querySelector('[data-theme-icon="dark"]').hidden = theme !== "dark";
+}
+function setupTheme() {
+  applyTheme(currentTheme());
+  byId("theme-toggle")?.addEventListener("click", () => {
+    const next = currentTheme() === "dark" ? "light" : "dark";
+    localStorage.setItem("finn-theme", next);
+    applyTheme(next);
+  });
+}
 async function init() {
+  setupTheme();
   document.addEventListener("click", e => {
     const nav = e.target.closest("[data-view]");
     if (nav) { e.preventDefault(); switchView(nav.dataset.view); return; }
