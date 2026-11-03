@@ -1,0 +1,111 @@
+{
+  "symbol": "LT",
+  "results": {
+    "period": "Q2 FY27 · quarter ended 30 Sep 2026",
+    "unit": "₹ crore",
+    "basis": "Consolidated, reported",
+    "rows": [
+      {
+        "label": "Revenue",
+        "current": 78749.94,
+        "previous": 67941.74,
+        "year_ago": 67983.53,
+        "page": 11
+      },
+      {
+        "label": "EBITDA",
+        "current": 6845.0,
+        "previous": 6116.0,
+        "year_ago": 6806.0,
+        "page": 9
+      },
+      {
+        "label": "PBT",
+        "current": 7641.06,
+        "previous": 6922.26,
+        "year_ago": 6336.11,
+        "page": 11
+      },
+      {
+        "label": "PAT",
+        "current": 5949.15,
+        "previous": 4988.03,
+        "year_ago": 4678.01,
+        "page": 11
+      }
+    ],
+    "insight": "Revenue grew 15.8% YoY and 15.9% QoQ, while PAT rose 27.2% YoY and 19.3% QoQ, driven by strong execution across projects and manufacturing portfolios.",
+    "notes": "PAT is total net profit after tax including share of joint ventures/associates and before non-controlling interest. Q1 FY27 EBITDA is derived by subtracting Q2 FY27 EBITDA (₹6,845 crore) from H1 FY27 EBITDA (₹12,961 crore).",
+    "sources": [
+      {
+        "label": "Results filing · page 9",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf#page=9"
+      },
+      {
+        "label": "Results filing · page 11",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf#page=11"
+      }
+    ],
+    "cached_pdf": "/pdf-cache/da335b2be356b8fb_PAM_27102026171156_LTSep2026.pdf"
+  },
+  "people": [
+    {
+      "name": "Dr. C Jayakumar",
+      "role": "Senior Vice President & Head - Corporate Human Resources",
+      "change": "appointed",
+      "effective": "July 1, 2026",
+      "term": "",
+      "bio": "Dr. C. Jayakumar is a distinguished HR leader with over 38 years of rich and diverse experience in strategic HRM & organizational transformation. As the CHRO of L&T Ltd., he has played a pivotal role in shaping the people agenda of one of India's top conglomerates. An alumnus of LBS, Dr. Jayakumar holds a doctorate in leadership, certification in executive coaching from CFI.",
+      "page": 2,
+      "source": {
+        "label": "Change-in-management filing · page 2",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf#page=2"
+      }
+    },
+    {
+      "name": "Mr. Suresh Kumar Narang",
+      "role": "Senior Vice President & IC Head - CarbonLite Solutions IC & Chief Executive – LMB",
+      "change": "appointed",
+      "effective": "July 1, 2026",
+      "term": "",
+      "bio": "Mr. Suresh Kumar Narang, Sr. Vice President & Head – L&T Energy-CarbonLite Solutions, has over four decades of experience across the power sector, spanning thermal power project design, EPC execution, operations, commercial management, coal mining, and consulting. Since joining L&T in 2010, he has led several landmark initiatives, including the execution of India’s first Ultra Supercritical Power Project at Khargone for NTPC. As Chief Executive of Nabha Power Ltd (2021-2026), he transformed the company into one of India’s most efficient supercritical thermal power plants.",
+      "page": 2,
+      "source": {
+        "label": "Change-in-management filing · page 2",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf#page=2"
+      }
+    },
+    {
+      "name": "Mr. S Ramkumar",
+      "role": "Senior Vice President & IC Head - Transportation Infrastructure IC",
+      "change": "appointed",
+      "effective": "July 1, 2026",
+      "term": "",
+      "bio": "Mr. S. Ramkumar is an Electrical Engineer from NIT Durgapur and an alumnus of the London Business School Senior Executive Programme. With over three decades at Larsen & Toubro, he currently heads the Transportation Infrastructure Division, encompassing the Roads, Bridges & Formations (RBF) and Railway Business Groups (RBG).",
+      "page": 3,
+      "source": {
+        "label": "Change-in-management filing · page 3",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf#page=3"
+      }
+    },
+    {
+      "name": "Mr. Sriraman T",
+      "role": "Senior Vice President & IC Head - Residential, Commercial Buildings & Factories IC",
+      "change": "appointed",
+      "effective": "July 1, 2026",
+      "term": "",
+      "bio": "Mr. T. Sriraman joined L&T as a Graduate Engineer Trainee in 1992 and has over 34 years of experience across diverse functions and business verticals within L&T Construction. His areas of expertise include project execution, contracts, procurement, business development, and business strategy.",
+      "page": 3,
+      "source": {
+        "label": "Change-in-management filing · page 3",
+        "url": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf#page=3"
+      }
+    }
+  ],
+  "promise": [],
+  "sources": {
+    "results": "https://nsearchives.nseindia.com/corporate/PAM_27102026171156_LTSep2026.pdf",
+    "people": "https://nsearchives.nseindia.com/corporate/PAM_07102026212904_IntimationSRMGT07102026.pdf"
+  },
+  "generated_at": "2026-11-03T14:24:50"
+}

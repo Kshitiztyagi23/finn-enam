@@ -20,10 +20,16 @@ ROOT = Path(__file__).resolve().parent
 app = FastAPI(title="FINN")
 app.mount("/static", StaticFiles(directory=ROOT / "web"), name="static")
 
+PDF_CACHE = ROOT / "data" / "pdf-cache"
+if PDF_CACHE.exists():
+    # Mirrored copies of every demo filing. Keeps the UI working if an NSE URL
+    # expires or if the deploy host's IP is blocked by NSE.
+    app.mount("/pdf-cache", StaticFiles(directory=PDF_CACHE), name="pdf-cache")
+
 
 @app.get("/")
 def index():
-    return FileResponse(ROOT / "web" / "index.html")
+    return FileResponse(ROOT / "web" / "finn.html")
 
 
 @app.get("/api/digest")
@@ -32,6 +38,17 @@ def digest():
     if not path.exists():
         return {"generated_at": None, "portfolio": [], "prices": {}, "filings": [], "errors": {}, "method": "Run the pipeline to generate the filing cache."}
     return json.loads(path.read_text(encoding="utf-8"))
+
+
+@app.get("/api/evidence/{symbol}")
+def evidence_endpoint(symbol: str):
+    symbol = symbol.upper()
+    if not re.fullmatch(r"[A-Z0-9&-]{1,20}", symbol):
+        raise HTTPException(400, "Enter a valid NSE ticker.")
+    snapshot = ROOT / "data" / "evidence" / f"{symbol}.json"
+    if not snapshot.exists():
+        return {"symbol": symbol, "results": None, "people": [], "promise": [], "note": "No filing-verified brief is available for this company yet. Use the document trail below."}
+    return json.loads(snapshot.read_text(encoding="utf-8"))
 
 
 def text(node) -> str:

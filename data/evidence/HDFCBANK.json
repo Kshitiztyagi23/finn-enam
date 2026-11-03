@@ -1,0 +1,68 @@
+{
+  "symbol": "HDFCBANK",
+  "results": {
+    "period": "Q2 FY27 · quarter ended 30 Sep 2026",
+    "unit": "₹ crore",
+    "basis": "Consolidated, reported",
+    "rows": [
+      {
+        "label": "Revenue",
+        "current": 129358.69,
+        "previous": 133110.36,
+        "year_ago": 118560.63,
+        "page": 9
+      },
+      {
+        "label": "EBITDA",
+        "current": 32871.54,
+        "previous": 30996.0,
+        "year_ago": 30940.72,
+        "page": 9
+      },
+      {
+        "label": "PBT",
+        "current": 28662.54,
+        "previous": 27193.16,
+        "year_ago": 26658.89,
+        "page": 9
+      },
+      {
+        "label": "PAT",
+        "current": 21537.09,
+        "previous": 20382.69,
+        "year_ago": 20363.77,
+        "page": 9
+      }
+    ],
+    "insight": "Consolidated revenue fell 2.82% QoQ but grew 9.11% YoY, while PAT rose 5.66% QoQ and 5.76% YoY.",
+    "notes": "EBITDA is reported as Operating profit before provisions and contingencies. PAT represents Net profit for the period before minority interest.",
+    "sources": [
+      {
+        "label": "Results filing · page 9",
+        "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf#page=9"
+      }
+    ],
+    "cached_pdf": "/pdf-cache/1a25f460842bbd8e_HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf"
+  },
+  "people": [
+    {
+      "name": "Sanjay D’Souza",
+      "role": "Group Head – Business Banking, Emerging & Micro Enterprises Group",
+      "change": "retired",
+      "effective": "close of business hours on October 31, 2026",
+      "term": "",
+      "bio": "",
+      "page": 1,
+      "source": {
+        "label": "Change-in-management filing · page 1",
+        "url": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf#page=1"
+      }
+    }
+  ],
+  "promise": [],
+  "sources": {
+    "results": "https://nsearchives.nseindia.com/corporate/HDFCBANK_17102026135520_OutcomeofBMResults_17oct2026.pdf",
+    "people": "https://nsearchives.nseindia.com/corporate/HDFCBANK3_31102026221631_SE_INTIMATION-_Sanjay_Dsouza.pdf"
+  },
+  "generated_at": "2026-11-03T14:23:10"
+}

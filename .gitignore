@@ -4,6 +4,9 @@ __pycache__/
 *.pyc
 .cache/
 .opt-expiry-cache/
+.playwright-cli/
+.playwright-daemon/
+.hallmark/
 cookies.txt
 .env
 1. ENAM_AI_Engineer_Build_Challenge_Main.pdf

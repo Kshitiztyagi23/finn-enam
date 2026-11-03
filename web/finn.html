@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#cbd2d8">
+  <meta name="description" content="Read the latest company events across your NSE watchlist and check every source filing.">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' fill='%231b242d'/%3E%3Ctext x='16' y='47' fill='%23ecf0f2' font-family='Arial' font-size='43' font-weight='bold'%3EF%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Newsreader:opsz,wght@6..72,400;6..72,500&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/finn.css">
+  <script src="/static/finn.js" defer></script>
+  <title>FINN | Portfolio filing desk</title>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <nav class="mobile-nav" aria-label="Mobile navigation">
+    <button type="button" data-view="brief" aria-current="page">Brief</button>
+    <button type="button" data-view="archive">Filings</button>
+    <button type="button" data-view="research">Research</button>
+    <button type="button" data-view="signals">Signals</button>
+  </nav>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#brief" aria-label="FINN home">finn</a>
+      <nav class="desktop-nav" aria-label="Primary navigation">
+        <button type="button" data-view="brief" aria-current="page">Brief</button>
+        <button type="button" data-view="archive">Filings</button>
+        <button type="button" data-view="research">Research</button>
+        <button type="button" data-view="signals">Signals</button>
+      </nav>
+      <span class="header-status" id="header-status">Loading data</span>
+    </div>
+  </header>
+  <main id="main">
+    <noscript><p class="no-script">Enable JavaScript to read the filing snapshot and use FINN’s filters.</p></noscript>
+    <section id="view-brief" class="view visible" aria-labelledby="brief-title">
+      <div class="page-intro brief-intro">
+        <div class="intro-main"><h1 id="brief-title" tabindex="-1">What changed in your portfolio</h1><p class="intro-copy" id="brief-copy">Reading the latest filings…</p></div>
+        <div class="edition"><time id="brief-date">Loading snapshot</time><span id="brief-context">Your companies</span></div>
+      </div>
+      <div class="brief-toolbar"><div class="filter-group" role="group" aria-label="Brief period"><button type="button" data-brief-days="1" class="active" aria-pressed="true">24 hours</button><button type="button" data-brief-days="7" aria-pressed="false">7 days</button></div><span>Window ends at snapshot time</span></div>
+      <div id="lead-story" aria-live="polite"><div class="loading-state">Preparing your brief…</div></div>
+      <div class="section-heading"><h2>More developments</h2><span id="next-count"></span></div>
+      <div id="next-stories"></div>
+      <button type="button" id="brief-show-all" class="text-button brief-more" hidden>Show all developments</button>
+      <button type="button" class="archive-cta" data-view="archive"><span>Open the full filing trail</span><span id="archive-cta-count"></span></button>
+      <p class="brief-note">This reading order uses filing type and available end-of-day context. Open the source before making a decision.</p>
+    </section>
+
+    <section id="view-archive" class="view" aria-labelledby="archive-title">
+      <div class="page-intro compact-intro"><h1 id="archive-title" tabindex="-1">Every filing, in reach</h1><p class="intro-copy">Search the original exchange announcements across your watchlist.</p></div>
+      <div class="archive-tools">
+        <label class="search-field" for="archive-search"><span class="visually-hidden">Search company or filing</span><span class="search-icon" aria-hidden="true">⌕</span><input id="archive-search" type="search" placeholder="Search company or filing" autocomplete="off"></label>
+        <label class="select-field" for="archive-company">Company <select id="archive-company"><option value="all">All companies</option></select></label>
+      </div>
+      <div class="archive-filters">
+        <div class="filter-group" role="group" aria-label="Time period"><button type="button" data-days="3" aria-pressed="false">3 days</button><button type="button" data-days="7" class="active" aria-pressed="true">7 days</button><button type="button" data-days="all" aria-pressed="false">Entire snapshot</button></div>
+        <label class="routine-toggle"><input id="show-routine" type="checkbox"> Include routine</label>
+      </div>
+      <div class="list-heading"><h2 id="archive-heading">Latest filings</h2><span id="archive-count"></span></div>
+      <div id="archive-list" aria-live="polite"></div>
+      <button type="button" id="load-more" class="load-more" hidden>Show more filings</button>
+    </section>
+
+    <section id="view-research" class="view" aria-labelledby="research-title">
+      <div class="page-intro compact-intro"><h1 id="research-title" tabindex="-1">Open a company record</h1><p class="intro-copy">Compare reported numbers with what management said. Check the documents yourself.</p></div>
+      <form id="research-form" class="research-search"><label for="ticker-input">NSE ticker</label><div><input id="ticker-input" name="ticker" placeholder="DIXON" autocomplete="off" spellcheck="false" maxlength="20" required><button type="submit">Open company</button></div></form>
+      <p class="try-line">Filing-verified examples: <button type="button" data-ticker="DIXON">DIXON</button> · <button type="button" data-ticker="RELIANCE">RELIANCE</button> · <button type="button" data-ticker="INFY">INFY</button> · <button type="button" data-ticker="HDFCBANK">HDFCBANK</button> · <button type="button" data-ticker="LT">LT</button></p>
+      <div id="research-result" aria-live="polite"><div class="empty-state"><strong>Choose a company to start.</strong><p>You’ll see its results, management context and document links here.</p></div></div>
+    </section>
+
+    <section id="view-signals" class="view" aria-labelledby="signals-title">
+      <div class="page-intro compact-intro"><h1 id="signals-title" tabindex="-1">Choose what gets flagged</h1><p class="intro-copy">Set the filing types and end-of-day moves worth a closer look.</p></div>
+      <div class="settings-group"><div class="setting-row"><div><label for="price-threshold">Daily price move</label><p>Absolute move at the end of a trading day</p></div><output id="price-value" for="price-threshold"></output></div><input id="price-threshold" type="range" min="1" max="10" step="0.5"></div>
+      <div class="settings-group"><div class="setting-row"><div><label for="volume-threshold">Volume surge</label><p>Compared with the 20-day average</p></div><output id="volume-value" for="volume-threshold"></output></div><input id="volume-threshold" type="range" min="1.5" max="5" step="0.5"></div>
+      <fieldset class="settings-group"><legend>Filing types</legend><p>Choose which categories appear in your matches.</p><div id="category-options" class="category-options"></div></fieldset>
+      <div class="settings-note"><strong>Saved on this device</strong><p>Matches use the latest cached snapshot. Phone and email notifications are not part of this local prototype.</p></div>
+      <div class="section-heading"><h2>Current matches</h2><span id="match-count"></span></div>
+      <div id="matches-list"></div><button type="button" id="all-matches" class="load-more" hidden>Show all matches</button>
+    </section>
+    <footer><div><strong>FINN filing desk</strong><p>Exchange announcements from NSE. Market context from end-of-day price and volume snapshots. Primary-source extraction cached — each investor view costs ₹0 at demo time.</p></div><div><span>Snapshot updated</span><time id="footer-updated">Loading</time></div></footer>
+  </main>
+</body>
+</html>

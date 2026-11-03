@@ -1,0 +1,75 @@
+{
+  "symbol": "RELIANCE",
+  "results": {
+    "period": "Q2 FY27 · quarter ended 30 Sep 2026",
+    "unit": "₹ crore",
+    "basis": "Consolidated, reported",
+    "rows": [
+      {
+        "label": "Revenue",
+        "current": 332861,
+        "previous": 311850,
+        "year_ago": 258898,
+        "page": 10
+      },
+      {
+        "label": "EBITDA",
+        "current": 61224,
+        "previous": 51403,
+        "year_ago": 48480,
+        "page": 17
+      },
+      {
+        "label": "PBT",
+        "current": 38613,
+        "previous": 30630,
+        "year_ago": 29124,
+        "page": 10
+      },
+      {
+        "label": "PAT",
+        "current": 29550,
+        "previous": 23196,
+        "year_ago": 22092,
+        "page": 10
+      }
+    ],
+    "insight": "Consolidated Revenue from Operations grew 6.74% QoQ and 28.57% YoY, while PAT increased 27.39% QoQ and 33.76% YoY.",
+    "notes": "EBITDA is taken from segment results (Total Segment Profit before Interest, Tax and Depreciation, Amortisation and Depletion). PAT includes share of profit of associates and joint ventures.",
+    "sources": [
+      {
+        "label": "Results filing · page 10",
+        "url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf#page=10"
+      },
+      {
+        "label": "Results filing · page 17",
+        "url": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf#page=17"
+      }
+    ],
+    "cached_pdf": "/pdf-cache/7c1b0618fa7aeb2d_kavinavora_30102026193935_SE_30102026_Results.pdf"
+  },
+  "people": [],
+  "promise": [
+    {
+      "statement": "And what we believe is with the scale that will come in this year, the benefit of that scale will convert into value in terms of margins and cash generation over the next two years.",
+      "statement_page": 8,
+      "metric": "retail margin and cash generation over the next two years",
+      "period": "next two years",
+      "target": "convert into value in terms of margins and cash generation",
+      "actual": "",
+      "actual_page": 0,
+      "verdict": "pending",
+      "reasoning": "The two-year future period for this qualitative guidance has not elapsed as of the reporting period.",
+      "statement_source": {
+        "label": "Prior earnings-call transcript · page 8",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf#page=8"
+      }
+    }
+  ],
+  "sources": {
+    "results": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf",
+    "promise_transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c9d3d96a-8b04-4b41-b454-3f98d1f90702.pdf",
+    "promise_later": "https://nsearchives.nseindia.com/corporate/kavinavora_30102026193935_SE_30102026_Results.pdf"
+  },
+  "generated_at": "2026-11-03T14:22:20"
+}

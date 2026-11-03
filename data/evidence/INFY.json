@@ -1,0 +1,90 @@
+{
+  "symbol": "INFY",
+  "results": {
+    "period": "Q2 FY27 · quarter ended 30 Sep 2026",
+    "unit": "₹ crore",
+    "basis": "Consolidated, reported",
+    "rows": [
+      {
+        "label": "Revenue",
+        "current": 49244,
+        "previous": 48211,
+        "year_ago": 45472,
+        "page": 18
+      },
+      {
+        "label": "EBITDA",
+        "current": 10330,
+        "previous": 10163,
+        "year_ago": 9353,
+        "page": 6
+      },
+      {
+        "label": "PBT",
+        "current": 11063,
+        "previous": 11028,
+        "year_ago": 10229,
+        "page": 18
+      },
+      {
+        "label": "PAT",
+        "current": 7838,
+        "previous": 7775,
+        "year_ago": 7375,
+        "page": 18
+      }
+    ],
+    "insight": "Revenue grew 2.1% QoQ and 8.3% YoY, while PAT increased 0.8% QoQ and 6.3% YoY in Q2 FY27.",
+    "notes": "EBITDA is reported as Operating Profit in the filing. PAT represents total consolidated profit for the period before non-controlling interest allocation.",
+    "sources": [
+      {
+        "label": "Results filing · page 6",
+        "url": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf#page=6"
+      },
+      {
+        "label": "Results filing · page 18",
+        "url": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf#page=18"
+      }
+    ],
+    "cached_pdf": "/pdf-cache/65e459d2b8bc4ed1_Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+  },
+  "people": [],
+  "promise": [
+    {
+      "statement": "With our Q1 results and a view for the rest of the financial year, we are changing our revenue growth guidance to 1.5% to 3% Y-on-Y growth in constant currency terms.",
+      "statement_page": 6,
+      "metric": "constant-currency revenue growth",
+      "period": "FY27",
+      "target": "1.5% to 3%",
+      "actual": "",
+      "actual_page": 0,
+      "verdict": "pending",
+      "reasoning": "Full-year FY27 constant-currency revenue growth cannot be verified from the Q2 FY27 interim filing.",
+      "statement_source": {
+        "label": "Prior earnings-call transcript · page 6",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf#page=6"
+      }
+    },
+    {
+      "statement": "Our operating margin guidance remains the same at 20% to 22% operating margin.",
+      "statement_page": 6,
+      "metric": "operating margin",
+      "period": "FY27",
+      "target": "20% to 22%",
+      "actual": "",
+      "actual_page": 0,
+      "verdict": "pending",
+      "reasoning": "Full-year FY27 operating margin guidance is pending completion of the full fiscal year.",
+      "statement_source": {
+        "label": "Prior earnings-call transcript · page 6",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf#page=6"
+      }
+    }
+  ],
+  "sources": {
+    "results": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf",
+    "promise_transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95f8af86-dc92-49dc-a7cf-ecce287f8cce.pdf",
+    "promise_later": "https://nsearchives.nseindia.com/corporate/Infosys_23102026160704_BM_Outcome_Oct232026_1.pdf"
+  },
+  "generated_at": "2026-11-03T14:33:18"
+}

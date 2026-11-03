@@ -1,0 +1,78 @@
+{
+  "symbol": "DIXON",
+  "results": {
+    "period": "Q2 FY27 · quarter ended 30 Sep 2026",
+    "unit": "₹ crore",
+    "basis": "Consolidated, reported; PAT before non-controlling interest",
+    "rows": [
+      {
+        "label": "Revenue",
+        "current": 21794,
+        "previous": 15548,
+        "year_ago": 14855
+      },
+      {
+        "label": "EBITDA",
+        "current": 666,
+        "previous": 991,
+        "year_ago": 1057
+      },
+      {
+        "label": "PBT",
+        "current": 532,
+        "previous": 869,
+        "year_ago": 924
+      },
+      {
+        "label": "PAT",
+        "current": 411,
+        "previous": 718,
+        "year_ago": 746
+      }
+    ],
+    "insight": "Revenue rose 46.7% year on year, while reported EBITDA fell 37.0%. The company also presents adjusted EBITDA of ₹609 crore versus ₹564 crore a year earlier. Inspect the adjustment bridge before treating the reported decline as purely operational.",
+    "sources": [
+      {
+        "label": "Q2 results filing · consolidated table, page 11",
+        "url": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160547_Outcome30102026.pdf#page=11"
+      },
+      {
+        "label": "Investor presentation · reported and adjusted P&L, pages 21–22",
+        "url": "https://nsearchives.nseindia.com/corporate/DIXON_30102026161836_OutcomewithPPT30102026.pdf#page=21"
+      }
+    ],
+    "calculation_note": "Previous-quarter EBITDA ₹991 crore is H1 FY27 reported EBITDA ₹1,657 crore less Q2 ₹666 crore, from the investor presentation. Figures rounded to the nearest crore."
+  },
+  "people": [
+    {
+      "name": "Prithvi Vachani",
+      "change": "Appointed additional and executive director for five years from 30 Oct 2026",
+      "bio": "Previously a vice president at Dixon; studied at Bentley University and London Business School. The filing credits him with the boAt partnership, Chennai facility and mobile customer relationships. He is the son of executive chairman Sunil Vachani.",
+      "source": {
+        "label": "Board outcome · brief profile, page 3",
+        "url": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160939_Outcome30102026.pdf#page=3"
+      }
+    }
+  ],
+  "promise": [
+    {
+      "statement": "And the key highlights for the quarter are as follows. The revenues for the quarter ended March 31, 2026 was INR10,520 crores EBITDA excluding exceptional gain for the quarter was INR418 crores.",
+      "statement_page": 3,
+      "metric": "quarterly revenue",
+      "period": "Q4 FY26",
+      "target": "INR10,520 crores",
+      "actual": "",
+      "actual_page": 0,
+      "verdict": "pending",
+      "reasoning": "The later filing does not report Q4 FY26 figures as it covers Q2 and Half Year ended September 30, 2026.",
+      "statement_source": {
+        "label": "Prior earnings-call transcript · page 3",
+        "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf#page=3"
+      }
+    }
+  ],
+  "sources": {
+    "promise_transcript": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=38b72f07-55a6-4503-91fd-ed3b2c209e96.pdf",
+    "promise_later": "https://nsearchives.nseindia.com/corporate/DIXON_30102026160547_Outcome30102026.pdf"
+  }
+}
