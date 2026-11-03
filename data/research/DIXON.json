@@ -3,7 +3,7 @@
   "company": "Dixon Technologies (India) Ltd",
   "about": "About Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered",
   "source_page": "https://www.screener.in/company/DIXON/consolidated/",
-  "fetched_at": "2026-11-03T02:28:45+05:30",
+  "fetched_at": "2026-11-04T01:36:38+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,16 +76,20 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement Under Regulation 30 Of SEBI LODR- Intimation Regarding Change In The Corporate Office Of The Registrar And Share Transfer Agent",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d219f169-7be4-4d16-9697-1251e8767e69.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 3 Nov - Dixon Technologies held a one-on-one virtual meeting with ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=12486329-18b7-4e94-a0e6-4b851e757235.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 31 Oct - Announcement under Regulation 30 of SEBI LODR- Copy of Newspaper publ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2336e442-6dfb-4af9-81c4-09a8770d2c94.pdf"
     },
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 30 Oct - Audio recording of Dixon’s Q2 FY2027 results conference c",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=082ec2fb-f975-4058-aadb-d27d3e69a02d.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Change in Management 30 Oct - Dixon Q2 FY26 revenue rose 42% to Rs 21,863 crore; board appointed Pri",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=53529778-f611-4f21-b789-0bc1bf52e7e5.pdf"
     }
   ]
 }
