@@ -3,7 +3,7 @@
   "company": "Suzlon Energy Ltd",
   "about": "About Suzlon Energy Limited is a wind-first group spanning turbine technology/manufacturing, project development/execution, and renewable-asset O&M. It has installed 22+ GW across 17 countries; key subsidiaries include Suzlon Global Services, SE Forge, and Renom. [1] Key Points Business Overview: Suzlon 2.0 comprises RE Tech, DevCo, Projects, and Asset Management Services. Existing S120 and S144 turbines feature over 80% local sourcing. Future of",
   "source_page": "https://www.screener.in/company/SUZLON/consolidated/",
-  "fetched_at": "2026-11-04T01:36:46+05:30",
+  "fetched_at": "2026-11-05T01:55:59+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -54,6 +54,10 @@
   ],
   "transcripts": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 4 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c741ab5-1c6b-49f3-a320-e8997162728d.pdf"
+    },
+    {
       "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1cb76651-c386-473a-b1c2-a7deb717c0f3.pdf"
     },
@@ -68,10 +72,6 @@
     {
       "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=44870f4e-11a6-4e64-b668-e9643b633e87.pdf"
-    },
-    {
-      "label": "Transcript",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2e5b21d9-57f3-413e-96ec-1f45b59470f9.pdf"
     }
   ],
   "recent_filings": [

@@ -3,7 +3,7 @@
   "company": "Persistent Systems Ltd",
   "about": "About Persistent Systems provides software engineering and strategy services to help companies implement and modernize their businesses. It has its own software and frameworks with pre-built integration and acceleration [1] . It also has partnership with providers such as Salesforce and AWS [2] . Key Points Solutions Offered [1] [2] {# The company is a global digital services and solutions provider specializing in AI-led, platform-driven digital ",
   "source_page": "https://www.screener.in/company/PERSISTENT/consolidated/",
-  "fetched_at": "2026-11-04T01:36:42+05:30",
+  "fetched_at": "2026-11-05T01:55:55+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -54,7 +54,7 @@
   ],
   "transcripts": [
     {
-      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 23 Oct - The Transcript of the investor/analyst call held on Thursday, Octo",
+      "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=524eadda-3966-4f4f-8888-bfaf2cb0d69e.pdf"
     },
     {
@@ -76,6 +76,14 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment 4 Nov - Persistent Systems allotted ₹70 billion NCDs on 4 November 2026 across six series,",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=258dfe1d-7ec3-4563-863f-330be44338eb.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 4 Nov - Persistent Systems approved allotment of ₹70 billion NCDs on November 4, 202",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8e05f8c9-956c-4fbc-9e8e-3f6aa4694621.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 26 Oct - Persistent allotted 7,683,981 shares via QIP at ₹5,550, raising ₹42,646.09 ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4491cbf4-b27c-45f2-a905-1220b80dec9c.pdf"
     },
@@ -86,10 +94,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 26 Oct - Persistent approved QIP closure and allocation of 7,683,981 shares at ₹5,55",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d3ba2a8b-279a-4e0f-9ee8-c99ca501552b.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Credit Rating 22 Oct - ICRA continued Persistent's AA+ issuer rating, assigned A1+ CP 1,000 crore an",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d500e04f-fe02-4b5c-923a-0275b18f6044.pdf"
     }
   ]
 }
