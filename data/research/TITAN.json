@@ -3,29 +3,29 @@
   "company": "Titan Company Ltd",
   "about": "About Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1] Key Points Part of the Tata Group [1] [2] The company benefits from its association with the Ta",
   "source_page": "https://www.screener.in/company/TITAN/consolidated/",
-  "fetched_at": "2026-11-05T01:55:47+05:30",
+  "fetched_at": "2026-11-06T02:09:43+05:30",
   "quarters": {
-    "quarter": "Jun 2026",
+    "quarter": "Sep 2026",
     "values": {
       "revenue": {
-        "current": "21,356",
-        "previous": "26,920",
-        "year_ago": "16,523"
+        "current": "20,614",
+        "previous": "21,356",
+        "year_ago": "18,725"
       },
       "ebitda_proxy": {
-        "current": "2,890",
-        "previous": "1,938",
-        "year_ago": "1,830"
+        "current": "2,983",
+        "previous": "2,890",
+        "year_ago": "1,875"
       },
       "pbt": {
-        "current": "2,429",
-        "previous": "1,577",
-        "year_ago": "1,480"
+        "current": "3,000",
+        "previous": "2,429",
+        "year_ago": "1,522"
       },
       "pat": {
-        "current": "1,777",
-        "previous": "1,179",
-        "year_ago": "1,091"
+        "current": "2,393",
+        "previous": "1,777",
+        "year_ago": "1,120"
       }
     },
     "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
@@ -76,20 +76,16 @@
   ],
   "recent_filings": [
     {
-      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 28 Oct - Newspaper advertisement regarding loss of share certificate",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f3b9502-95ac-4d8f-832e-175c7ca000df.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 5 Nov - Titan published analyst call recording for Q2 and half-yea",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7a2f589-b1f3-4953-a599-4d4a69a4c5cd.pdf"
     },
     {
-      "label": "Announcement under Regulation 30 (LODR)-Acquisition 28 Oct - Titan incorporated wholly owned subsidiary Titan Company Canada Inc. on 27 Octo",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6a9b9bf7-babc-49c6-86d2-db3cf586ba5c.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Retirement 5 Nov - Noel N. Tata retires as Non-Executive Director and Vice-Chairman effective 12 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2144a96-1845-46b3-b1d6-2df374df6da1.pdf"
     },
     {
-      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 23 Oct - Earnings call for Q2 and half year ended FY 2026-27",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f317d625-e7e4-4155-bf66-a43c7def32b6.pdf"
-    },
-    {
-      "label": "Board Meeting Intimation for Consider And Approve The Unaudited Financial Results For The Quarter Ended 30Th September 2026 20 Oct - Board m",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e9e04a61-ebc4-47ec-868d-20d8a3c5d631.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s 5 Nov - Titan appoints Price Waterhouse Chartered Accountants LLP",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=939e5a87-b131-40be-b3c2-01910374f132.pdf"
     }
   ]
 }

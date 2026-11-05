@@ -3,29 +3,29 @@
   "company": "Astral Ltd",
   "about": "About Astral Poly Technik Ltd was established in 1996, with the aim to manufacture pro-India plumbing and drainage systems in the country. The company is into manufacturing of Pipes, water tanks, bathware, specialised valves, paints, adhesives and sealants, infrastructure solutions, specialised fittings and construction chemicals. [1] Key Points Business Segments: a) Plumbing (71% in FY26 vs 73% in FY24): [1] The company offers PVC, CPVC and lead",
   "source_page": "https://www.screener.in/company/ASTRAL/consolidated/",
-  "fetched_at": "2026-11-05T01:56:00+05:30",
+  "fetched_at": "2026-11-06T02:09:55+05:30",
   "quarters": {
-    "quarter": "Jun 2026",
+    "quarter": "Sep 2026",
     "values": {
       "revenue": {
-        "current": "1,578",
-        "previous": "2,088",
-        "year_ago": "1,361"
+        "current": "1,988",
+        "previous": "1,578",
+        "year_ago": "1,577"
       },
       "ebitda_proxy": {
-        "current": "231",
-        "previous": "383",
-        "year_ago": "185"
+        "current": "260",
+        "previous": "231",
+        "year_ago": "257"
       },
       "pbt": {
-        "current": "163",
-        "previous": "297",
-        "year_ago": "110"
+        "current": "172",
+        "previous": "163",
+        "year_ago": "180"
       },
       "pat": {
-        "current": "120",
-        "previous": "213",
-        "year_ago": "79"
+        "current": "127",
+        "previous": "120",
+        "year_ago": "135"
       }
     },
     "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
@@ -76,16 +76,16 @@
   ],
   "recent_filings": [
     {
-      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 4 Nov - Astral to attend 29th CITIC CLSA India Forum 2026 on No",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=63d85004-a83c-407e-a649-5d71cfce075f.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 5 Nov - Astral Limited shared audio recording of its November 5, 2",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=795ae202-30f1-4db0-9791-17ef2f57a9ea.pdf"
     },
     {
-      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 31 Oct - Astral schedules earnings call on 5 November 2026 for ",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=2684ff83-e0e0-41ce-bcd0-935a714cf850.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Change in Management 5 Nov - Board approved Q2FY27 results, interim dividend of Rs 1.50 per share, r",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4017e932-6841-4b4b-8669-50a79f27feb2.pdf"
     },
     {
-      "label": "Board Meeting Intimation for To Consider And Approve The Unaudited Financial Results (Standalone And Consolidated) Of The Company For The Se",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=1f1205bc-a6f9-4dc6-85af-eed6f74e9dc5.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Press Release / Media Release 5 Nov - Astral reported Q2 FY27 revenue up 26% to Rs 19,883 million an",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95ba2ee6-f092-4f27-906f-bb30db524807.pdf"
     }
   ]
 }

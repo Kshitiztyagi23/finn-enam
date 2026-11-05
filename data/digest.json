@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T01:55:19+05:30",
+  "generated_at": "2026-11-06T02:09:19+05:30",
   "window_days": 7,
   "portfolio": [
     {
@@ -95,115 +95,143 @@
   ],
   "prices": {
     "RELIANCE": {
-      "as_of": "2026-11-03",
-      "close": 1307.9,
-      "move_pct": 0.61,
-      "volume_ratio": 2.27
-    },
-    "HDFCBANK": {
-      "as_of": "2026-11-03",
-      "close": 725.5,
-      "move_pct": 3.64,
-      "volume_ratio": 1.42
-    },
-    "INFY": {
-      "as_of": "2026-11-03",
-      "close": 1148.1,
-      "move_pct": 1.15,
-      "volume_ratio": 0.63
-    },
-    "LT": {
-      "as_of": "2026-11-03",
-      "close": 3948.2,
-      "move_pct": 0.21,
-      "volume_ratio": 1.03
-    },
-    "BAJFINANCE": {
-      "as_of": "2026-11-03",
-      "close": 970.0,
-      "move_pct": 1.1,
-      "volume_ratio": 0.9
-    },
-    "SUNPHARMA": {
-      "as_of": "2026-11-03",
-      "close": 1769.9,
-      "move_pct": -0.01,
-      "volume_ratio": 1.56
-    },
-    "TITAN": {
-      "as_of": "2026-11-03",
-      "close": 4562.0,
-      "move_pct": 1.91,
+      "as_of": "2026-11-04",
+      "close": 1311.0,
+      "move_pct": 0.24,
       "volume_ratio": 0.97
     },
-    "TRENT": {
-      "as_of": "2026-11-03",
-      "close": 3036.5,
-      "move_pct": -0.32,
-      "volume_ratio": 0.64
+    "HDFCBANK": {
+      "as_of": "2026-11-04",
+      "close": 736.7,
+      "move_pct": 1.54,
+      "volume_ratio": 1.75
     },
-    "ETERNAL": {
-      "as_of": "2026-11-03",
-      "close": 349.45,
-      "move_pct": 1.58,
-      "volume_ratio": 0.74
-    },
-    "DIXON": {
-      "as_of": "2026-11-03",
-      "close": 12270.0,
-      "move_pct": -0.4,
-      "volume_ratio": 1.54
-    },
-    "POLYCAB": {
-      "as_of": "2026-11-03",
-      "close": 7837.0,
-      "move_pct": -1.05,
-      "volume_ratio": 0.54
-    },
-    "HAL": {
-      "as_of": "2026-11-03",
-      "close": 4958.6,
-      "move_pct": 2.13,
-      "volume_ratio": 1.14
-    },
-    "KPITTECH": {
-      "as_of": "2026-11-03",
-      "close": 519.8,
-      "move_pct": -2.28,
-      "volume_ratio": 0.34
-    },
-    "PERSISTENT": {
-      "as_of": "2026-11-03",
-      "close": 6097.0,
-      "move_pct": 0.76,
-      "volume_ratio": 0.48
-    },
-    "CDSL": {
-      "as_of": "2026-11-03",
-      "close": 1320.0,
-      "move_pct": 5.43,
-      "volume_ratio": 3.53
-    },
-    "DEEPAKNTR": {
-      "as_of": "2026-11-03",
-      "close": 1520.6,
-      "move_pct": -0.69,
-      "volume_ratio": 0.67
-    },
-    "IRCTC": {
-      "as_of": "2026-11-03",
-      "close": 447.5,
-      "move_pct": -0.01,
+    "INFY": {
+      "as_of": "2026-11-04",
+      "close": 1128.2,
+      "move_pct": -1.73,
       "volume_ratio": 0.56
     },
-    "SUZLON": {
-      "as_of": "2026-11-03",
-      "close": 35.75,
-      "move_pct": 1.42,
+    "LT": {
+      "as_of": "2026-11-04",
+      "close": 3944.4,
+      "move_pct": -0.1,
+      "volume_ratio": 1.2
+    },
+    "BAJFINANCE": {
+      "as_of": "2026-11-04",
+      "close": 994.0,
+      "move_pct": 2.47,
+      "volume_ratio": 1.77
+    },
+    "SUNPHARMA": {
+      "as_of": "2026-11-04",
+      "close": 1773.4,
+      "move_pct": 0.2,
+      "volume_ratio": 2.8
+    },
+    "TITAN": {
+      "as_of": "2026-11-04",
+      "close": 4754.4,
+      "move_pct": 4.22,
+      "volume_ratio": 1.65
+    },
+    "TRENT": {
+      "as_of": "2026-11-04",
+      "close": 3060.0,
+      "move_pct": 0.77,
+      "volume_ratio": 0.47
+    },
+    "ETERNAL": {
+      "as_of": "2026-11-04",
+      "close": 344.5,
+      "move_pct": -1.42,
+      "volume_ratio": 0.82
+    },
+    "DIXON": {
+      "as_of": "2026-11-04",
+      "close": 12290.0,
+      "move_pct": 0.16,
       "volume_ratio": 0.69
+    },
+    "POLYCAB": {
+      "as_of": "2026-11-04",
+      "close": 7930.0,
+      "move_pct": 1.19,
+      "volume_ratio": 0.32
+    },
+    "HAL": {
+      "as_of": "2026-11-04",
+      "close": 5079.1,
+      "move_pct": 2.43,
+      "volume_ratio": 1.78
+    },
+    "KPITTECH": {
+      "as_of": "2026-11-04",
+      "close": 520.0,
+      "move_pct": 0.04,
+      "volume_ratio": 0.62
+    },
+    "PERSISTENT": {
+      "as_of": "2026-11-04",
+      "close": 6065.0,
+      "move_pct": -0.52,
+      "volume_ratio": 0.52
+    },
+    "CDSL": {
+      "as_of": "2026-11-04",
+      "close": 1323.8,
+      "move_pct": 0.29,
+      "volume_ratio": 0.97
+    },
+    "DEEPAKNTR": {
+      "as_of": "2026-11-04",
+      "close": 1578.4,
+      "move_pct": 3.8,
+      "volume_ratio": 0.91
+    },
+    "IRCTC": {
+      "as_of": "2026-11-04",
+      "close": 450.0,
+      "move_pct": 0.56,
+      "volume_ratio": 0.9
+    },
+    "SUZLON": {
+      "as_of": "2026-11-04",
+      "close": 37.45,
+      "move_pct": 4.76,
+      "volume_ratio": 1.13
     }
   },
   "filings": [
+    {
+      "id": "106848400",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T18:51:55+05:30",
+      "category": "management_change",
+      "score": 5,
+      "headline": "Retirement",
+      "summary": "Titan Company Limited has informed the Exchange about Retirement of Mr. Noel N. Tata as Director and Vice-Chairman",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026185140_SENNTata.pdf",
+      "source": "NSE filing",
+      "tier": "act",
+      "reason": "Management Change"
+    },
+    {
+      "id": "106847532",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T16:50:49+05:30",
+      "category": "results",
+      "score": 5,
+      "headline": "Outcome of Board Meeting",
+      "summary": "Titan Company Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026165028_SEoutcomeQ227.pdf",
+      "source": "NSE filing",
+      "tier": "act",
+      "reason": "Results"
+    },
     {
       "id": "106838688",
       "symbol": "HDFCBANK",
@@ -331,86 +359,18 @@
       "reason": "Results"
     },
     {
-      "id": "106835025",
-      "symbol": "DEEPAKNTR",
-      "company": "Deepak Nitrite Limited",
-      "published_at": "2026-10-29T18:41:23+05:30",
-      "category": "results",
-      "score": 5,
-      "headline": "Outcome of Board Meeting",
-      "summary": "Deepak Nitrite Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026183918_NSE-29-10-2026-bm-ufr.pdf",
-      "source": "NSE filing",
-      "tier": "act",
-      "reason": "Results"
-    },
-    {
-      "id": "106834505",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:32:13+05:30",
-      "category": "management_change",
-      "score": 5,
-      "headline": "Retirement",
-      "summary": "Trent Limited has informed the Exchange about Retirement of Mr. Noel N Tata as the Chairman",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163122_AppointmentofDirector.pdf",
-      "source": "NSE filing",
-      "tier": "act",
-      "reason": "Management Change"
-    },
-    {
-      "id": "106834353",
-      "symbol": "SUZLON",
-      "company": "Suzlon Energy Limited",
-      "published_at": "2026-10-29T15:51:45+05:30",
-      "category": "results",
-      "score": 5,
-      "headline": "Outcome of Board Meeting",
-      "summary": "Suzlon Energy Limited has submitted to the Exchange, the financial results for the period ended September 30, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_29102026154942_Suzlon29102026.pdf",
-      "source": "NSE filing",
-      "tier": "act",
-      "reason": "Results"
-    },
-    {
-      "id": "106841496",
-      "symbol": "CDSL",
-      "company": "Central Depository Services (India) Limited",
-      "published_at": "2026-11-03T12:59:27+05:30",
-      "category": "press_release",
+      "id": "106848217",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T18:23:47+05:30",
+      "category": "fund_raise",
       "score": 4,
-      "headline": "Press Release",
-      "summary": "CDSL has informed the Exchange regarding a press release dated November 03, 2026, titled \"CDSL Receives Great Place To Work® Certification\".",
-      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_03112026125814_NSEIntimation_PressRelease_finalsd.pdf",
+      "headline": "General Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Redemption of Commercial Paper",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026182331_SECPRedemption05112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 1320.0,
-        "move_pct": 5.43,
-        "volume_ratio": 3.53
-      },
       "tier": "note",
-      "reason": "Press Release · +5.43% price move · 3.53× volume"
-    },
-    {
-      "id": "106840127",
-      "symbol": "CDSL",
-      "company": "Central Depository Services (India) Limited",
-      "published_at": "2026-11-02T17:54:30+05:30",
-      "category": "earnings_call",
-      "score": 4,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "CDSL has informed the Exchange about the link of audio recording of the conference call held on November 02, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_02112026174345_NSEIntimation_Concall_02Nov2026_sd.pdf",
-      "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 1320.0,
-        "move_pct": 5.43,
-        "volume_ratio": 3.53
-      },
-      "tier": "note",
-      "reason": "Earnings Call · +5.43% price move · 3.53× volume"
+      "reason": "Fund Raise"
     },
     {
       "id": "106836029",
@@ -441,6 +401,46 @@
       "reason": "Credit Rating"
     },
     {
+      "id": "106843597",
+      "symbol": "DEEPAKNTR",
+      "company": "Deepak Nitrite Limited",
+      "published_at": "2026-11-04T11:15:41+05:30",
+      "category": "earnings_call",
+      "score": 3,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Deepak Nitrite Limited has informed the Exchange about Transcript",
+      "source_url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_04112026111452_NSE-concall_transcript.pdf",
+      "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 1578.4,
+        "move_pct": 3.8,
+        "volume_ratio": 0.91
+      },
+      "tier": "note",
+      "reason": "Earnings Call · +3.8% price move · 0.91× volume"
+    },
+    {
+      "id": "106843482",
+      "symbol": "SUNPHARMA",
+      "company": "Sun Pharmaceutical Industries Limited",
+      "published_at": "2026-11-04T10:04:11+05:30",
+      "category": "press_release",
+      "score": 3,
+      "headline": "News Verification",
+      "summary": "The Exchange has sought clarification from Sun Pharmaceutical Industries Limited with respect to recent news item captioned India orders Sun Pharma to halt eye-care drug production at plant after quality lapses. The…",
+      "source_url": "https://nsearchives.nseindia.com/corporate/SUNSEC_04112026100317_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
+      "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 1773.4,
+        "move_pct": 0.2,
+        "volume_ratio": 2.8
+      },
+      "tier": "note",
+      "reason": "Press Release · +0.2% price move · 2.8× volume"
+    },
+    {
       "id": "106837091",
       "symbol": "SUZLON",
       "company": "Suzlon Energy Limited",
@@ -453,6 +453,104 @@
       "source": "NSE filing",
       "tier": "note",
       "reason": "Credit Rating"
+    },
+    {
+      "id": "106848795",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T20:33:40+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Analyst Call Recording",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026203327_SEaudiocallQ227.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847693",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T17:16:16+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Investor Presentation",
+      "summary": "Titan Company Limited has informed the Exchange about Investor Presentation",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026171559_SEinvestorpreQ227.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847658",
+      "symbol": "SUZLON",
+      "company": "Suzlon Energy Limited",
+      "published_at": "2026-11-05T17:10:51+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Suzlon Energy Limited has informed the Exchange about Schedule of meet",
+      "source_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_05112026171020_Suzlon05112026.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847647",
+      "symbol": "SUZLON",
+      "company": "Suzlon Energy Limited",
+      "published_at": "2026-11-05T17:08:57+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Suzlon Energy Limited has informed the Exchange about Schedule of meet",
+      "source_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_05112026170822_Suzlon05112026.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847538",
+      "symbol": "CDSL",
+      "company": "Central Depository Services (India) Limited",
+      "published_at": "2026-11-05T16:51:45+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "CDSL has informed the Exchange about Transcript of Analysts/Institutional Investor Meet/Con. Call held on November 02, 2026.",
+      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847469",
+      "symbol": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "published_at": "2026-11-05T16:36:21+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Dixon Technologies (India) Limited has informed the Exchange about Transcript",
+      "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_05112026163605_EarningCallTranscriptQ2Intimation.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106847279",
+      "symbol": "SUNPHARMA",
+      "company": "Sun Pharmaceutical Industries Limited",
+      "published_at": "2026-11-05T15:54:14+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Sun Pharmaceutical Industries Limited has informed the Exchange about Schedule of meet",
+      "source_url": "https://nsearchives.nseindia.com/corporate/SUNPHARMA456_05112026155401_IntimationSE20261105_for_Analyst_and_Investor_meeting_Signed.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
     },
     {
       "id": "106845480",
@@ -497,34 +595,6 @@
       "reason": "Earnings Call"
     },
     {
-      "id": "106843597",
-      "symbol": "DEEPAKNTR",
-      "company": "Deepak Nitrite Limited",
-      "published_at": "2026-11-04T11:15:41+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Deepak Nitrite Limited has informed the Exchange about Transcript",
-      "source_url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_04112026111452_NSE-concall_transcript.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106843482",
-      "symbol": "SUNPHARMA",
-      "company": "Sun Pharmaceutical Industries Limited",
-      "published_at": "2026-11-04T10:04:11+05:30",
-      "category": "press_release",
-      "score": 2,
-      "headline": "News Verification",
-      "summary": "The Exchange has sought clarification from Sun Pharmaceutical Industries Limited with respect to recent news item captioned India orders Sun Pharma to halt eye-care drug production at plant after quality lapses. The…",
-      "source_url": "https://nsearchives.nseindia.com/corporate/SUNSEC_04112026100317_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Press Release"
-    },
-    {
       "id": "106843037",
       "symbol": "KPITTECH",
       "company": "KPIT Technologies Limited",
@@ -535,8 +605,14 @@
       "summary": "KPIT Technologies Limited has informed the Exchange about Transcript of the Post Earnings Conference call for the quarter ended September 30, 2026, conducted on October 28, 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/KPITTECH_03112026220723_KPIT_Q2FY27_Transcript_Signed.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 520.0,
+        "move_pct": 0.04,
+        "volume_ratio": 0.62
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · +0.04% price move · 0.62× volume"
     },
     {
       "id": "106841813",
@@ -549,8 +625,34 @@
       "summary": "CDSL has informed the Exchange about Schedule of Analyst Call with Balyasny Asset Management (Hong Kong) Limited to be held on Friday, November 06, 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_03112026152936_ConCallInvite_Nov06_2026_sd.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 1323.8,
+        "move_pct": 0.29,
+        "volume_ratio": 0.97
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · +0.29% price move · 0.97× volume"
+    },
+    {
+      "id": "106841496",
+      "symbol": "CDSL",
+      "company": "Central Depository Services (India) Limited",
+      "published_at": "2026-11-03T12:59:27+05:30",
+      "category": "press_release",
+      "score": 2,
+      "headline": "Press Release",
+      "summary": "CDSL has informed the Exchange regarding a press release dated November 03, 2026, titled \"CDSL Receives Great Place To Work® Certification\".",
+      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_03112026125814_NSEIntimation_PressRelease_finalsd.pdf",
+      "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 1323.8,
+        "move_pct": 0.29,
+        "volume_ratio": 0.97
+      },
+      "tier": "note",
+      "reason": "Press Release · +0.29% price move · 0.97× volume"
     },
     {
       "id": "106841276",
@@ -564,13 +666,13 @@
       "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_03112026112356_InvestorMeetOutcome031102026.pdf",
       "source": "NSE filing",
       "price": {
-        "as_of": "2026-11-03",
-        "close": 12270.0,
-        "move_pct": -0.4,
-        "volume_ratio": 1.54
+        "as_of": "2026-11-04",
+        "close": 12290.0,
+        "move_pct": 0.16,
+        "volume_ratio": 0.69
       },
       "tier": "note",
-      "reason": "Earnings Call · -0.4% price move · 1.54× volume"
+      "reason": "Earnings Call · +0.16% price move · 0.69× volume"
     },
     {
       "id": "106840669",
@@ -583,14 +685,8 @@
       "summary": "Clarification regarding news report relating to the Company s Assam facility",
       "source_url": "https://nsearchives.nseindia.com/corporate/SUNSEC_02112026205719_Reply_to_SEs_-_Rumour_Verification02112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 1769.9,
-        "move_pct": -0.01,
-        "volume_ratio": 1.56
-      },
       "tier": "note",
-      "reason": "Press Release · -0.01% price move · 1.56× volume"
+      "reason": "Press Release"
     },
     {
       "id": "106840137",
@@ -603,14 +699,22 @@
       "summary": "Larsen & Toubro Limited has informed the Exchange about Transcript",
       "source_url": "https://nsearchives.nseindia.com/corporate/PAM_02112026175603_TranscriptSep2026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 3948.2,
-        "move_pct": 0.21,
-        "volume_ratio": 1.03
-      },
       "tier": "note",
-      "reason": "Earnings Call · +0.21% price move · 1.03× volume"
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106840127",
+      "symbol": "CDSL",
+      "company": "Central Depository Services (India) Limited",
+      "published_at": "2026-11-02T17:54:30+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "CDSL has informed the Exchange about the link of audio recording of the conference call held on November 02, 2026.",
+      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_02112026174345_NSEIntimation_Concall_02Nov2026_sd.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
     },
     {
       "id": "106839459",
@@ -623,14 +727,8 @@
       "summary": "The Exchange has sought clarification from Sun Pharmaceutical Industries Limited with respect to recent news item captioned India orders Sun Pharma to halt eye-care drug production at plant after quality lapses. The…",
       "source_url": "-",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 1769.9,
-        "move_pct": -0.01,
-        "volume_ratio": 1.56
-      },
       "tier": "note",
-      "reason": "Press Release · -0.01% price move · 1.56× volume"
+      "reason": "Press Release"
     },
     {
       "id": "106839016",
@@ -643,14 +741,8 @@
       "summary": "Larsen & Toubro Limited has informed the Exchange about Bagging/Receiving of orders/contracts",
       "source_url": "https://nsearchives.nseindia.com/corporate/PAM_02112026101835_PressRelease02112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 3948.2,
-        "move_pct": 0.21,
-        "volume_ratio": 1.03
-      },
       "tier": "note",
-      "reason": "Press Release · +0.21% price move · 1.03× volume"
+      "reason": "Press Release"
     },
     {
       "id": "106838897",
@@ -821,46 +913,46 @@
       "reason": "Press Release"
     },
     {
-      "id": "106835327",
-      "symbol": "SUZLON",
-      "company": "Suzlon Energy Limited",
-      "published_at": "2026-10-29T20:36:10+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Suzlon Energy Limited has informed the Exchange about Link of Recording",
-      "source_url": "https://nsearchives.nseindia.com/corporate/SUZLON1_29102026203518_Suzlon29102026.pdf",
+      "id": "106849153",
+      "symbol": "PERSISTENT",
+      "company": "Persistent Systems Limited",
+      "published_at": "2026-11-05T23:30:49+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "General Updates",
+      "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+      "source_url": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_05112026233015_PersistentSEOutcomeAllotmentofCPsNovember52026signed.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
-      "id": "106834466",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:21:37+05:30",
-      "category": "press_release",
-      "score": 2,
-      "headline": "Press Release",
-      "summary": "Trent Limited has informed the Exchange regarding a press release dated October 29, 2026, titled \"Press Release on Unaudited Financial Results (Standalone and Consolidated) for thesecond quarter and half-year ended 30th…",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026162053_PressReleaseOct2026.pdf",
+      "id": "106848291",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T18:36:30+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "Change in Auditors",
+      "summary": "Titan Company Limited has informed the Exchange regarding Change in Auditors of the company.",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026183608_SEappoinmentofstatutoryauditor.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Press Release"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
-      "id": "106834446",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:17:38+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Investor Presentation",
-      "summary": "Trent Limited has informed the Exchange about Investor Presentation",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026161637_InvestorPresentationQ2FY27.pdf",
+      "id": "106848049",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-05T18:02:26+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "General Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Certificate pursuant to SEBI Circular no. SEBI/HO/DDHS/P/CIR/2021/613 dated August 10, 2021",
+      "source_url": "https://nsearchives.nseindia.com/corporate/TITAN_05112026180204_SECPQ2.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
       "id": "106845792",
@@ -901,8 +993,14 @@
       "summary": "Bajaj Finance Limited has submitted the Exchange a copy Srutinizers report of Extraordinary General Meeting held on November 02, 2026. Further, the company has informed the Exchange regarding voting results.",
       "source_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_04112026152849_SEintimationsScrutinizersReportSignedForUpload.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 994.0,
+        "move_pct": 2.47,
+        "volume_ratio": 1.77
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · +2.47% price move · 1.77× volume"
     },
     {
       "id": "106844222",
@@ -915,8 +1013,14 @@
       "summary": "Persistent Systems Limited has informed the Exchange regarding allotment of 700000 securities pursuant to Non Convertible Securities at its meeting held on November 04, 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04112026150907_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 6065.0,
+        "move_pct": -0.52,
+        "volume_ratio": 0.52
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · -0.52% price move · 0.52× volume"
     },
     {
       "id": "106844210",
@@ -929,8 +1033,14 @@
       "summary": "Persistent Systems Limited has informed the Exchange regarding Outcome of Committee Meeting held on November 04, 2026.",
       "source_url": "https://nsearchives.nseindia.com/corporate/PERSISTENTUSER1_04112026150426_PersistentSEOutcomeAllotmentofNCDsNovember42026Signed.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 6065.0,
+        "move_pct": -0.52,
+        "volume_ratio": 0.52
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · -0.52% price move · 0.52× volume"
     },
     {
       "id": "106843088",
@@ -943,8 +1053,14 @@
       "summary": "KPIT Technologies Limited has informed the Exchange regarding 'change in the address of the Corporate Office of the KFin Technologies Limited, Registrar and Share Transfer Agent with effect from December 1, 2026.",
       "source_url": "https://nsearchives.nseindia.com/corporate/KPITTECH_03112026223157_KPIT_RTA_change_in_Corporate_office_S.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 520.0,
+        "move_pct": 0.04,
+        "volume_ratio": 0.62
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · +0.04% price move · 0.62× volume"
     },
     {
       "id": "106842234",
@@ -957,8 +1073,14 @@
       "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Change in Corporate Office Address of RTA with effect from 01st December 2026'.",
       "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_03112026172946_Regulation30DisclosureRTAAddress.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 12290.0,
+        "move_pct": 0.16,
+        "volume_ratio": 0.69
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · +0.16% price move · 0.69× volume"
     },
     {
       "id": "106842119",
@@ -971,8 +1093,14 @@
       "summary": "Hindustan Aeronautics Limited has informed the Exchange regarding 'General Updates'.",
       "source_url": "https://nsearchives.nseindia.com/corporate/HAL_03112026165816_HATSOFFtransfer_signed.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 5079.1,
+        "move_pct": 2.43,
+        "volume_ratio": 1.78
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · +2.43% price move · 1.78× volume"
     },
     {
       "id": "106840525",
@@ -985,14 +1113,8 @@
       "summary": "Bajaj Finance Limited has informed the Exchange regarding Proceedings of Extraordinary General Meeting held on November 02, 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_02112026193032_BFLEGMProceedings.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 970.0,
-        "move_pct": 1.1,
-        "volume_ratio": 0.9
-      },
       "tier": "routine",
-      "reason": "Other · +1.1% price move · 0.9× volume"
+      "reason": "Other"
     },
     {
       "id": "106837294",
@@ -1037,102 +1159,18 @@
       "reason": "Other"
     },
     {
-      "id": "106835437",
-      "symbol": "DEEPAKNTR",
-      "company": "Deepak Nitrite Limited",
-      "published_at": "2026-10-29T22:14:44+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "General Updates",
-      "summary": "Deepak Nitrite Limited has informed the Exchange about General Updates- Q2 & H1 FY2027 Results Presentation",
-      "source_url": "https://nsearchives.nseindia.com/corporate/DEEPAKNTR_29102026221311_DNL_-_Q2_FY27_Results_Presentation_V2.pdf",
+      "id": "106847697",
+      "symbol": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "published_at": "2026-11-05T17:16:41+05:30",
+      "category": "routine",
+      "score": 0,
+      "headline": "Allotment of Securities",
+      "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding allotment of 37750 securities pursuant to ESOP/ESPS at its meeting held on November 05, 2026",
+      "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_05112026171618_Reg30ESOPAllotmentNov.pdf",
       "source": "NSE filing",
       "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106834504",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:32:13+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Change in Director(s)",
-      "summary": "Trent Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163102_AppointmentofDirector.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106834503",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:32:13+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Appointment",
-      "summary": "Trent Limited has informed the Exchange regarding Appointment of Mr Rajiv Dube as Non- Executive Director of the company w.e.f. October 30, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163044_AppointmentofDirector.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106834506",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:32:13+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Appointment",
-      "summary": "Trent Limited has informed the Exchange regarding Appointment of Mrs Kalpana Merchant as Non- Executive Independent Director of the company w.e.f. October 30, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026163140_AppointmentofDirector.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106834418",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-10-29T16:08:05+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Outcome of Board Meeting",
-      "summary": "Trent Limited has submitted to the Exchange about Outcome of Board Meeting held today i.e. 29th October 2026",
-      "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_29102026160446_DraftOutcomeofBM.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106834219",
-      "symbol": "INFY",
-      "company": "Infosys Limited",
-      "published_at": "2026-10-29T15:05:32+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Updates",
-      "summary": "Infosys Limited has informed the Exchange regarding 'Winners of Qorus-Infosys Finacle Banking Innovation Awards 2026 Announced'.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/INFY_29102026150417_PR_29102026.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106833561",
-      "symbol": "RELIANCE",
-      "company": "Reliance Industries Limited",
-      "published_at": "2026-10-29T08:55:40+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Other Restructuring",
-      "summary": "Disclosure under Regulation 30 of the Securities and Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 Voluntary strike off of Hamleys (Franchising) Limited",
-      "source_url": "https://nsearchives.nseindia.com/corporate/kavinavora_29102026084603_SE_29102026.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
+      "reason": "Routine"
     },
     {
       "id": "106841885",
@@ -1145,8 +1183,14 @@
       "summary": "Polycab India Limited has informed the Exchange regarding Allotment of 3403 Shares.",
       "source_url": "https://nsearchives.nseindia.com/corporate/POLYCAB_03112026160106_IntimationtoStockexchange.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-04",
+        "close": 7930.0,
+        "move_pct": 1.19,
+        "volume_ratio": 0.32
+      },
       "tier": "routine",
-      "reason": "Routine"
+      "reason": "Routine · +1.19% price move · 0.32× volume"
     },
     {
       "id": "106839393",
@@ -1159,14 +1203,8 @@
       "summary": "Trent Limited has informed the Exchange about Newspaper Publication on Unaudited Financial Results (Standalone and Consolidated) for the second quarter and half-year ended 30th September 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/TRENT_02112026132637_Q2FY27_Financial_Results_-_Newspaper_Publication.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-03",
-        "close": 3036.5,
-        "move_pct": -0.32,
-        "volume_ratio": 0.64
-      },
       "tier": "routine",
-      "reason": "Routine · -0.32% price move · 0.64× volume"
+      "reason": "Routine"
     },
     {
       "id": "106838788",
@@ -1248,34 +1286,6 @@
       "headline": "ESOP/ESOS/ESPS",
       "summary": "HDFC Bank Limited has informed the Exchange regarding Allotment of 4675598 Shares.",
       "source_url": "https://nsearchives.nseindia.com/corporate/HDFCBANK_30102026132409_SELetterESOP30102026.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Routine"
-    },
-    {
-      "id": "106834291",
-      "symbol": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "published_at": "2026-10-29T15:33:13+05:30",
-      "category": "routine",
-      "score": 0,
-      "headline": "Copy of Newspaper Publication",
-      "summary": "KPIT Technologies Limited has informed the Exchange about Copy of Newspaper Publication of Unaudited Consolidated Financial Results for the quarter and half year ended September 30, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/KPITTECH_29102026153248_Newspaper_Publication_Signed.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Routine"
-    },
-    {
-      "id": "106834249",
-      "symbol": "INFY",
-      "company": "Infosys Limited",
-      "published_at": "2026-10-29T15:15:01+05:30",
-      "category": "routine",
-      "score": 0,
-      "headline": "Copy of Newspaper Publication",
-      "summary": "Infosys Limited has informed the Exchange about Copy of Newspaper Publication",
-      "source_url": "https://nsearchives.nseindia.com/corporate/INFY_29102026151445_SE_intimation_Newspaper_ad_2.pdf",
       "source": "NSE filing",
       "tier": "routine",
       "reason": "Routine"
