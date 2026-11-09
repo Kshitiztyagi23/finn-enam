@@ -1,9 +1,9 @@
 {
   "symbol": "TRENT",
   "company": "Trent Ltd",
-  "about": "About Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts. [1] Key Points Part of Tata Group The company is a part of the Tata Group with ~37% of group shareholding, 32.5% with Tata Sons Private Ltd & 4.3% with Tata Investment Corporation Ltd. [1] Tata Group comprises 100 operating companies in 7 business sectors. The group operates in",
+  "about": "About Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts. [1] Key Points Part of Tata Group: [1] The company is a part of the Tata Group with ~37% of group shareholding, 32.5% with Tata Sons Private Ltd & 4.3% with Tata Investment Corporation Ltd. [2] Tata Group comprises 100 operating companies in 7 business sectors. The group operat",
   "source_page": "https://www.screener.in/company/TRENT/consolidated/",
-  "fetched_at": "2026-11-07T01:27:17+05:30",
+  "fetched_at": "2026-11-10T04:29:10+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -55,6 +55,10 @@
   "transcripts": [],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 9 Nov - Trent announces analyst and institutional investor meet",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bca602f2-cf50-4964-8641-a88186d2b914.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 6 Nov - Trent scheduled a Goldman Sachs investor conference on ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11b1a994-4cb5-4dc8-98ea-73923446674c.pdf"
     },
@@ -69,10 +73,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Retirement 29 Oct - Noel N. Tata retires as Chairman on 11 Nov 2026; Bahram Vakil appointed Chairman",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6d04e12f-221f-4d62-925d-0792202a19e7.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 29 Oct - Noel N. Tata retires as Chairman on 11 Nov 2026; Bahram Vakil becomes",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b891b5ce-4d60-44f6-a01f-1bd507d5de0f.pdf"
     }
   ]
 }

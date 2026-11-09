@@ -3,7 +3,7 @@
   "company": "Titan Company Ltd",
   "about": "About Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1] Key Points Part of the Tata Group [1] [2] The company benefits from its association with the Ta",
   "source_page": "https://www.screener.in/company/TITAN/consolidated/",
-  "fetched_at": "2026-11-07T01:27:16+05:30",
+  "fetched_at": "2026-11-10T04:29:09+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 9 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=ced01c36-48bf-4c4c-a74b-d17875a41c27.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 6 Nov - Newspaper Publication for Unaudited Financial results for the second q",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a4fd562e-8ef5-4e10-8ba9-d2ae42ae09e1.pdf"
     },
@@ -86,10 +90,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Retirement 5 Nov - Noel N. Tata retires as Non-Executive Director and Vice-Chairman effective 12 Nov",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2144a96-1845-46b3-b1d6-2df374df6da1.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Appointment of Statutory Auditor/s 5 Nov - Titan appoints Price Waterhouse Chartered Accountants LLP",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=939e5a87-b131-40be-b3c2-01910374f132.pdf"
     }
   ]
 }
