@@ -1,60 +1,79 @@
-# FINN — a source-first portfolio brief
+# FINN — a source-first portfolio filing desk
 
-FINN is a mobile-first prototype for an investor following 18 Indian listed companies. The **Brief** defaults to the 24 hours before the cached snapshot, grouping related earnings documents into company events. A seven-day view is one tap away. **Filings** keeps every original announcement searchable, with routine paperwork available on request. **Research** accepts any NSE ticker and renders a filing-verified result grid, management appointments, and a **Promise Tracker** that reconciles prior-call guidance with later disclosure. **Signals** lets investors tune price, volume, and filing-category matches.
+[Open the live prototype](https://finn-enam-2343.onrender.com/) · [View the source code](https://github.com/Kshitiztyagi23/finn-enam)
 
-Five tickers ship with filing-verified evidence extracted from NSE Outcome PDFs: **DIXON** (hand-curated), **RELIANCE**, **INFY**, **HDFCBANK**, and **LT**. The Promise Tracker covers Dixon, Reliance, and Infosys. Every number, bio, and verdict links back to a specific page of the source PDF.
+FINN helps an investor follow 18 NSE-listed companies. It groups related exchange announcements into readable developments, keeps the original filings close, and compares selected company results with earlier management statements. It is a responsive web app built with FastAPI, plain JavaScript, and cached public data.
+
+The Render service may take about 30 seconds to wake after being idle. The app shows the timestamp of the filing snapshot it is displaying.
+
+## Take a one-minute tour
+
+1. **Brief:** Read the lead development, switch between the 24-hour and seven-day views, and expand an event to see its source filings. These windows end at the cached snapshot time.
+2. **Research:** Open **DIXON** for the hand-curated results comparison and a management statement with its later disclosure check. Open **RELIANCE** or **INFY** to see the automated results and Promise Tracker examples. Follow the PDF page links to inspect the evidence.
+3. **Filings:** Search by company or subject, change the time filter, and include routine announcements to see the full cached filing trail.
+4. **Signals:** Adjust filing categories, daily price moves, and volume thresholds to preview matches. The settings are saved in this browser. The header also has a light/dark theme toggle.
+
+## What is implemented
+
+| View | Current behavior |
+| --- | --- |
+| Brief | Ranks portfolio developments using filing type and end-of-day market context. Related results, presentations, and transcripts are grouped into one expandable event. |
+| Filings | Searchable, paginated archive of every announcement in the current cached snapshot, including routine filings on request. |
+| Research | Accepts an NSE ticker. Five companies have source-linked result grids: **DIXON**, **RELIANCE**, **INFY**, **HDFCBANK**, and **LT**. Other tickers show available exchange filings, annual reports, and transcripts without presenting an unverified results grid. |
+| Promise Tracker | Compares earlier call statements with later disclosures for **DIXON**, **RELIANCE**, and **INFY**. A statement stays `pending` when the later document does not report a directly comparable metric. |
+| Signals | Browser-local filing, price-move, and volume settings with a preview of matches from the cached snapshot. |
+
+Dixon's result grid was curated by hand. The other four result grids were extracted from company PDFs with Gemini and passed programmed checks for units, missing metrics, and implausible changes before being saved. The Promise Tracker also uses Gemini to compare a prior transcript with a later filing. Each displayed comparison provides source links so readers can inspect the underlying documents. HDFCBANK and LT have results grids but no completed Promise Tracker examples in the bundled evidence.
 
 ## Run locally
 
-Requires Python 3.12 or newer.
+Use Python 3.12 or newer:
 
 ```powershell
 python -m pip install -r requirements.txt
 python -m uvicorn app:app --reload
 ```
 
-Open `http://127.0.0.1:8000`. The committed snapshots work without any API key — the five verified tickers plus the research page for all 20 cached companies are precomputed JSON. For a 60-second tour, open **Research → RELIANCE** or **INFY**: the results grid, the Promise Tracker's "earlier statement vs later disclosure" pair, and every page-linked source are the heart of the prototype.
+Open <http://127.0.0.1:8000>. The committed snapshots and five evidence examples work without an API key. Research pages for 20 companies are cached; a ticker outside that cache makes a live request to Screener for its document index and may fail if that site is unavailable.
 
-To refresh public data (requires `GEMINI_API_KEY` in `.env` for the LLM extractors):
+## Data and refresh
+
+The weekday [GitHub Actions workflow](.github/workflows/refresh.yml) refreshes the NSE filing digest, Yahoo Finance end-of-day market context, cached company document indexes, and transcript candidates at **18:45 IST**. It commits the new public snapshots under `data/`. The five results grids and three Promise Tracker examples are separate evidence snapshots; that scheduled workflow does **not** rebuild them.
+
+To refresh public snapshots yourself:
 
 ```powershell
-python pipeline/build_digest.py --days 30
+python pipeline/build_digest.py --days 7
 python pipeline/cache_research.py
-python pipeline/build_evidence.py RELIANCE INFY HDFCBANK LT   # LLM: results grid + appointment bios
-python pipeline/build_promises.py DIXON INFY RELIANCE          # LLM: promise reconciliation
-python pipeline/cache_claims.py                                # transcript candidates for ad-hoc tickers
+python pipeline/cache_claims.py
 ```
 
-The first command fetches NSE filings for the 18-stock portfolio and recent Yahoo Finance end-of-day prices. To try a smaller set, run `python pipeline/build_digest.py --symbols RELIANCE DIXON`. Tickers outside the cache are loaded from Screener live when requested — the engine works on any NSE symbol.
+To rebuild model-extracted evidence, put `GEMINI_API_KEY` in a local `.env` file, then run:
 
-## Architecture
+```powershell
+python pipeline/build_evidence.py RELIANCE INFY HDFCBANK LT
+python pipeline/build_promises.py DIXON INFY RELIANCE
+```
+
+The evidence stage uses structured JSON output and rejects result grids that fail its sanity checks. Its model calls are cached under `.cache/llm/` by the input and model configuration. Some source PDFs are stored under `data/pdf-cache/` for inspection; the interface currently links to the original source URLs. The deployed app serves saved JSON and makes no Gemini call when a visitor opens a page.
 
 ```mermaid
 flowchart LR
-    NSE[NSE filings] --> P[Python refresh pipeline]
-    YF[Yahoo EOD prices] --> P
-    P --> J[Cached digest JSON]
-    J --> API[FastAPI]
-    SC[Screener document index] --> API
-    PDF[Company transcript PDFs] --> E[Quote extractor]
-    E --> API
-    API --> UI[Mobile web interface]
+    NSE[NSE filings] --> Refresh[Scheduled Python refresh]
+    Yahoo[Yahoo end-of-day data] --> Refresh
+    Screener[Screener document indexes] --> Refresh
+    Refresh --> Snapshots[Cached JSON snapshots]
+    PDFs[Company PDFs] --> Evidence[Gemini extraction and checks]
+    Evidence --> Snapshots
+    Snapshots --> API[FastAPI]
+    API --> UI[Responsive web interface]
 ```
 
-The push pipeline uses explicit category keywords and a small explainable priority score — no LLM, so filing triage is zero-cost and the judgment is inspectable. The evidence pipeline sends each Outcome PDF to Gemini 3.5 Flash (model-chain fallback: 3.5-flash → flash-latest → flash-lite → 3.8-flash → pro-latest) with a strict JSON schema and deterministic sanity checks: wrong unit, PBT < PAT, or a >10× magnitude swing on a cell cause the whole grid to be dropped rather than published. The Promise Tracker calls Gemini once per ticker with both the prior transcript and the later filing, under instructions that force `pending` whenever the metric, period, or basis is not an exact match. The pipeline self-test (`scratchpad/test_dixon_extract.py`) reproduces the hand-verified Dixon grid to 0.1% across all 12 cells.
+## Current limits
 
-Every LLM call is cached under `.cache/llm/` by `(model, prompt, pdf-hash, schema)`. Mirrored PDFs sit under `data/pdf-cache/` and are served at `/pdf-cache/<file>` so the UI survives NSE URL expiry or IP blocks. The deployed app reads cached JSON only — no Gemini call runs at demo time.
+- The filing snapshot refreshes on a schedule; the result grids and Promise Tracker examples remain fixed until their evidence builders are run again. Always check the date of a comparison before using it.
+- Signals preview matches in the app. There are no phone, email, or browser push notifications.
+- The Promise Tracker covers three companies and selected statements, not four quarters of every portfolio company's guidance. The extracted comparisons have page links and still warrant human review.
+- Live research for uncached tickers depends on Screener. The refresh pipeline depends on external NSE and Yahoo clients, which can temporarily fail.
 
-## Product choices and limits
-
-- **Events before documents.** The Brief joins quarterly results, presentations, call recordings, transcripts, and closely related exchange announcements when they belong to one company event. One lead development and up to four follow-ups appear first; each expands to its complete source trail. The seven-day snapshot powers a 24-hour default view and a seven-day alternative. The full archive retains all 88 source filings, with search, company and time filters, pagination, and an option to include routine items. The reviewed state is local to this browser.
-- **User-defined signals.** Price move, volume multiple, and filing categories are saved locally in the browser. The Signals screen initially previews five matches and offers the complete list on request. This prototype does not send push notifications.
-- **Primary sources are close.** Dixon's result figures, appointment bio, and transcript statement link to specific filing pages. Its reported EBITDA comparison uses the company's half-year total to derive the prior quarter and says so in the interface. The management comparison also links the later result filing that was checked. Other tickers show their exchange filings, annual reports, and call transcripts; the interface withholds a results comparison until it has filing-verified figures.
-- **No fabricated verdicts.** The guidance ledger offers source-linked candidate sentences. It does not mark a statement delivered or missed until its metric, period, segment, and speaker are matched to a later primary filing. PDF text extraction can have spacing errors.
-- **No model cost or key required.** Classification and extraction are deterministic. A later version could route only ambiguous filings and claim matching to a model, cache by document hash, and require a source quote for every generated conclusion.
-
-The filing-verified result and bio extraction now ships for five tickers (Dixon curated, Reliance, Infy, HDFC Bank, L&T via the LLM extractor). The Promise Tracker ships for Dixon, Reliance and Infy. L&T's promise call hit a Gemini quota during build and HDFCBANK's prior transcript PDF was unparseable — both tickers fall through to their verified results grid plus the document trail; a repeat build will fill them in. The refresh depends on unofficial NSE and Yahoo clients, and the live research document index depends on Screener's current HTML. Committed snapshots keep the main demo available during source outages.
-
-## Submission status
-
-Ready to deploy from the included Dockerfile to any Python-capable host. The assignment PDF states a deadline of **1 November 2026**; this submission is 2 days late and the covering email acknowledges it up front.
+The app is deployed on Render using the included [Dockerfile](Dockerfile).
