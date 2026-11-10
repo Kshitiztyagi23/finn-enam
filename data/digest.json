@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T04:28:52+05:30",
+  "generated_at": "2026-11-11T01:57:43+05:30",
   "window_days": 7,
   "portfolio": [
     {
@@ -251,6 +251,20 @@
       "source": "NSE filing",
       "tier": "act",
       "reason": "Results"
+    },
+    {
+      "id": "106854062",
+      "symbol": "BAJFINANCE",
+      "company": "Bajaj Finance Limited",
+      "published_at": "2026-11-10T12:58:49+05:30",
+      "category": "fund_raise",
+      "score": 4,
+      "headline": "Allotment of Securities",
+      "summary": "Bajaj Finance Limited has informed the Exchange regarding allotment of 5,74,25,740 securities pursuant to Preferential Issue at its meeting held on November 10, 2026",
+      "source_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026125828_BFL_Reg_30__Allotment_of_warrants_Final_1.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Fund Raise"
     },
     {
       "id": "106853387",
@@ -645,60 +659,18 @@
       "reason": "Press Release"
     },
     {
-      "id": "106843037",
-      "symbol": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "published_at": "2026-11-03T22:07:58+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "KPIT Technologies Limited has informed the Exchange about Transcript of the Post Earnings Conference call for the quarter ended September 30, 2026, conducted on October 28, 2026",
-      "source_url": "https://nsearchives.nseindia.com/corporate/KPITTECH_03112026220723_KPIT_Q2FY27_Transcript_Signed.pdf",
+      "id": "106854034",
+      "symbol": "BAJFINANCE",
+      "company": "Bajaj Finance Limited",
+      "published_at": "2026-11-10T12:15:58+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "Committee Meeting Updates",
+      "summary": "Bajaj Finance Limited has informed the Exchange regarding Outcome of PI 2026 - Special Committee Meeting held on November 10, 2026.",
+      "source_url": "https://nsearchives.nseindia.com/corporate/BAJFINANCE_10112026121523_BFL_Reg_30_Outcome_PricingofPIpostVRFinal.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106841813",
-      "symbol": "CDSL",
-      "company": "Central Depository Services (India) Limited",
-      "published_at": "2026-11-03T15:33:02+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "CDSL has informed the Exchange about Schedule of Analyst Call with Balyasny Asset Management (Hong Kong) Limited to be held on Friday, November 06, 2026",
-      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_03112026152936_ConCallInvite_Nov06_2026_sd.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106841496",
-      "symbol": "CDSL",
-      "company": "Central Depository Services (India) Limited",
-      "published_at": "2026-11-03T12:59:27+05:30",
-      "category": "press_release",
-      "score": 2,
-      "headline": "Press Release",
-      "summary": "CDSL has informed the Exchange regarding a press release dated November 03, 2026, titled \"CDSL Receives Great Place To Work® Certification\".",
-      "source_url": "https://nsearchives.nseindia.com/corporate/CDSL_03112026125814_NSEIntimation_PressRelease_finalsd.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Press Release"
-    },
-    {
-      "id": "106841276",
-      "symbol": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "published_at": "2026-11-03T11:24:09+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst or Institutional Investor Meet",
-      "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_03112026112356_InvestorMeetOutcome031102026.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
       "id": "106852542",
@@ -853,48 +825,6 @@
       "reason": "Other"
     },
     {
-      "id": "106843088",
-      "symbol": "KPITTECH",
-      "company": "KPIT Technologies Limited",
-      "published_at": "2026-11-03T22:39:48+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Updates",
-      "summary": "KPIT Technologies Limited has informed the Exchange regarding 'change in the address of the Corporate Office of the KFin Technologies Limited, Registrar and Share Transfer Agent with effect from December 1, 2026.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/KPITTECH_03112026223157_KPIT_RTA_change_in_Corporate_office_S.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106842234",
-      "symbol": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "published_at": "2026-11-03T17:30:12+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Updates",
-      "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding 'Change in Corporate Office Address of RTA with effect from 01st December 2026'.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_03112026172946_Regulation30DisclosureRTAAddress.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106842119",
-      "symbol": "HAL",
-      "company": "Hindustan Aeronautics Limited",
-      "published_at": "2026-11-03T16:58:31+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Updates",
-      "summary": "Hindustan Aeronautics Limited has informed the Exchange regarding 'General Updates'.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/HAL_03112026165816_HATSOFFtransfer_signed.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
       "id": "106851783",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
@@ -944,20 +874,6 @@
       "headline": "Allotment of Securities",
       "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding allotment of 37750 securities pursuant to ESOP/ESPS at its meeting held on November 05, 2026",
       "source_url": "https://nsearchives.nseindia.com/corporate/DIXON_05112026171618_Reg30ESOPAllotmentNov.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Routine"
-    },
-    {
-      "id": "106841885",
-      "symbol": "POLYCAB",
-      "company": "Polycab India Limited",
-      "published_at": "2026-11-03T16:01:15+05:30",
-      "category": "routine",
-      "score": 0,
-      "headline": "ESOP/ESOS/ESPS",
-      "summary": "Polycab India Limited has informed the Exchange regarding Allotment of 3403 Shares.",
-      "source_url": "https://nsearchives.nseindia.com/corporate/POLYCAB_03112026160106_IntimationtoStockexchange.pdf",
       "source": "NSE filing",
       "tier": "routine",
       "reason": "Routine"
