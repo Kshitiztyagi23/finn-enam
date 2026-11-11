@@ -3,7 +3,7 @@
   "company": "Bajaj Finance Ltd",
   "about": "About Bajaj Finance is mainly engaged in the business of lending. BFL has a diversified lending portfolio across retail, SME and commercial customers with a significant presence in urban and rural India. It also accepts public and corporate deposits and offers variety of financial services products to its customers.(Source : 202003 Annual Report Page No:124) Key Points Business Overview: [1] The company is India's largest private-sector Non-Banki",
   "source_page": "https://www.screener.in/company/BAJFINANCE/consolidated/",
-  "fetched_at": "2026-11-11T01:57:59+05:30",
+  "fetched_at": "2026-11-12T01:41:36+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -65,6 +65,10 @@
     }
   ],
   "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 11 Nov - Bajaj Finance opens QIP on Nov 11, 2026; floor price set at ₹992.25 per sha",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4dc63132-8d0c-4836-b74b-f289525d6384.pdf"
+    },
     {
       "label": "Announcement under Regulation 30 (LODR)-Allotment 10 Nov - Approved allotment of 5.74 crore warrants to Bajaj Finserv at Rs 1,010 each.",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=84c0dbf5-4b55-41b9-ab7b-e20d9fe359a9.pdf"

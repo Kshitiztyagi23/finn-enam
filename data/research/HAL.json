@@ -3,7 +3,7 @@
   "company": "Hindustan Aeronautics Ltd",
   "about": "About Hindustan Aeronautics Ltd (HAL), a 71.64% Government-owned Maha-Ratna CPSE, designs, manufactures, upgrades and provides lifecycle MRO for aircraft, helicopters, aero -engines, avionics /accessories and aerostructures, principally for India’s armed forces. [1] Key Points Business Segments 1) Manufacturing The five-complex model covers: 1) Fixed-wing aircraft: LCA Tejas, Su-30MKI, Do/Hindustan-228, HTT-40 and legacy fleets 2) ⁠Helicopters: A",
   "source_page": "https://www.screener.in/company/HAL/consolidated/",
-  "fetched_at": "2026-11-11T01:58:06+05:30",
+  "fetched_at": "2026-11-12T01:41:43+05:30",
   "quarters": {
     "quarter": "Jun 2026",
     "values": {
@@ -76,16 +76,16 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Credit Rating 11 Nov - ICRA withdrew HAL’s ratings on 11 Nov 2026 for ₹6,050 crore facilities.",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e59337e-225e-46d8-8c57-58c1516b4d2b.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 28 Oct - HAL appointed P B Rangarao as Director (Operations) from 28 Oct 2026;",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=cbad9087-72a3-4ba2-a5e9-dd6d9d405981.pdf"
     },
     {
       "label": "Board Meeting Intimation for Considering The Audited Financial Results For The Period Ended 30.09.2026 27 Oct - HAL board to meet on 12 Nove",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4dbcb5e9-2a42-4aca-8bea-6866b4f0f9b8.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 7 Oct - HAL appointed Anindya Biswas as Government Nominee Director from 7 Oct",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c4fa70d2-bab3-4652-995d-4727e34503b0.pdf"
     }
   ]
 }

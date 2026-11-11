@@ -3,7 +3,7 @@
   "company": "Titan Company Ltd",
   "about": "About Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1] Key Points Part of the Tata Group [1] [2] The company benefits from its association with the Ta",
   "source_page": "https://www.screener.in/company/TITAN/consolidated/",
-  "fetched_at": "2026-11-11T01:58:01+05:30",
+  "fetched_at": "2026-11-12T01:41:38+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -54,6 +54,10 @@
   ],
   "transcripts": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 11 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=daa6c172-771a-4af5-b4b3-9813fdf7536a.pdf"
+    },
+    {
       "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f70a0a33-43cf-40b6-a753-67b06123e8de.pdf"
     },
@@ -68,10 +72,6 @@
     {
       "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=c3a5d70a-78ac-4407-aed7-e06b93e17a8f.pdf"
-    },
-    {
-      "label": "Transcript",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=91e6dc31-44a8-4bae-bea2-9f10e08c8dec.pdf"
     }
   ],
   "recent_filings": [
@@ -86,10 +86,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 5 Nov - Titan published analyst call recording for Q2 and half-yea",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=e7a2f589-b1f3-4953-a599-4d4a69a4c5cd.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Retirement 5 Nov - Noel N. Tata retires as Non-Executive Director and Vice-Chairman effective 12 Nov",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f2144a96-1845-46b3-b1d6-2df374df6da1.pdf"
     }
   ]
 }
