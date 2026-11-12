@@ -3,29 +3,29 @@
   "company": "Hindustan Aeronautics Ltd",
   "about": "About Hindustan Aeronautics Ltd (HAL), a 71.64% Government-owned Maha-Ratna CPSE, designs, manufactures, upgrades and provides lifecycle MRO for aircraft, helicopters, aero -engines, avionics /accessories and aerostructures, principally for India’s armed forces. [1] Key Points Business Segments 1) Manufacturing The five-complex model covers: 1) Fixed-wing aircraft: LCA Tejas, Su-30MKI, Do/Hindustan-228, HTT-40 and legacy fleets 2) ⁠Helicopters: A",
   "source_page": "https://www.screener.in/company/HAL/consolidated/",
-  "fetched_at": "2026-11-12T01:41:43+05:30",
+  "fetched_at": "2026-11-13T02:18:17+05:30",
   "quarters": {
-    "quarter": "Jun 2026",
+    "quarter": "Sep 2026",
     "values": {
       "revenue": {
-        "current": "5,515",
-        "previous": "13,942",
-        "year_ago": "4,819"
+        "current": "7,613",
+        "previous": "5,515",
+        "year_ago": "6,629"
       },
       "ebitda_proxy": {
-        "current": "1,527",
-        "previous": "5,059",
-        "year_ago": "1,282"
+        "current": "1,739",
+        "previous": "1,527",
+        "year_ago": "1,558"
       },
       "pbt": {
-        "current": "2,134",
-        "previous": "5,584",
-        "year_ago": "1,854"
+        "current": "2,566",
+        "previous": "2,134",
+        "year_ago": "2,227"
       },
       "pat": {
-        "current": "1,590",
-        "previous": "4,196",
-        "year_ago": "1,384"
+        "current": "1,936",
+        "previous": "1,590",
+        "year_ago": "1,669"
       }
     },
     "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
@@ -75,6 +75,10 @@
     }
   ],
   "recent_filings": [
+    {
+      "label": "Audited Financial Results (Standalone And Consolidated) For The Quarter And Half Year Ended 30Th September, 2026 12 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=93bc4901-a0dd-4c78-894f-74203cfdc6ab.pdf"
+    },
     {
       "label": "Announcement under Regulation 30 (LODR)-Credit Rating 11 Nov - ICRA withdrew HAL’s ratings on 11 Nov 2026 for ₹6,050 crore facilities.",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6e59337e-225e-46d8-8c57-58c1516b4d2b.pdf"

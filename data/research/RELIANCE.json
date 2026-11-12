@@ -3,7 +3,7 @@
   "company": "Reliance Industries Ltd",
   "about": "About Reliance was founded by Dhirubhai Ambani and is now promoted and managed by his elder son, Mukesh Dhirubhai Ambani. Ambani's family has about 50% shareholding in the conglomerate. Key Points Architecture Reliance Industries Limited holds key business stakes, including 66.43% in Jio Platforms (RJIL). Additionally, it maintains an 83.56% ownership each in Reliance Retail Ventures and Reliance Consumer Products, alongside a 59.59% holding in J",
   "source_page": "https://www.screener.in/company/RELIANCE/consolidated/",
-  "fetched_at": "2026-11-12T01:41:32+05:30",
+  "fetched_at": "2026-11-13T02:18:07+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 12 Nov - The Company executives will be participating in the In",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=55f9d4f5-8638-4669-abdb-7cc4127221fc.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 6 Nov - Reliance executives will attend a one-on-one CLSA India",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bab324f6-6fab-42fc-8b79-a3881f4fb7c7.pdf"
     },
@@ -86,10 +90,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 31 Oct - Audio recording of October 30, 2026 analyst meet on Q2 FY",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0f665e67-b13f-4624-9278-3f4183d817eb.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Investor Presentation 30 Oct - Please find attached presentation on the Unaudited Financial Results ",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=0dc8ebe7-5e2d-4946-85ee-1e536c461a71.pdf"
     }
   ]
 }
