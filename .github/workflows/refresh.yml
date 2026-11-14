@@ -5,6 +5,10 @@ on:
   schedule:
     - cron: "15 13 * * 1-5" # 18:45 IST on weekdays
 
+concurrency:
+  group: refresh-public-snapshots
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -27,5 +31,7 @@ jobs:
           git config user.email "finn-data-bot@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Refresh public market snapshot"
-          git push
+          git fetch origin master
+          git rebase origin/master
+          git push origin HEAD:master
 
