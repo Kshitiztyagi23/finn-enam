@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import importlib
 import json
 import math
 import sys
@@ -16,7 +17,9 @@ VENDOR = ROOT / ".vendor"
 if VENDOR.exists():
     sys.path.insert(0, str(VENDOR))
 
+import httpx  # noqa: E402
 from nse import NSE  # noqa: E402
+from nse.transport import Transport  # noqa: E402
 import yfinance as yf  # noqa: E402
 
 warnings.filterwarnings("ignore", category=FutureWarning)
@@ -54,6 +57,30 @@ RULES = [
     ("press_release", 2, ("press release", "order win", "bagging/receiving of orders", "rumour verification", "news verification")),
     ("routine", 0, ("trading window", "newspaper", "compliance certificate", "esop", "investor meeting", "postal ballot", "shareholder meeting")),
 ]
+
+
+class RedirectingTransport(Transport):
+    """Keep the NSE client working when its website redirects its host."""
+
+    def _start_session(self) -> None:
+        self._session = httpx.Client(
+            headers=self.headers,
+            http2=self.use_http2,
+            timeout=self.timeout,
+            follow_redirects=True,
+        )
+
+        cookies = self.cookie_store.load()
+        if not cookies.jar:
+            cookies = self._fetch_cookies()
+            self.cookie_store.save(cookies)
+
+        self._session.cookies.update(cookies)
+
+
+# nse 5.1.2 constructs Transport internally, so replace that dependency at
+# the module boundary rather than changing the installed package.
+importlib.import_module("nse.NSE").Transport = RedirectingTransport
 
 
 def classify(title: str, detail: str) -> tuple[str, int]:
