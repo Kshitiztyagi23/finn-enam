@@ -3,7 +3,7 @@
   "company": "Central Depository Services (India) Ltd",
   "about": "About Central Depository Services Limited is a Market Infrastructure Institution (MII), part of the capital market structure, providing services to all market participants - exchanges, clearing corporations, depository participants (DPs), issuers and investors. It is a facilitator for holding of securities in the dematerialised form and an enabler for securities transactions. [1] Key Points Business Overview: CDSL facilitates holding and transact",
   "source_page": "https://www.screener.in/company/CDSL/consolidated/",
-  "fetched_at": "2026-11-13T02:18:20+05:30",
+  "fetched_at": "2026-11-17T04:23:09+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -55,6 +55,10 @@
   "transcripts": [
     {
       "label": "Transcript",
+      "url": "https://nsearchives.nseindia.com/corporate/CDSL_05112026164633_NSEIntimationTranscript02112026Sd.pdf"
+    },
+    {
+      "label": "Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/CDSL_07082026155803_NSEintimationtranscript.pdf"
     },
     {
@@ -68,10 +72,6 @@
     {
       "label": "Transcript",
       "url": "https://nsearchives.nseindia.com/corporate/CDSL_06112025192633_NSEintimationtranscript_03112025_Signed.pdf"
-    },
-    {
-      "label": "Transcript",
-      "url": "https://nsearchives.nseindia.com/corporate/CDSL_01082025164114_NSEIntimationConcallTranscript.pdf"
     }
   ],
   "recent_filings": []

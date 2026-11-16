@@ -3,29 +3,29 @@
   "company": "Indian Railway Catering & Tourism Corporation Ltd",
   "about": "About Incorporated in 1999, IRCTC is a Navratna (Category 1, Central Public Sector Enterprises ) and the only company authorized by the Indian government to provide online railway tickets, catering services, and packaged drinking water at railway stations and trains in India [1] Key Points Business segments: [1] A) Catering (46% in FY26 vs 27% in FY22): IRCTC runs onboard catering, station food services and e-catering. It serves 63 Cr+ meals a ye",
   "source_page": "https://www.screener.in/company/IRCTC/consolidated/",
-  "fetched_at": "2026-11-13T02:18:22+05:30",
+  "fetched_at": "2026-11-17T04:23:11+05:30",
   "quarters": {
-    "quarter": "Jun 2026",
+    "quarter": "Sep 2026",
     "values": {
       "revenue": {
-        "current": "1,370",
-        "previous": "1,460",
-        "year_ago": "1,160"
+        "current": "1,333",
+        "previous": "1,370",
+        "year_ago": "1,146"
       },
       "ebitda_proxy": {
-        "current": "387",
-        "previous": "399",
-        "year_ago": "397"
+        "current": "408",
+        "previous": "387",
+        "year_ago": "404"
       },
       "pbt": {
-        "current": "442",
-        "previous": "447",
-        "year_ago": "442"
+        "current": "356",
+        "previous": "442",
+        "year_ago": "457"
       },
       "pat": {
-        "current": "330",
-        "previous": "326",
-        "year_ago": "331"
+        "current": "264",
+        "previous": "330",
+        "year_ago": "342"
       }
     },
     "source_note": "Screener standardized quarterly table. Operating profit is shown as an EBITDA proxy; verify against the filing."
@@ -76,12 +76,12 @@
   ],
   "recent_filings": [
     {
-      "label": "Unaudited Financial Results (Standalone & Consolidated) For The Quarter And Half Year Ended On September 30, 2026 12 Nov",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=788c2d34-b575-4343-b984-f1628be0e6c6.pdf"
+      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 13 Nov - Please find attached herewith Newspaper Publication regarding Q2FY27 ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=95651ec6-7981-473a-9005-26a5d06d478c.pdf"
     },
     {
-      "label": "Announcement under Regulation 30 (LODR)-Change in Management 19 Oct - IRCTC senior manager Suresh Kumar Sharma repatriated on request, ceasi",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5d46695c-4996-4b8f-aa8d-1fb80280d8f1.pdf"
+      "label": "Unaudited Financial Results (Standalone & Consolidated) For The Quarter And Half Year Ended On September 30, 2026 12 Nov",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=788c2d34-b575-4343-b984-f1628be0e6c6.pdf"
     }
   ]
 }
