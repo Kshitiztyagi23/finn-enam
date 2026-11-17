@@ -3,7 +3,7 @@
   "company": "Trent Ltd",
   "about": "About Trent Ltd is engaged in retailing of apparels, footwear, accessories, toys, games, food, grocery & non food products through various of its retail formats/ concepts. [1] Key Points Part of Tata Group: [1] The company is a part of the Tata Group with ~37% of group shareholding, 32.5% with Tata Sons Private Ltd & 4.3% with Tata Investment Corporation Ltd. [2] Tata Group comprises 100 operating companies in 7 business sectors. The group operat",
   "source_page": "https://www.screener.in/company/TRENT/consolidated/",
-  "fetched_at": "2026-11-17T04:23:01+05:30",
+  "fetched_at": "2026-11-18T03:15:59+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -55,6 +55,10 @@
   "transcripts": [],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 17 Nov - Intimation of schedule of Analyst / Institutional Inve",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68f10113-f839-4891-994e-312e5df5ebf0.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Credit Rating 16 Nov - CARE reaffirmed Trent’s commercial paper rating A1+ on ₹750 crore limit, up f",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4c31e194-fe41-4e54-9862-fdda5efccb7b.pdf"
     },
@@ -65,10 +69,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 6 Nov - Trent scheduled a Goldman Sachs investor conference on ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=11b1a994-4cb5-4dc8-98ea-73923446674c.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 2 Nov - Newspaper Publication on Unaudited Financial Results(Standalone and Co",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=773ac0af-b53b-4ef9-9866-32dac67c2935.pdf"
     }
   ]
 }
