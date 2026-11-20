@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T02:58:57+05:30",
+  "generated_at": "2026-11-21T02:33:44+05:30",
   "window_days": 7,
   "portfolio": [
     {
@@ -95,129 +95,115 @@
   ],
   "prices": {
     "RELIANCE": {
-      "as_of": "2026-11-18",
-      "close": 1363.0,
-      "move_pct": -0.29,
-      "volume_ratio": 0.86
-    },
-    "HDFCBANK": {
-      "as_of": "2026-11-18",
-      "close": 808.15,
-      "move_pct": -0.83,
-      "volume_ratio": 0.55
-    },
-    "INFY": {
-      "as_of": "2026-11-18",
-      "close": 1108.8,
-      "move_pct": -1.88,
-      "volume_ratio": 0.43
-    },
-    "LT": {
-      "as_of": "2026-11-18",
-      "close": 4159.0,
-      "move_pct": 0.08,
-      "volume_ratio": 0.47
-    },
-    "BAJFINANCE": {
-      "as_of": "2026-11-18",
-      "close": 1093.85,
-      "move_pct": -2.43,
-      "volume_ratio": 0.91
-    },
-    "SUNPHARMA": {
-      "as_of": "2026-11-18",
-      "close": 1871.5,
-      "move_pct": 0.08,
-      "volume_ratio": 0.72
-    },
-    "TITAN": {
-      "as_of": "2026-11-18",
-      "close": 4648.1,
-      "move_pct": -5.3,
-      "volume_ratio": 1.38
-    },
-    "TRENT": {
-      "as_of": "2026-11-18",
-      "close": 3190.0,
-      "move_pct": 0.43,
-      "volume_ratio": 1.3
-    },
-    "ETERNAL": {
-      "as_of": "2026-11-18",
-      "close": 366.0,
-      "move_pct": -2.41,
-      "volume_ratio": 0.49
-    },
-    "DIXON": {
-      "as_of": "2026-11-18",
-      "close": 12615.0,
-      "move_pct": -3.56,
+      "as_of": "2026-11-19",
+      "close": 1375.6,
+      "move_pct": 0.92,
       "volume_ratio": 0.68
     },
+    "HDFCBANK": {
+      "as_of": "2026-11-19",
+      "close": 821.8,
+      "move_pct": 1.69,
+      "volume_ratio": 0.62
+    },
+    "INFY": {
+      "as_of": "2026-11-19",
+      "close": 1091.9,
+      "move_pct": -1.52,
+      "volume_ratio": 0.85
+    },
+    "LT": {
+      "as_of": "2026-11-19",
+      "close": 4211.0,
+      "move_pct": 1.25,
+      "volume_ratio": 0.88
+    },
+    "BAJFINANCE": {
+      "as_of": "2026-11-19",
+      "close": 1092.85,
+      "move_pct": -0.09,
+      "volume_ratio": 0.77
+    },
+    "SUNPHARMA": {
+      "as_of": "2026-11-19",
+      "close": 1900.0,
+      "move_pct": 1.52,
+      "volume_ratio": 0.84
+    },
+    "TITAN": {
+      "as_of": "2026-11-19",
+      "close": 4700.0,
+      "move_pct": 1.12,
+      "volume_ratio": 1.15
+    },
+    "TRENT": {
+      "as_of": "2026-11-19",
+      "close": 3225.0,
+      "move_pct": 1.1,
+      "volume_ratio": 0.73
+    },
+    "ETERNAL": {
+      "as_of": "2026-11-19",
+      "close": 366.85,
+      "move_pct": 0.23,
+      "volume_ratio": 1.07
+    },
+    "DIXON": {
+      "as_of": "2026-11-19",
+      "close": 13054.0,
+      "move_pct": 3.48,
+      "volume_ratio": 0.84
+    },
     "POLYCAB": {
-      "as_of": "2026-11-18",
-      "close": 7307.5,
-      "move_pct": -5.12,
-      "volume_ratio": 2.68
+      "as_of": "2026-11-19",
+      "close": 7550.0,
+      "move_pct": 3.32,
+      "volume_ratio": 2.93
     },
     "HAL": {
-      "as_of": "2026-11-18",
-      "close": 4675.0,
-      "move_pct": -1.1,
-      "volume_ratio": 0.6
+      "as_of": "2026-11-19",
+      "close": 4760.0,
+      "move_pct": 1.82,
+      "volume_ratio": 0.67
     },
     "KPITTECH": {
-      "as_of": "2026-11-18",
-      "close": 521.75,
-      "move_pct": -1.86,
-      "volume_ratio": 0.71
+      "as_of": "2026-11-19",
+      "close": 522.5,
+      "move_pct": 0.14,
+      "volume_ratio": 0.54
     },
     "PERSISTENT": {
-      "as_of": "2026-11-18",
-      "close": 5857.0,
-      "move_pct": -0.91,
-      "volume_ratio": 0.43
+      "as_of": "2026-11-19",
+      "close": 5880.0,
+      "move_pct": 0.39,
+      "volume_ratio": 0.77
     },
     "CDSL": {
-      "as_of": "2026-11-18",
-      "close": 1416.6,
-      "move_pct": -1.61,
-      "volume_ratio": 1.3
+      "as_of": "2026-11-19",
+      "close": 1423.4,
+      "move_pct": 0.48,
+      "volume_ratio": 0.63
     },
     "DEEPAKNTR": {
-      "as_of": "2026-11-18",
-      "close": 1562.9,
-      "move_pct": -1.71,
-      "volume_ratio": 0.64
+      "as_of": "2026-11-19",
+      "close": 1552.3,
+      "move_pct": -0.68,
+      "volume_ratio": 0.29
     },
     "IRCTC": {
-      "as_of": "2026-11-18",
-      "close": 444.35,
-      "move_pct": -1.11,
-      "volume_ratio": 0.57
+      "as_of": "2026-11-19",
+      "close": 449.9,
+      "move_pct": 1.25,
+      "volume_ratio": 0.61
     },
     "SUZLON": {
-      "as_of": "2026-11-18",
-      "close": 36.13,
-      "move_pct": -2.85,
-      "volume_ratio": 0.56
+      "as_of": "2026-11-19",
+      "close": 36.95,
+      "move_pct": 2.27,
+      "volume_ratio": 0.57
     }
   },
   "filings": [
-    {
-      "id": "106858581",
-      "symbol": "HAL",
-      "company": "Hindustan Aeronautics Limited",
-      "published_at": "2026-11-13T14:17:49+05:30",
-      "category": "management_change",
-      "score": 5,
-      "headline": "Change in Management",
-      "summary": "Hindustan Aeronautics Limited has informed the Exchange about change in Management",
-      "source_url": "https://nsearchives.nseindia.in/corporate/HAL_13112026141735_ChangeInMngt_13112026.pdf",
-      "source": "NSE filing",
-      "tier": "act",
-      "reason": "Management Change"
-    },
     {
       "id": "106862412",
       "symbol": "TRENT",
@@ -233,6 +219,62 @@
       "reason": "Credit Rating"
     },
     {
+      "id": "106867671",
+      "symbol": "TRENT",
+      "company": "Trent Limited",
+      "published_at": "2026-11-20T18:07:41+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Trent Limited has informed the Exchange about Intimation of schedule of Analyst / Institutional Investors Meetings",
+      "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_20112026175823_InvestorAnalystMeeting20112026.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106867596",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-20T17:36:07+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Schedule of meet",
+      "source_url": "https://nsearchives.nseindia.in/corporate/Titan002_20112026173557_SEintimation_20_November.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106867590",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-20T17:32:33+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Schedule of meet",
+      "source_url": "https://nsearchives.nseindia.in/corporate/Titan002_20112026173215_SEintimation_20_Nov.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106867205",
+      "symbol": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "published_at": "2026-11-20T12:13:59+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst /Institutional Investor Meet",
+      "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_20112026121311_InvestorMeetOutcome20112026.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
       "id": "106865393",
       "symbol": "TITAN",
       "company": "Titan Company Limited",
@@ -243,8 +285,14 @@
       "summary": "Titan Company Limited has informed the Exchange about Schedule of meet",
       "source_url": "https://nsearchives.nseindia.in/corporate/TITAN_18112026205330_SEintimation_18_Nov_26.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-19",
+        "close": 4700.0,
+        "move_pct": 1.12,
+        "volume_ratio": 1.15
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · +1.12% price move · 1.15× volume"
     },
     {
       "id": "106865230",
@@ -257,8 +305,14 @@
       "summary": "KPIT Technologies Limited has informed the Exchange about the Outcome of Investor conference held on Wednesday, November 18, 2026.",
       "source_url": "https://nsearchives.nseindia.in/corporate/KPITTECH_18112026183153_KPIT_JM_Financial_India_Xchange_outcome_S.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-19",
+        "close": 522.5,
+        "move_pct": 0.14,
+        "volume_ratio": 0.54
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · +0.14% price move · 0.54× volume"
     },
     {
       "id": "106864004",
@@ -271,14 +325,8 @@
       "summary": "CDSL has informed the Exchange about Schedule of Analyst Call with Comgest to be held on Friday, November 20, 2026",
       "source_url": "https://nsearchives.nseindia.in/corporate/CDSL_17112026182705_ConCallInvite_Nov20_2026_Signed.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 1416.6,
-        "move_pct": -1.61,
-        "volume_ratio": 1.3
-      },
       "tier": "note",
-      "reason": "Earnings Call · -1.61% price move · 1.3× volume"
+      "reason": "Earnings Call"
     },
     {
       "id": "106863565",
@@ -291,14 +339,8 @@
       "summary": "Trent Limited has informed the Exchange about Intimation of schedule of Analyst / Institutional Investors Meetings",
       "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_17112026140114_Investor_Analyst_Meeting_17112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 3190.0,
-        "move_pct": 0.43,
-        "volume_ratio": 1.3
-      },
       "tier": "note",
-      "reason": "Earnings Call · +0.43% price move · 1.3× volume"
+      "reason": "Earnings Call"
     },
     {
       "id": "106862860",
@@ -343,18 +385,18 @@
       "reason": "Earnings Call"
     },
     {
-      "id": "106859406",
-      "symbol": "RELIANCE",
-      "company": "Reliance Industries Limited",
-      "published_at": "2026-11-13T18:25:01+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Please note that the Company executives will be participating in the Institutional Investors' Meeting - Morgan Stanley 25th Annual Asia-Pacific Summit, scheduled to be held on November 18 & 19, 2026 at Singapore. It is…",
-      "source_url": "https://nsearchives.nseindia.in/corporate/kavinavora_13112026182446_SE_13112026.pdf",
+      "id": "106867478",
+      "symbol": "DEEPAKNTR",
+      "company": "Deepak Nitrite Limited",
+      "published_at": "2026-11-20T16:32:00+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "General Updates",
+      "summary": "Deepak Nitrite Limited has informed the Exchange about General Updates",
+      "source_url": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_20112026163129_NSESE20112026.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
       "id": "106866520",
@@ -381,8 +423,14 @@
       "summary": "Infosys Limited has informed the Exchange regarding 'Change in Corporate office address of the Company s Registrar and Share Transfer Agent'.",
       "source_url": "https://nsearchives.nseindia.in/corporate/INFY_18112026221036_SE_filing_17112027__1_.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-19",
+        "close": 1091.9,
+        "move_pct": -1.52,
+        "volume_ratio": 0.85
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · -1.52% price move · 0.85× volume"
     },
     {
       "id": "106865419",
@@ -395,8 +443,14 @@
       "summary": "Infosys Limited has informed the Exchange regarding 'Disclosure Under Regulation 30 Of SEBI LODR Regulations'.",
       "source_url": "https://nsearchives.nseindia.in/corporate/INFY_18112026220604_Reg_30_disclosure_18112026.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-19",
+        "close": 1091.9,
+        "move_pct": -1.52,
+        "volume_ratio": 0.85
+      },
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Other · -1.52% price move · 0.85× volume"
     },
     {
       "id": "106864030",
@@ -409,14 +463,8 @@
       "summary": "This is further to the disclosure dated November 12, 2026 made by the Company. We wish to inform you that the Company executives participated in the Institutional Investors' Meeting - JM Financial India Conference and no…",
       "source_url": "https://nsearchives.nseindia.in/corporate/kavinavora_17112026184407_SE_17112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 1363.0,
-        "move_pct": -0.29,
-        "volume_ratio": 0.86
-      },
       "tier": "routine",
-      "reason": "Other · -0.29% price move · 0.86× volume"
+      "reason": "Other"
     },
     {
       "id": "106863621",
@@ -429,14 +477,8 @@
       "summary": "Infosys Limited has informed the Exchange regarding 'Infosys Positioned as a Leader in the 2026 Gartner® Magic Quadrant for Public Cloud Optimization and Transformation Services for the Fourth Consecutive Year'.",
       "source_url": "https://nsearchives.nseindia.in/corporate/Infosys_17112026145826_PR_17112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 1108.8,
-        "move_pct": -1.88,
-        "volume_ratio": 0.43
-      },
       "tier": "routine",
-      "reason": "Other · -1.88% price move · 0.43× volume"
+      "reason": "Other"
     },
     {
       "id": "106863135",
@@ -449,14 +491,8 @@
       "summary": "Bajaj Finance Limited has informed the Exchange regarding allotment of 114146341 securities pursuant to Qualified Institution Placement at its meeting held on November 17, 2026",
       "source_url": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_17112026082518_BSENSE_Intimationofallotment.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 1093.85,
-        "move_pct": -2.43,
-        "volume_ratio": 0.91
-      },
       "tier": "routine",
-      "reason": "Other · -2.43% price move · 0.91× volume"
+      "reason": "Other"
     },
     {
       "id": "106863079",
@@ -529,32 +565,18 @@
       "reason": "Other"
     },
     {
-      "id": "106858944",
+      "id": "106867839",
       "symbol": "HDFCBANK",
       "company": "HDFC Bank Limited",
-      "published_at": "2026-11-13T16:35:23+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Change in Director(s)",
-      "summary": "HDFC Bank Limited has informed the Exchange regarding Change in Director(s) of the company.",
-      "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_13112026163422_SE_Intimation-_VSR.pdf",
+      "published_at": "2026-11-20T20:43:09+05:30",
+      "category": "routine",
+      "score": 0,
+      "headline": "Shareholders meeting",
+      "summary": "HDFC Bank Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
+      "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK_20112026204256_SE_Intimation_-_PB_Results_-20112026.pdf",
       "source": "NSE filing",
       "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106858223",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-11-13T11:24:22+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "General Updates",
-      "summary": "Trent Limited has informed the Exchange about Reminder letter to shareholders to Dematerialise the Shares",
-      "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_13112026112141_Reg_30_-_Dematerialisation_letter_to_shareholders.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
+      "reason": "Routine"
     },
     {
       "id": "106863688",
@@ -567,14 +589,8 @@
       "summary": "HDFC Bank Limited has informed the Exchange regarding 'Grant of stock options under Employee Stock Option Scheme (ESOS Plan H-2024) and Grant of Restricted Stock Units under Employees Stock Incentive Master Scheme 2022'.",
       "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_17112026155359_SE_Intimation_grant_of_ESOP_17112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 808.15,
-        "move_pct": -0.83,
-        "volume_ratio": 0.55
-      },
       "tier": "routine",
-      "reason": "Routine · -0.83% price move · 0.55× volume"
+      "reason": "Routine"
     },
     {
       "id": "106863558",
@@ -586,26 +602,6 @@
       "headline": "ESOP/ESOS/ESPS",
       "summary": "HDFC Bank Limited has informed the Exchange regarding Allotment of 1412278 Shares.",
       "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_17112026135613_SELetterESOP17112026.pdf",
-      "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-18",
-        "close": 808.15,
-        "move_pct": -0.83,
-        "volume_ratio": 0.55
-      },
-      "tier": "routine",
-      "reason": "Routine · -0.83% price move · 0.55× volume"
-    },
-    {
-      "id": "106858710",
-      "symbol": "IRCTC",
-      "company": "Indian Railway Catering And Tourism Corporation Limited",
-      "published_at": "2026-11-13T15:11:44+05:30",
-      "category": "routine",
-      "score": 0,
-      "headline": "Copy of Newspaper Publication",
-      "summary": "Indian Railway Catering And Tourism Corporation Limited has informed the Exchange about copy of Newspaper Publication regarding Q2FY27 Results.",
-      "source_url": "https://nsearchives.nseindia.in/corporate/IRCTC_13112026151135_Stxintimationnewspaper_Q2.pdf",
       "source": "NSE filing",
       "tier": "routine",
       "reason": "Routine"

@@ -3,7 +3,7 @@
   "company": "Dixon Technologies (India) Ltd",
   "about": "About Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered",
   "source_page": "https://www.screener.in/company/DIXON/consolidated/",
-  "fetched_at": "2026-11-20T02:59:17+05:30",
+  "fetched_at": "2026-11-21T02:34:06+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 20 Nov - Dixon held one-on-one investor meetings with Invesco and ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Memorandum of Understanding /Agreements 16 Nov - Dixon signs asset purchase agreement with Vimal Pla",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=7c441734-0d84-47ac-8fef-831908ec674d.pdf"
     },
@@ -86,10 +90,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS 5 Nov - Company has allotted 37,750 equity shares under DIXON ESOP 2020 on ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdab8a75-541a-4c8e-bd67-a4c1e81d0a22.pdf"
-    },
-    {
-      "label": "Announcement Under Regulation 30 Of SEBI LODR- Intimation Regarding Change In The Corporate Office Of The Registrar And Share Transfer Agent",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d219f169-7be4-4d16-9697-1251e8767e69.pdf"
     }
   ]
 }
