@@ -3,7 +3,7 @@
   "company": "Larsen & Toubro Ltd",
   "about": "About Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets. [1] Key Points Business Segments [1] a) Infrastructure Projects (47% in FY26 vs 51% in FY25): [2] The segment undertak",
   "source_page": "https://www.screener.in/company/LT/consolidated/",
-  "fetched_at": "2026-11-24T06:19:19+05:30",
+  "fetched_at": "2026-11-25T04:32:01+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -54,10 +54,6 @@
   ],
   "transcripts": [
     {
-      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 2 Nov",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d8a69245-c1f1-4bc3-a7c9-9dbc5795aae8.pdf"
-    },
-    {
       "label": "Transcript",
       "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2027AnalysttransL&T-Earnings-Jul28-2026.pdf"
     },
@@ -72,9 +68,17 @@
     {
       "label": "Transcript",
       "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Q2FY26%20Earnings%20Call%20Transcript%20.pdf"
+    },
+    {
+      "label": "Transcript",
+      "url": "https://investors.larsentoubro.com/upload/Analysttrans/FY2026AnalysttransL&T%20Earnings%20Call%20Transcript%20Q1FY26.pdf"
     }
   ],
   "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 24 Nov - L&T to meet investors at Macquarie Foreign Institution",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=18713bc5-f911-4144-abba-ce951a62052b.pdf"
+    },
     {
       "label": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order 23 Nov - L&T's LTN Compute secures large multi-year order to deploy ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6961c994-01be-4b8d-85ac-5c857530ea43.pdf"

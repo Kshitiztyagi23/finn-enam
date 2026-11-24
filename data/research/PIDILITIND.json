@@ -3,7 +3,7 @@
   "company": "Pidilite Industries Ltd",
   "about": "About Pidilite Industries Limited is a leading manufacturer of adhesives and sealants, construction chemicals, craftsmen products, DIY products and polymer emulsions in India. Most of the products have been developed through strong in-house R&D. Our brand name Fevicol has become synonymous with adhesives to millions in India and is ranked amongst the most trusted brands in the country. Some of our other major brands are M-Seal, Fevikwik, Fevistik",
   "source_page": "https://www.screener.in/company/PIDILITIND/consolidated/",
-  "fetched_at": "2026-11-24T06:19:35+05:30",
+  "fetched_at": "2026-11-25T04:32:17+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 24 Nov - Analyst/investor meetings scheduled Dec 1 and Dec 3, 2",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b6d38182-d8dc-4a18-8372-1e544e690640.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 20 Nov - Analyst/investor meetings with Capital International o",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b542f4ce-7d06-4895-b8b9-ef61a103db2b.pdf"
     },
@@ -86,10 +90,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 11 Nov",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=19a29f8d-1072-4a88-8f75-010b3cfd0d84.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Newspaper Publication 30 Oct",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=b7679fc5-9d64-49e1-a834-318f1131b07e.pdf"
     }
   ]
 }
