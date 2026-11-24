@@ -3,7 +3,7 @@
   "company": "Dixon Technologies (India) Ltd",
   "about": "About Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered",
   "source_page": "https://www.screener.in/company/DIXON/consolidated/",
-  "fetched_at": "2026-11-21T02:34:06+05:30",
+  "fetched_at": "2026-11-24T06:19:25+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -54,7 +54,7 @@
   ],
   "transcripts": [
     {
-      "label": "Announcement under Regulation 30 (LODR)-Earnings Call Transcript 5 Nov - Announcement under Regulation 30 of SEBI LODR- Transcript of the Q2",
+      "label": "Transcript",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=995a3a71-4a1e-4c1f-a29a-6c6747e4ca10.pdf"
     },
     {
@@ -76,6 +76,14 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 23 Nov - Dixon Technologies held virtual one-on-one investor meeti",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a7322e4c-db56-440d-b959-598efb0d2ad4.pdf"
+    },
+    {
+      "label": "Announcement Under Regulation 30 Of SEBI LODR-Update 21 Nov - Dixon consummates Vimal Plast asset acquisition for up to ₹49.75 crore on 21 N",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20a44726-e8b7-4a23-b0e8-ab8638aff9f7.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 20 Nov - Dixon held one-on-one investor meetings with Invesco and ",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf"
     },
@@ -86,10 +94,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 16 Nov - Dixon Technologies held a one-on-one virtual investor mee",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9f32b982-5393-4f42-a661-adcbc5db6d12.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS 5 Nov - Company has allotted 37,750 equity shares under DIXON ESOP 2020 on ",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=bdab8a75-541a-4c8e-bd67-a4c1e81d0a22.pdf"
     }
   ]
 }

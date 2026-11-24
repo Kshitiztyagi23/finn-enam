@@ -3,7 +3,7 @@
   "company": "Larsen & Toubro Ltd",
   "about": "About Larsen & Toubro Ltd is a multinational conglomerate which is primarily engaged in providing engineering, procurement and construction (EPC) solutions in key sectors such as Infrastructure, Hydrocarbon, Power, Process Industries and Defence, Information Technology and Financial Services in domestic and international markets. [1] Key Points Business Segments [1] a) Infrastructure Projects (47% in FY26 vs 51% in FY25): [2] The segment undertak",
   "source_page": "https://www.screener.in/company/LT/consolidated/",
-  "fetched_at": "2026-11-21T02:34:00+05:30",
+  "fetched_at": "2026-11-24T06:19:19+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,16 +76,16 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Award_of_Order_Receipt_of_Order 23 Nov - L&T's LTN Compute secures large multi-year order to deploy ",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=6961c994-01be-4b8d-85ac-5c857530ea43.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s) 9 Nov - L&T wins Noida Metro order for 15.1 km viaduc",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8269aea9-54c0-4a24-a615-6dda0ab8f054.pdf"
     },
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 6 Nov - L&T to attend Goldman Sachs, CITIC CLSA and JM Financia",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=9e23e65f-ffbd-4e61-be8c-a57227966831.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR) - Bagging/receiving of order(s) or contract(s) 2 Nov - L&T wins significant residential and commerci",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=86cb66bf-7e97-4d77-a803-40ae7750d8f2.pdf"
     }
   ]
 }
