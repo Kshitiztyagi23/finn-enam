@@ -3,7 +3,7 @@
   "company": "HDFC Bank Ltd",
   "about": "About HDFC Bank Limited (also known as HDFC) is an Indian banking and financial services company headquartered in Mumbai. It is India's largest private sector bank by assets and the world's tenth-largest bank by market capitalization as of May 2024. As of April 2024, HDFC Bank has a market capitalization of $145 billion, making it the third-largest company on the Indian stock exchanges. [1] Key Points Market Position: The company is India's one o",
   "source_page": "https://www.screener.in/company/HDFCBANK/consolidated/",
-  "fetched_at": "2026-11-25T04:32:00+05:30",
+  "fetched_at": "2026-11-26T03:59:06+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -65,6 +65,10 @@
     }
   ],
   "recent_filings": [
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Change in Directorate 25 Nov - HDFC Bank reappoints Harsh Kumar Bhanwala as Independent Director for",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=74191bfa-12e0-4cc3-9e25-56875f02c1a5.pdf"
+    },
     {
       "label": "Announcement under Regulation 30 (LODR)-Allotment of ESOP / ESPS 17 Nov - Allotment of 14,12,278 equity shares pursuant to the exercise of E",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=3c252309-6a76-41db-b704-e8c0e51c8d14.pdf"

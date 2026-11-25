@@ -3,7 +3,7 @@
   "company": "Bajaj Finance Ltd",
   "about": "About Bajaj Finance is mainly engaged in the business of lending. BFL has a diversified lending portfolio across retail, SME and commercial customers with a significant presence in urban and rural India. It also accepts public and corporate deposits and offers variety of financial services products to its customers.(Source : 202003 Annual Report Page No:124) Key Points Business Overview: [1] The company is India's largest private-sector Non-Banki",
   "source_page": "https://www.screener.in/company/BAJFINANCE/consolidated/",
-  "fetched_at": "2026-11-25T04:32:02+05:30",
+  "fetched_at": "2026-11-26T03:59:09+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -66,16 +66,20 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 25 Nov - Bajaj Finance schedules institutional investor group m",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=382a5cb7-2a3d-42ad-bb0e-ba1f7fa27e96.pdf"
+    },
+    {
+      "label": "Announcement under Regulation 30 (LODR)-Allotment 25 Nov - Allots 1,42,700 NCDs of ₹1 lakh each, aggregating ₹1,440.75 crore at 8.70%, matur",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=f8212d38-80c0-434c-993a-a5a7a13c84d4.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Allotment 17 Nov - Bajaj Finance allotted 11.41 crore shares in QIP at ₹1,025, raising about ₹11,700",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=a6d81afd-41a5-496e-b6f3-228f23346f39.pdf"
     },
     {
       "label": "Announcement under Regulation 30 (LODR)-Meeting Updates 11 Nov - Bajaj Finance opens QIP on Nov 11, 2026; floor price set at ₹992.25 per sha",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=4dc63132-8d0c-4836-b74b-f289525d6384.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Allotment 10 Nov - Approved allotment of 5.74 crore warrants to Bajaj Finserv at Rs 1,010 each.",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=84c0dbf5-4b55-41b9-ab7b-e20d9fe359a9.pdf"
     }
   ]
 }
