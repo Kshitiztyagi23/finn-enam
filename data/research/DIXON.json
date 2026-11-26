@@ -3,7 +3,7 @@
   "company": "Dixon Technologies (India) Ltd",
   "about": "About Dixon Technologies (India) Limited, incorporated in 1993 , is a Electronic Manufacturing Services (EMS) company with operations in the electronic products vertical such as consumer electronics, lighting, home appliance, closed-circuit television cameras (CCTVs), and mobile phones. It also undertakes reverse logistics operations. Besides, it manufactures security surveillance equipment, wearables & audibles, AC-PCBs. Recently, it has entered",
   "source_page": "https://www.screener.in/company/DIXON/consolidated/",
-  "fetched_at": "2026-11-26T03:59:14+05:30",
+  "fetched_at": "2026-11-27T03:49:15+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 26 Nov - Dixon held one-on-one investor meetings with Balyasny and",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=52ed09c6-75e8-4cfb-a12f-8e9aa7dcaded.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 25 Nov - Dixon to attend Nirmal Bang Consumer Durables Conferen",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=fbd3b5bc-27f4-4acb-bca2-3b1ea57f0d9b.pdf"
     },
@@ -90,10 +94,6 @@
     {
       "label": "Announcement Under Regulation 30 Of SEBI LODR-Update 21 Nov - Dixon consummates Vimal Plast asset acquisition for up to ₹49.75 crore on 21 N",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=20a44726-e8b7-4a23-b0e8-ab8638aff9f7.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Outcome 20 Nov - Dixon held one-on-one investor meetings with Invesco and ",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=68d52f83-69e0-4d96-9cc5-c772d7503218.pdf"
     }
   ]
 }
