@@ -3,7 +3,7 @@
   "company": "Titan Company Ltd",
   "about": "About Titan Company Ltd is among India’s most respected lifestyle companies. It has established leadership positions in the Watches, Jewellery and Eyewear categories led by its trusted brands and differentiated customer experience. It was founded in 1984 as a joint-venture between TATA Group and Tamilnadu Industrial Development Corporation (TIDCO). [1] Key Points Part of the Tata Group [1] [2] The company benefits from its association with the Ta",
   "source_page": "https://www.screener.in/company/TITAN/consolidated/",
-  "fetched_at": "2026-11-27T03:49:12+05:30",
+  "fetched_at": "2026-11-28T03:27:19+05:30",
   "quarters": {
     "quarter": "Sep 2026",
     "values": {
@@ -76,6 +76,10 @@
   ],
   "recent_filings": [
     {
+      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 27 Nov - Analyst/investor meetings scheduled Dec 2-3, 2026, phy",
+      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=866fb4fe-ca21-4edb-8f11-961cbf2d3d0a.pdf"
+    },
+    {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 26 Nov - Titan schedules one-on-one investor meeting with Picte",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=5bd3469f-dcbc-4af7-8f79-4d6a4764dffe.pdf"
     },
@@ -86,10 +90,6 @@
     {
       "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 20 Nov - Titan to meet Aikya Investment Management one-on-one o",
       "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=d70fe384-bfdc-4970-ad4a-0f13a9338ce8.pdf"
-    },
-    {
-      "label": "Announcement under Regulation 30 (LODR)-Analyst / Investor Meet - Intimation 20 Nov - Titan schedules one-on-one physical investor meeting w",
-      "url": "https://www.bseindia.com/stockinfo/AnnPdfOpen.aspx?Pname=8529d1fe-52f9-4f61-9391-cca43d8f9c31.pdf"
     }
   ]
 }

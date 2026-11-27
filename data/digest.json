@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T03:48:53+05:30",
+  "generated_at": "2026-11-28T03:27:00+05:30",
   "window_days": 7,
   "portfolio": [
     {
@@ -95,112 +95,112 @@
   ],
   "prices": {
     "RELIANCE": {
-      "as_of": "2026-11-25",
-      "close": 1373.9,
-      "move_pct": 1.7,
-      "volume_ratio": 0.89
+      "as_of": "2026-11-26",
+      "close": 1396.2,
+      "move_pct": 1.62,
+      "volume_ratio": 0.93
     },
     "HDFCBANK": {
-      "as_of": "2026-11-25",
-      "close": 846.2,
-      "move_pct": 3.47,
-      "volume_ratio": 1.18
+      "as_of": "2026-11-26",
+      "close": 862.0,
+      "move_pct": 1.87,
+      "volume_ratio": 1.68
     },
     "INFY": {
-      "as_of": "2026-11-25",
-      "close": 1130.0,
-      "move_pct": 2.41,
-      "volume_ratio": 1.23
+      "as_of": "2026-11-26",
+      "close": 1183.0,
+      "move_pct": 4.69,
+      "volume_ratio": 1.49
     },
     "LT": {
-      "as_of": "2026-11-25",
-      "close": 4156.0,
-      "move_pct": 1.37,
-      "volume_ratio": 0.57
+      "as_of": "2026-11-26",
+      "close": 4132.1,
+      "move_pct": -0.58,
+      "volume_ratio": 0.52
     },
     "BAJFINANCE": {
-      "as_of": "2026-11-25",
-      "close": 1131.35,
-      "move_pct": 3.27,
-      "volume_ratio": 1.06
-    },
-    "SUNPHARMA": {
-      "as_of": "2026-11-25",
-      "close": 1901.0,
-      "move_pct": 2.2,
-      "volume_ratio": 1.0
-    },
-    "TITAN": {
-      "as_of": "2026-11-25",
-      "close": 4686.6,
-      "move_pct": 0.14,
-      "volume_ratio": 0.82
-    },
-    "TRENT": {
-      "as_of": "2026-11-25",
-      "close": 3319.6,
-      "move_pct": 3.48,
-      "volume_ratio": 1.84
-    },
-    "ETERNAL": {
-      "as_of": "2026-11-25",
-      "close": 371.7,
-      "move_pct": 2.65,
-      "volume_ratio": 1.24
-    },
-    "DIXON": {
-      "as_of": "2026-11-25",
-      "close": 12978.0,
-      "move_pct": -3.08,
-      "volume_ratio": 1.34
-    },
-    "POLYCAB": {
-      "as_of": "2026-11-25",
-      "close": 7379.0,
-      "move_pct": -0.69,
-      "volume_ratio": 1.4
-    },
-    "HAL": {
-      "as_of": "2026-11-25",
-      "close": 4936.0,
-      "move_pct": 3.26,
-      "volume_ratio": 1.22
-    },
-    "KPITTECH": {
-      "as_of": "2026-11-25",
-      "close": 516.0,
-      "move_pct": -1.81,
-      "volume_ratio": 0.53
-    },
-    "PERSISTENT": {
-      "as_of": "2026-11-25",
-      "close": 6120.0,
-      "move_pct": -2.59,
+      "as_of": "2026-11-26",
+      "close": 1097.85,
+      "move_pct": -2.96,
       "volume_ratio": 0.78
     },
+    "SUNPHARMA": {
+      "as_of": "2026-11-26",
+      "close": 1915.7,
+      "move_pct": 0.77,
+      "volume_ratio": 0.96
+    },
+    "TITAN": {
+      "as_of": "2026-11-26",
+      "close": 4631.1,
+      "move_pct": -1.18,
+      "volume_ratio": 0.81
+    },
+    "TRENT": {
+      "as_of": "2026-11-26",
+      "close": 3262.6,
+      "move_pct": -1.72,
+      "volume_ratio": 0.5
+    },
+    "ETERNAL": {
+      "as_of": "2026-11-26",
+      "close": 367.7,
+      "move_pct": -1.08,
+      "volume_ratio": 1.04
+    },
+    "DIXON": {
+      "as_of": "2026-11-26",
+      "close": 12718.0,
+      "move_pct": -2.0,
+      "volume_ratio": 1.07
+    },
+    "POLYCAB": {
+      "as_of": "2026-11-26",
+      "close": 7350.0,
+      "move_pct": -0.39,
+      "volume_ratio": 1.39
+    },
+    "HAL": {
+      "as_of": "2026-11-26",
+      "close": 4909.6,
+      "move_pct": -0.53,
+      "volume_ratio": 0.83
+    },
+    "KPITTECH": {
+      "as_of": "2026-11-26",
+      "close": 522.2,
+      "move_pct": 1.2,
+      "volume_ratio": 0.44
+    },
+    "PERSISTENT": {
+      "as_of": "2026-11-26",
+      "close": 6200.0,
+      "move_pct": 1.31,
+      "volume_ratio": 0.79
+    },
     "CDSL": {
-      "as_of": "2026-11-25",
-      "close": 1413.0,
-      "move_pct": 1.29,
-      "volume_ratio": 0.59
+      "as_of": "2026-11-26",
+      "close": 1441.0,
+      "move_pct": 1.98,
+      "volume_ratio": 1.11
     },
     "DEEPAKNTR": {
-      "as_of": "2026-11-25",
-      "close": 1494.4,
-      "move_pct": -1.74,
-      "volume_ratio": 0.33
+      "as_of": "2026-11-26",
+      "close": 1521.8,
+      "move_pct": 1.83,
+      "volume_ratio": 0.25
     },
     "IRCTC": {
-      "as_of": "2026-11-25",
-      "close": 441.85,
-      "move_pct": -1.2,
-      "volume_ratio": 1.12
+      "as_of": "2026-11-26",
+      "close": 454.2,
+      "move_pct": 2.8,
+      "volume_ratio": 0.86
     },
     "SUZLON": {
-      "as_of": "2026-11-25",
-      "close": 36.13,
-      "move_pct": 0.75,
-      "volume_ratio": 0.55
+      "as_of": "2026-11-26",
+      "close": 36.29,
+      "move_pct": 0.44,
+      "volume_ratio": 0.48
     }
   },
   "filings": [
@@ -247,6 +247,48 @@
       "reason": "Credit Rating"
     },
     {
+      "id": "106873141",
+      "symbol": "KPITTECH",
+      "company": "KPIT Technologies Limited",
+      "published_at": "2026-11-27T19:49:43+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "KPIT Technologies Limited has informed the Exchange about the Outcome of Investor conference held on Friday, November 27, 2026.",
+      "source_url": "https://nsearchives.nseindia.in/corporate/KPITTECH_27112026194907_KPIT_Kotak_Midcap_Conference_outcome_S.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106872860",
+      "symbol": "TITAN",
+      "company": "Titan Company Limited",
+      "published_at": "2026-11-27T16:47:01+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Titan Company Limited has informed the Exchange about Schedule of Analysts / Institutional Investors Meeting",
+      "source_url": "https://nsearchives.nseindia.in/corporate/Titan002_27112026164524_SEintimation_27_Nov.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
+      "id": "106872655",
+      "symbol": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "published_at": "2026-11-27T14:18:49+05:30",
+      "category": "earnings_call",
+      "score": 2,
+      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
+      "summary": "Dixon Technologies (India) Limited has informed the Exchange about Analyst/Institutional Investor Meet Outcome",
+      "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_27112026141544_InvestorMeetOutcome27112026.pdf",
+      "source": "NSE filing",
+      "tier": "note",
+      "reason": "Earnings Call"
+    },
+    {
       "id": "106872055",
       "symbol": "SUNPHARMA",
       "company": "Sun Pharmaceutical Industries Limited",
@@ -285,8 +327,14 @@
       "summary": "Trent Limited has informed the Exchange about Intimation of schedule of Analyst / Institutional Investors Meeting",
       "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_26112026143736_InvestorAnalystMeeting261120261.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 3262.6,
+        "move_pct": -1.72,
+        "volume_ratio": 0.5
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · -1.72% price move · 0.5× volume"
     },
     {
       "id": "106871411",
@@ -299,8 +347,14 @@
       "summary": "Dixon Technologies (India) Limited has informed the Exchange about Analyst/Institutional Investor Meet",
       "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_26112026111744_InvestorMeetOutcome26112026.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 12718.0,
+        "move_pct": -2.0,
+        "volume_ratio": 1.07
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · -2% price move · 1.07× volume"
     },
     {
       "id": "106871395",
@@ -313,8 +367,14 @@
       "summary": "Trent Limited has informed the Exchange about Intimation of schedule of Analyst / Institutional Investors Meetings",
       "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_26112026105032_InvestorAnalystMeeting26112026.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 3262.6,
+        "move_pct": -1.72,
+        "volume_ratio": 0.5
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · -1.72% price move · 0.5× volume"
     },
     {
       "id": "106870784",
@@ -327,8 +387,14 @@
       "summary": "Bajaj Finance Limited has informed the Exchange about Schedule of Investor meet to be held on 7 December 2026",
       "source_url": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_25112026184120_BSENSE_Intimation_Investor_meet.pdf",
       "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 1097.85,
+        "move_pct": -2.96,
+        "volume_ratio": 0.78
+      },
       "tier": "note",
-      "reason": "Earnings Call"
+      "reason": "Earnings Call · -2.96% price move · 0.78× volume"
     },
     {
       "id": "106870505",
@@ -341,28 +407,34 @@
       "summary": "Dixon Technologies (India) Limited has informed the Exchange about Schedule of meet",
       "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_25112026163756_InvestorMeetIntimation25112026.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106870309",
-      "symbol": "BAJFINANCE",
-      "company": "Bajaj Finance Limited",
-      "published_at": "2026-11-25T12:55:34+05:30",
-      "category": "other",
-      "score": 2,
-      "headline": "Allotment of Securities",
-      "summary": "Bajaj Finance Limited has informed the Exchange regarding allotment of 142700 Non Convertible Securities at its meeting held on November 25, 2026",
-      "source_url": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_25112026125508_REG30_Allotment_intimation_291_T10.pdf",
-      "source": "NSE filing",
       "price": {
-        "as_of": "2026-11-25",
-        "close": 1131.35,
-        "move_pct": 3.27,
-        "volume_ratio": 1.06
+        "as_of": "2026-11-26",
+        "close": 12718.0,
+        "move_pct": -2.0,
+        "volume_ratio": 1.07
       },
       "tier": "note",
-      "reason": "Other · +3.27% price move · 1.06× volume"
+      "reason": "Earnings Call · -2% price move · 1.07× volume"
+    },
+    {
+      "id": "106870398",
+      "symbol": "INFY",
+      "company": "Infosys Limited",
+      "published_at": "2026-11-25T15:00:58+05:30",
+      "category": "other",
+      "score": 2,
+      "headline": "Updates",
+      "summary": "Infosys Limited has informed the Exchange regarding 'Infosys Becomes the World s First Organization to Achieve CMMI AI Maturity (AIM) Level 5'.",
+      "source_url": "https://nsearchives.nseindia.in/corporate/Infosys_25112026150030_PR_25112026.pdf",
+      "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 1183.0,
+        "move_pct": 4.69,
+        "volume_ratio": 1.49
+      },
+      "tier": "note",
+      "reason": "Other · +4.69% price move · 1.49× volume"
     },
     {
       "id": "106870219",
@@ -376,13 +448,13 @@
       "source_url": "https://nsearchives.nseindia.in/corporate/PAM_25112026112131_PressRelease25112026.pdf",
       "source": "NSE filing",
       "price": {
-        "as_of": "2026-11-25",
-        "close": 4156.0,
-        "move_pct": 1.37,
-        "volume_ratio": 0.57
+        "as_of": "2026-11-26",
+        "close": 4132.1,
+        "move_pct": -0.58,
+        "volume_ratio": 0.52
       },
       "tier": "note",
-      "reason": "Press Release · +1.37% price move · 0.57× volume"
+      "reason": "Press Release · -0.58% price move · 0.52× volume"
     },
     {
       "id": "106869755",
@@ -395,34 +467,8 @@
       "summary": "Larsen & Toubro Limited has informed the Exchange about Schedule of meet",
       "source_url": "https://nsearchives.nseindia.in/corporate/PAM_24112026173302_Intimation24112026.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-25",
-        "close": 4156.0,
-        "move_pct": 1.37,
-        "volume_ratio": 0.57
-      },
       "tier": "note",
-      "reason": "Earnings Call · +1.37% price move · 0.57× volume"
-    },
-    {
-      "id": "106869612",
-      "symbol": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "published_at": "2026-11-24T15:04:54+05:30",
-      "category": "other",
-      "score": 2,
-      "headline": "Appointment",
-      "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Appointment of Ms Aruna Jayanthi (DIN: 00817860) as Other of the company w.e.f. November 24, 2026.",
-      "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_24112026150148_Reg30DisclosureArunaJayanthi24112026.pdf",
-      "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-25",
-        "close": 12978.0,
-        "move_pct": -3.08,
-        "volume_ratio": 1.34
-      },
-      "tier": "note",
-      "reason": "Other · -3.08% price move · 1.34× volume"
+      "reason": "Earnings Call"
     },
     {
       "id": "106869094",
@@ -467,60 +513,18 @@
       "reason": "Press Release"
     },
     {
-      "id": "106867671",
-      "symbol": "TRENT",
-      "company": "Trent Limited",
-      "published_at": "2026-11-20T18:07:41+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Trent Limited has informed the Exchange about Intimation of schedule of Analyst / Institutional Investors Meetings",
-      "source_url": "https://nsearchives.nseindia.in/corporate/TRENT_20112026175823_InvestorAnalystMeeting20112026.pdf",
+      "id": "106872720",
+      "symbol": "PERSISTENT",
+      "company": "Persistent Systems Limited",
+      "published_at": "2026-11-27T14:48:23+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "General Updates",
+      "summary": "Persistent Systems Limited has informed the Exchange about General Updates",
+      "source_url": "https://nsearchives.nseindia.in/corporate/PERSISTENTUSER1_27112026144800_IntimationofscheduledpurchasefromthesecondarymarketNov2026Sd.pdf",
       "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106867596",
-      "symbol": "TITAN",
-      "company": "Titan Company Limited",
-      "published_at": "2026-11-20T17:36:07+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Titan Company Limited has informed the Exchange about Schedule of meet",
-      "source_url": "https://nsearchives.nseindia.in/corporate/Titan002_20112026173557_SEintimation_20_November.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106867590",
-      "symbol": "TITAN",
-      "company": "Titan Company Limited",
-      "published_at": "2026-11-20T17:32:33+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Titan Company Limited has informed the Exchange about Schedule of meet",
-      "source_url": "https://nsearchives.nseindia.in/corporate/Titan002_20112026173215_SEintimation_20_Nov.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
-    },
-    {
-      "id": "106867205",
-      "symbol": "DIXON",
-      "company": "Dixon Technologies (India) Limited",
-      "published_at": "2026-11-20T12:13:59+05:30",
-      "category": "earnings_call",
-      "score": 2,
-      "headline": "Analysts/Institutional Investor Meet/Con. Call Updates",
-      "summary": "Dixon Technologies (India) Limited has informed the Exchange about Outcome of Analyst /Institutional Investor Meet",
-      "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_20112026121311_InvestorMeetOutcome20112026.pdf",
-      "source": "NSE filing",
-      "tier": "note",
-      "reason": "Earnings Call"
+      "tier": "routine",
+      "reason": "Other"
     },
     {
       "id": "106872100",
@@ -547,28 +551,14 @@
       "summary": "HDFC Bank Limited has informed the Exchange regarding Change in Director(s) of the company.",
       "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK3_25112026180104_SE_intimation-_HKB.pdf",
       "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Other"
-    },
-    {
-      "id": "106870398",
-      "symbol": "INFY",
-      "company": "Infosys Limited",
-      "published_at": "2026-11-25T15:00:58+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "Updates",
-      "summary": "Infosys Limited has informed the Exchange regarding 'Infosys Becomes the World s First Organization to Achieve CMMI AI Maturity (AIM) Level 5'.",
-      "source_url": "https://nsearchives.nseindia.in/corporate/Infosys_25112026150030_PR_25112026.pdf",
-      "source": "NSE filing",
       "price": {
-        "as_of": "2026-11-25",
-        "close": 1130.0,
-        "move_pct": 2.41,
-        "volume_ratio": 1.23
+        "as_of": "2026-11-26",
+        "close": 862.0,
+        "move_pct": 1.87,
+        "volume_ratio": 1.68
       },
       "tier": "routine",
-      "reason": "Other · +2.41% price move · 1.23× volume"
+      "reason": "Other · +1.87% price move · 1.68× volume"
     },
     {
       "id": "106870338",
@@ -582,13 +572,47 @@
       "source_url": "https://nsearchives.nseindia.in/corporate/SUZLON1_25112026133102_Suzlon25112026.pdf",
       "source": "NSE filing",
       "price": {
-        "as_of": "2026-11-25",
-        "close": 36.13,
-        "move_pct": 0.75,
-        "volume_ratio": 0.55
+        "as_of": "2026-11-26",
+        "close": 36.29,
+        "move_pct": 0.44,
+        "volume_ratio": 0.48
       },
       "tier": "routine",
-      "reason": "Other · +0.75% price move · 0.55× volume"
+      "reason": "Other · +0.44% price move · 0.48× volume"
+    },
+    {
+      "id": "106870309",
+      "symbol": "BAJFINANCE",
+      "company": "Bajaj Finance Limited",
+      "published_at": "2026-11-25T12:55:34+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "Allotment of Securities",
+      "summary": "Bajaj Finance Limited has informed the Exchange regarding allotment of 142700 Non Convertible Securities at its meeting held on November 25, 2026",
+      "source_url": "https://nsearchives.nseindia.in/corporate/BAJFINANCE_25112026125508_REG30_Allotment_intimation_291_T10.pdf",
+      "source": "NSE filing",
+      "price": {
+        "as_of": "2026-11-26",
+        "close": 1097.85,
+        "move_pct": -2.96,
+        "volume_ratio": 0.78
+      },
+      "tier": "routine",
+      "reason": "Other · -2.96% price move · 0.78× volume"
+    },
+    {
+      "id": "106869612",
+      "symbol": "DIXON",
+      "company": "Dixon Technologies (India) Limited",
+      "published_at": "2026-11-24T15:04:54+05:30",
+      "category": "other",
+      "score": 1,
+      "headline": "Appointment",
+      "summary": "Dixon Technologies (India) Limited has informed the Exchange regarding Appointment of Ms Aruna Jayanthi (DIN: 00817860) as Other of the company w.e.f. November 24, 2026.",
+      "source_url": "https://nsearchives.nseindia.in/corporate/DIXON_24112026150148_Reg30DisclosureArunaJayanthi24112026.pdf",
+      "source": "NSE filing",
+      "tier": "routine",
+      "reason": "Other"
     },
     {
       "id": "106869480",
@@ -601,14 +625,8 @@
       "summary": "Polycab India Limited has informed the Exchange about Analyst(s)/Investor(s) meet.",
       "source_url": "https://nsearchives.nseindia.in/corporate/POLYCAB_24112026104607_Intimationtostockexchange.pdf",
       "source": "NSE filing",
-      "price": {
-        "as_of": "2026-11-25",
-        "close": 7379.0,
-        "move_pct": -0.69,
-        "volume_ratio": 1.4
-      },
       "tier": "routine",
-      "reason": "Other · -0.69% price move · 1.4× volume"
+      "reason": "Other"
     },
     {
       "id": "106868790",
@@ -653,18 +671,18 @@
       "reason": "Other"
     },
     {
-      "id": "106867478",
-      "symbol": "DEEPAKNTR",
-      "company": "Deepak Nitrite Limited",
-      "published_at": "2026-11-20T16:32:00+05:30",
-      "category": "other",
-      "score": 1,
-      "headline": "General Updates",
-      "summary": "Deepak Nitrite Limited has informed the Exchange about General Updates",
-      "source_url": "https://nsearchives.nseindia.in/corporate/DEEPAKNTR_20112026163129_NSESE20112026.pdf",
+      "id": "106872810",
+      "symbol": "HDFCBANK",
+      "company": "HDFC Bank Limited",
+      "published_at": "2026-11-27T16:12:40+05:30",
+      "category": "routine",
+      "score": 0,
+      "headline": "Copy of Newspaper Publication",
+      "summary": "HDFC Bank Limited has informed the Exchange about Copy of Newspaper Publication",
+      "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK_27112026160926_SEspecialwindowfortransferAdv27112026.pdf",
       "source": "NSE filing",
       "tier": "routine",
-      "reason": "Other"
+      "reason": "Routine"
     },
     {
       "id": "106868122",
@@ -676,20 +694,6 @@
       "headline": "Copy of Newspaper Publication",
       "summary": "Newspaper Advertisements about opening of Special Window for transfer of physical shares",
       "source_url": "https://nsearchives.nseindia.in/corporate/SUNSEC_21112026124625_SEIntimationSpecialWindow21112026_signed.pdf",
-      "source": "NSE filing",
-      "tier": "routine",
-      "reason": "Routine"
-    },
-    {
-      "id": "106867839",
-      "symbol": "HDFCBANK",
-      "company": "HDFC Bank Limited",
-      "published_at": "2026-11-20T20:43:09+05:30",
-      "category": "routine",
-      "score": 0,
-      "headline": "Shareholders meeting",
-      "summary": "HDFC Bank Limited has submitted the Exchange a copy Srutinizers report of Postal Ballot. Further, the company has informed the Exchange regarding voting results.",
-      "source_url": "https://nsearchives.nseindia.in/corporate/HDFCBANK_20112026204256_SE_Intimation_-_PB_Results_-20112026.pdf",
       "source": "NSE filing",
       "tier": "routine",
       "reason": "Routine"
